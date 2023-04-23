@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Chat</title>
+    <style>
+      #chatbox {
+        border: 1px solid #ccc;
+        height: 300px;
+        margin-bottom: 10px;
+        overflow: auto;
+        padding: 10px;
+      }
+      #input {
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="chatbox"></div>
+    <input type="text" id="input" placeholder="Digite sua mensagem">
+    <button onclick="sendMessage()">Enviar</button>
+    <script>
+      const SERVER_IP = "localhost:8080"; // Insira o endereço IP do servidor aqui, com o número da porta
+      
+      function sendMessage() {
+        var input = document.getElementById("input");
+        var chatbox = document.getElementById("chatbox");
+        chatbox.innerHTML += "<p><strong>Você:</strong> " + input.value + "</p>";
+        input.value = "";
+        chatbox.scrollTop = chatbox.scrollHeight;
+      }
+    </script>
+  </body>
+</html>
