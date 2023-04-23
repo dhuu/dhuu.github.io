@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Redirecionamento para o Google Brasil</title>
+</head>
+<body>
+
+	<h2>Por favor, faça login para acessar o Google Brasil:</h2>
+
+	<form action="https://www.google.com.br/" onsubmit="return validarFormulario()">
+		<label for="usuario">Usuário:</label>
+		<input type="text" id="usuario" name="usuario"><br><br>
+		<label for="senha">Senha:</label>
+		<input type="password" id="senha" name="senha"><br><br>
+		<input type="submit" value="Acessar">
+	</form>
+
+	<script>
+		function validarFormulario() {
+			var usuarioInserido = document.getElementById("usuario").value;
+			var senhaInserida = document.getElementById("senha").value;
+			if (usuarioInserido != "jose" || senhaInserida != "12345") {
+				alert("Usuário ou senha incorretos! Tente novamente.");
+				return false;
+			}
+			return true;
+		}
+	</script>
+
+</body>
+</html>

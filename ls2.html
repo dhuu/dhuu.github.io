@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Redirecionamento para o Google Brasil</title>
+</head>
+<body>
+
+	<h2>Por favor, insira a senha para acessar o Google Brasil:</h2>
+
+	<form action="https://www.google.com.br/">
+		<label for="senha">Senha:</label>
+		<input type="password" id="senha" name="senha"><br><br>
+		<input type="submit" value="Acessar" onclick="validarSenha()">
+	</form>
+
+	<script>
+		function validarSenha() {
+			var senhaInserida = document.getElementById("senha").value;
+			if (senhaInserida != "12345") {
+				alert("Senha incorreta! Tente novamente.");
+				event.preventDefault();
+			}
+		}
+	</script>
+
+</body>
+</html>
