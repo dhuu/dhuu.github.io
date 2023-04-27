@@ -959,7 +959,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #70c7be;
+		background-color: #5f109c;
 		border-radius: 4px;
 		border: 0;
 		color: #ffffff !important;
@@ -979,7 +979,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #82cec6;
+			background-color: #0fb00c;
 		}
 
 		input[type="submit"]:active,
