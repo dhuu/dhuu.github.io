@@ -1,4 +1,90 @@
-<script language=javascript>
-pag = prompt("Digite o serviço","") + '.html'
-top.location.href = pag;
+<html><head>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .container {
+      max-width: 400px;
+      background-color: #fff;
+      border: 2px solid #333;
+      border-radius: 10px;
+      padding: 10px;
+    }
+
+    input[type="text"],
+    input[type="password"] {
+      width: 50%;
+      padding: 10px;
+      margin: 5px 0;
+    }
+
+    input[type="button"] {
+      background-color: #333;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      width: 100%;
+    }
+
+    input[type="button"]:hover {
+      background-color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <form name="login">
+      <h2>Coloque usuário e senha</h2>
+      <input id="tradutor" type="text" placeholder="Usuário">
+      <input id="datahora" type="password" placeholder="Senha">
+      <input type="button" value="Entrar" onclick="checkLogin()">
+	  
+        <span style="font-weight: bolder;"><br><br>
+        <p id="message"></p>
+    
+  </span></form></div>
+
+<script>
+    function checkLogin() {
+        var tradutor = document.getElementById("tradutor").value;
+        var datahora = document.getElementById("datahora").value;
+
+        if ((tradutor === "1" && datahora === "1") ||
+            (tradutor === "2" && datahora === "2") ||
+            (tradutor === "3" && datahora === "3") ||
+            (tradutor === "4" && datahora === "4") ||
+            (tradutor === "5" && datahora === "5") ||
+            (tradutor === "6" && datahora === "6") ||
+            (tradutor === "7" && datahora === "7")) {
+            if (tradutor === "1") {   
+                window.location.href = "../1.html";
+            } else if (tradutor === "2") {  			
+                window.location.href = "." + "://" + "z" + "m" + "o" + "d" + "0" + "." + "b" + "l" + "o" + "g" + "s" + "p" + "o" + "t" + "." + "c" + "o" + "m" + "/" + "p" + "/" + "m" + "e" + "n" + "u" + "." + "h" + "t" + "m" + "l";
+            } else if (tradutor === "3") {          
+                window.location.href = "http" + "://" + "z" + "m" + "o" + "d" + "0" + "." + "b" + "l" + "o" + "g" + "s" + "p" + "o" + "t" + "." + "c" + "o" + "m" + "/" + "p" + "/" + "m" + "e" + "n" + "u" + "." + "h" + "t" + "m" + "l";
+            } else if (tradutor === "4") {                
+                window.location.href = "http" + "://" + "z" + "m" + "o" + "d" + "0" + "." + "b" + "l" + "o" + "g" + "s" + "p" + "o" + "t" + "." + "c" + "o" + "m" + "/" + "p" + "/" + "m" + "e" + "n" + "u" + "." + "h" + "t" + "m" + "l";
+            } else if (tradutor === "5") {          
+                window.location.href = "http" + "://" + "z" + "m" + "o" + "d" + "0" + "." + "b" + "l" + "o" + "g" + "s" + "p" + "o" + "t" + "." + "c" + "o" + "m" + "/" + "p" + "/" + "m" + "e" + "n" + "u" + "." + "h" + "t" + "m" + "l";
+            } else if (tradutor === "6") {                
+                window.location.href = "http" + "://" + "z" + "m" + "o" + "d" + "0" + "." + "b" + "l" + "o" + "g" + "s" + "p" + "o" + "t" + "." + "c" + "o" + "m" + "/" + "p" + "/" + "m" + "e" + "n" + "u" + "." + "h" + "t" + "m" + "l";
+            } else if (tradutor === "7") {                
+                window.location.href = "http" + "://" + "z" + "m" + "o" + "d" + "0" + "." + "b" + "l" + "o" + "g" + "s" + "p" + "o" + "t" + "." + "c" + "o" + "m" + "/" + "p" + "/" + "m" + "e" + "n" + "u" + "." + "h" + "t" + "m" + "l";
+            }
+        } else {
+            document.getElementById("message").innerHTML = "Login ou senha incorretos. Tente novamente.";
+        }
+    }
 </script>
+
+
+</body></html>
