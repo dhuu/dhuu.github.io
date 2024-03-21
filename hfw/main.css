@@ -1196,7 +1196,7 @@
 		-ms-justify-content: center;
 		justify-content: center;
 		padding: 8em 4em 6em 4em;
-		min-height: 70vh;
+		min-height: auto;
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
