@@ -50,7 +50,7 @@ if(fwv==="4.82"){
 	gadget_mod14_addr=0x633860,
 	gadget_mod15_addr=0x39D038,
 	gadget_mod16_addr=0x4F732C;}
-if(fwv==="4.84"){
+if((fwv==="4.84")||(fwv==="4.92")){
 	var toc_addr=0x6F5558,
 	default_vsh_pub_toc=0x6ED5AC,
 	vsh_opd_patch=0x96D5C,
@@ -140,7 +140,7 @@ if(fwv==="4.85"){
 	gadget_mod14_addr=0x633900,
 	gadget_mod15_addr=0x39D038,
 	gadget_mod16_addr=0x4F732C;}
-if((fwv==="4.86")||(fwv==="4.87")||(fwv==="4.88")||(fwv==="4.89")||(fwv==="4.91")||(fwv==="4.92")){
+if((fwv==="4.86")||(fwv==="4.87")||(fwv==="4.88")||(fwv==="4.89")||(fwv==="4.91")){
 	var toc_addr=0x6F5558,
 	default_vsh_pub_toc=0x6ED5AC,
 	vsh_opd_patch=0x96D5C,
@@ -672,4 +672,5 @@ function triggerX()
 }
 initROP(true);
 </script>
+
 
