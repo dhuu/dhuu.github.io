@@ -1,58 +1,67 @@
 {
-    "name": "Lords of the Fallen CUSA00369",
-    "tag": "CUSA00369",
-    "total_size": 5579603968,
-    "number_of_parts": 10,
-    "parts": [
+    "originalFileSize": 5579603968,
+    "packageDigest": "ABB71E8B7BBEC0CD87F2D63495230107BE695B72182F93E29F7EB0209D567F2F",
+    "numberOfSplitFiles": 10,
+    "pieces": [
         {
-            "name": "Lords_of_the_Fallen_CUSA00369_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/Lords_of_the_Fallen_CUSA00369_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/Lords_of_the_Fallen_CUSA00369_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "ABB71E8B7BBEC0CD87F2D63495230107BE695B72"
         },
         {
-            "name": "Lords_of_the_Fallen_CUSA00369_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/Lords_of_the_Fallen_CUSA00369_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/Lords_of_the_Fallen_CUSA00369_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F790773FF790E5F98C52C7015D7598C928A03E9D"
         },
         {
-            "name": "Lords_of_the_Fallen_CUSA00369_2.pkg",
-            "size": 1521473536,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/Lords_of_the_Fallen_CUSA00369_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/Lords_of_the_Fallen_CUSA00369_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 1521473536,
+            "hashValue": "CDE91F241C7384E378BA3BA4B1A4BBF00993A674"
         },
         {
-            "name": "Lords_of_the_Fallen_UP_v103_CUSA00369.pkg",
-            "size": 51838976,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/Lords_of_the_Fallen_UP_v103_CUSA00369.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/Lords_of_the_Fallen_UP_v103_CUSA00369.pkg",
+            "fileOffset": 5521473536,
+            "fileSize": 51838976,
+            "hashValue": "63153A28A0270E7C5ED4F90CA63E97BAEA8B01C6"
         },
         {
-            "name": "UP4321_CUSA00369_00_ANCIENTLABYRINTH.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/UP4321_CUSA00369_00_ANCIENTLABYRINTH.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/UP4321_CUSA00369_00_ANCIENTLABYRINTH.pkg",
+            "fileOffset": 5573312512,
+            "fileSize": 1048576,
+            "hashValue": "8595D275D3C1D8F7E288467749946585CEF73955"
         },
         {
-            "name": "UP4321_CUSA00369_00_DEMONICWEAPONS01.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/UP4321_CUSA00369_00_DEMONICWEAPONS01.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/UP4321_CUSA00369_00_DEMONICWEAPONS01.pkg",
+            "fileOffset": 5574361088,
+            "fileSize": 1048576,
+            "hashValue": "ACD604A2ECADF31E2585E1C3E87FD47823B1FE7A"
         },
         {
-            "name": "UP4321_CUSA00369_00_MONKSDECIPHER001.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/UP4321_CUSA00369_00_MONKSDECIPHER001.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/UP4321_CUSA00369_00_MONKSDECIPHER001.pkg",
+            "fileOffset": 5575409664,
+            "fileSize": 1048576,
+            "hashValue": "E027B3192DBBBA1B4B953AFD8CF5288FC4BA9FDE"
         },
         {
-            "name": "UP4321_CUSA00369_00_STARTUPBOOST1101.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/UP4321_CUSA00369_00_STARTUPBOOST1101.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/UP4321_CUSA00369_00_STARTUPBOOST1101.pkg",
+            "fileOffset": 5576458240,
+            "fileSize": 1048576,
+            "hashValue": "A3404240CBC542E0B7DD10D4B2FEE76F1843E760"
         },
         {
-            "name": "UP4321_CUSA00369_00_STARTUPBOOST2202.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/UP4321_CUSA00369_00_STARTUPBOOST2202.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/UP4321_CUSA00369_00_STARTUPBOOST2202.pkg",
+            "fileOffset": 5577506816,
+            "fileSize": 1048576,
+            "hashValue": "82C5348E06E7E28B2F6A2025BF660332A58ECECC"
         },
         {
-            "name": "UP4321_CUSA00369_00_THELIONHEARTPACK.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/UP4321_CUSA00369_00_THELIONHEARTPACK.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00369/UP4321_CUSA00369_00_THELIONHEARTPACK.pkg",
+            "fileOffset": 5578555392,
+            "fileSize": 1048576,
+            "hashValue": "3AEC4D6BEC59A7C715F24D304FDEFF3C8B5962A2"
         }
     ]
 }

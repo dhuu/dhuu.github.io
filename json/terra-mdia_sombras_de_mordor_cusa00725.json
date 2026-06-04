@@ -1,203 +1,241 @@
 {
-    "name": "Terra-média Sombras de Mordor CUSA00725",
-    "tag": "CUSA00725",
-    "total_size": 36179345408,
-    "number_of_parts": 39,
-    "parts": [
+    "originalFileSize": 36179345408,
+    "packageDigest": "57AD77E841FEAB1FB3C3F56929927E9E87BA719EA19ADFE45D9C316525F741CD",
+    "numberOfSplitFiles": 39,
+    "pieces": [
         {
-            "name": "game_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "57AD77E841FEAB1FB3C3F56929927E9E87BA719E"
         },
         {
-            "name": "game_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F990B431D2B0374171B5517968FFC95DA34948C7"
         },
         {
-            "name": "game_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5AF52E2EE6D5EDDCEC400731ACAA076CAFABB6EF"
         },
         {
-            "name": "game_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1707B025006D2D5AC12289895E731FC1936AF000"
         },
         {
-            "name": "game_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "39E1DD2279AE7BBA046497B1744D164ABB8D84B9"
         },
         {
-            "name": "game_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "10155D18C6CCA01D9303DD416EC9AAB82A407DC9"
         },
         {
-            "name": "game_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "063AE7FB66B6E5ACF899BBEC7A4351C67D1F7679"
         },
         {
-            "name": "game_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9809209FB8E7AC87F5A98E66BF67C6FD3FDFE6DA"
         },
         {
-            "name": "game_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "8E169D5C4A9A5C77745A3BB083639066181D9EB7"
         },
         {
-            "name": "game_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "909105CA2D3A089BB3A3B99A20CB9FFFC770AF34"
         },
         {
-            "name": "game_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4097290715845E16100DA51139336DE48BA542DB"
         },
         {
-            "name": "game_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2D2982A0126FA24C116BD9F4D17108EB9713804F"
         },
         {
-            "name": "game_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5FA1067C9A9CB226D68C05E9217C2355E94F1DD0"
         },
         {
-            "name": "game_13.pkg",
-            "size": 1823177728,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/game_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 1823177728,
+            "hashValue": "7D5D52C730BE1597EC0C91E1033D199976F0EFA4"
         },
         {
-            "name": "UP1018_CUSA00725_00_BLOODYHUNTERS001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_BLOODYHUNTERS001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_BLOODYHUNTERS001_A0000_V0100.pkg",
+            "fileOffset": 27823177728,
+            "fileSize": 1048576,
+            "hashValue": "C4FD500E3ADEF95FB659FB86BF5120B92E19D29D"
         },
         {
-            "name": "UP1018_CUSA00725_00_CAPTAINOFBG00001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_CAPTAINOFBG00001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_CAPTAINOFBG00001_A0000_V0100.pkg",
+            "fileOffset": 27824226304,
+            "fileSize": 1048576,
+            "hashValue": "F2D14C7A4460E19662BDA97C93608D0A9CD4DD3B"
         },
         {
-            "name": "UP1018_CUSA00725_00_CHALLENGEMODE001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_CHALLENGEMODE001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_CHALLENGEMODE001_A0000_V0100.pkg",
+            "fileOffset": 27825274880,
+            "fileSize": 1048576,
+            "hashValue": "0FB5300C1660D552E831CA33801FBD41C188B89F"
         },
         {
-            "name": "UP1018_CUSA00725_00_DARKRANGER000001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_DARKRANGER000001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_DARKRANGER000001_A0000_V0100.pkg",
+            "fileOffset": 27826323456,
+            "fileSize": 1048576,
+            "hashValue": "C9D93879924357D8C76E2D83B648A0B7451BA204"
         },
         {
-            "name": "UP1018_CUSA00725_00_DEADLYARCHER0001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_DEADLYARCHER0001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_DEADLYARCHER0001_A0000_V0100.pkg",
+            "fileOffset": 27827372032,
+            "fileSize": 1048576,
+            "hashValue": "DA4BF17224BCBD44544C3532F4E20DBB88FE1971"
         },
         {
-            "name": "UP1018_CUSA00725_00_ENDLESSCHALLENGE_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_ENDLESSCHALLENGE_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_ENDLESSCHALLENGE_A0000_V0100.pkg",
+            "fileOffset": 27828420608,
+            "fileSize": 1048576,
+            "hashValue": "F917CBA2912131D316650825E17928D373C5710C"
         },
         {
-            "name": "UP1018_CUSA00725_00_FLAMEOFARNOR0001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_FLAMEOFARNOR0001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_FLAMEOFARNOR0001_A0000_V0100.pkg",
+            "fileOffset": 27829469184,
+            "fileSize": 1048576,
+            "hashValue": "929C7BBD4FA193C60BDFDDE98C9AAACEA740ED64"
         },
         {
-            "name": "UP1018_CUSA00725_00_FLESHBURNERS0001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_FLESHBURNERS0001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_FLESHBURNERS0001_A0000_V0100.pkg",
+            "fileOffset": 27830517760,
+            "fileSize": 1048576,
+            "hashValue": "9CF9A690616C5C0B93572CE69F63F794C2769A33"
         },
         {
-            "name": "UP1018_CUSA00725_00_GUARDIANSOFEYE01_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_GUARDIANSOFEYE01_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_GUARDIANSOFEYE01_A0000_V0100.pkg",
+            "fileOffset": 27831566336,
+            "fileSize": 1048576,
+            "hashValue": "2E8B23A0C2541C98EA4A3341CF27704B104A9B8C"
         },
         {
-            "name": "UP1018_CUSA00725_00_HIDDENBLADE00001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_HIDDENBLADE00001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_HIDDENBLADE00001_A0000_V0100.pkg",
+            "fileOffset": 27832614912,
+            "fileSize": 1048576,
+            "hashValue": "3B265B410359F6296010B6CEEB7C8F0E26637690"
         },
         {
-            "name": "UP1018_CUSA00725_00_LORDOFTHEHUNTDL1_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_LORDOFTHEHUNTDL1_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_LORDOFTHEHUNTDL1_A0000_V0100.pkg",
+            "fileOffset": 27833663488,
+            "fileSize": 1048576,
+            "hashValue": "051CB13243789C957D0C8C4AE8A07D6F2749C4B1"
         },
         {
-            "name": "UP1018_CUSA00725_00_MESOMSEASONPASS1_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_MESOMSEASONPASS1_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_MESOMSEASONPASS1_A0000_V0100.pkg",
+            "fileOffset": 27834712064,
+            "fileSize": 1048576,
+            "hashValue": "5349462C0BEBACAC99CF10F81716A98FC06F4CDA"
         },
         {
-            "name": "UP1018_CUSA00725_00_ORCSLAYER0000001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_ORCSLAYER0000001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_ORCSLAYER0000001_A0000_V0100.pkg",
+            "fileOffset": 27835760640,
+            "fileSize": 1048576,
+            "hashValue": "516335B0D64A18C850E1AC4615D6B49363674131"
         },
         {
-            "name": "UP1018_CUSA00725_00_POWEROFSHADOW001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_POWEROFSHADOW001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_POWEROFSHADOW001_A0000_V0100.pkg",
+            "fileOffset": 27836809216,
+            "fileSize": 1048576,
+            "hashValue": "D10C4F18A853C569CF2A757246C4290EB79D9D8F"
         },
         {
-            "name": "UP1018_CUSA00725_00_RISINGSTORM00001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_RISINGSTORM00001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_RISINGSTORM00001_A0000_V0100.pkg",
+            "fileOffset": 27837857792,
+            "fileSize": 1048576,
+            "hashValue": "BA4B45199B30D46342BD954158FC4D1A464F7B02"
         },
         {
-            "name": "UP1018_CUSA00725_00_SKULLCRUSHERS001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_SKULLCRUSHERS001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_SKULLCRUSHERS001_A0000_V0100.pkg",
+            "fileOffset": 27838906368,
+            "fileSize": 1048576,
+            "hashValue": "E4898EFC4DE6F91CF8921146115F1C6BDAEF4843"
         },
         {
-            "name": "UP1018_CUSA00725_00_TESTOFSPEED00001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_TESTOFSPEED00001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_TESTOFSPEED00001_A0000_V0100.pkg",
+            "fileOffset": 27839954944,
+            "fileSize": 1048576,
+            "hashValue": "2EA89DC2D2550F8BA33A460507E541698B306C01"
         },
         {
-            "name": "UP1018_CUSA00725_00_TESTOFWISDOM0001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_TESTOFWISDOM0001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_TESTOFWISDOM0001_A0000_V0100.pkg",
+            "fileOffset": 27841003520,
+            "fileSize": 1048576,
+            "hashValue": "DE91C86E36E3DADF376AF46644AF9758C2161C04"
         },
         {
-            "name": "UP1018_CUSA00725_00_THEBERSERKS00001_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_THEBERSERKS00001_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_THEBERSERKS00001_A0000_V0100.pkg",
+            "fileOffset": 27842052096,
+            "fileSize": 1048576,
+            "hashValue": "2F635BF2082B2B22646BC6C4B7F389099BD5BDF7"
         },
         {
-            "name": "UP1018_CUSA00725_00_THEBRIGHTLORDDL2_A0000_V0100.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_THEBRIGHTLORDDL2_A0000_V0100.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/UP1018_CUSA00725_00_THEBRIGHTLORDDL2_A0000_V0100.pkg",
+            "fileOffset": 27843100672,
+            "fileSize": 1048576,
+            "hashValue": "5E37F4EB817FB85CAC4F1945DD76422641F0CEFC"
         },
         {
-            "name": "update-v1.10_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/update-v1.10_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/update-v1.10_0.pkg",
+            "fileOffset": 27844149248,
+            "fileSize": 2000000000,
+            "hashValue": "FBBEE9FD78EC829C3B505E8F72ED7B5C4C561EFE"
         },
         {
-            "name": "update-v1.10_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/update-v1.10_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/update-v1.10_1.pkg",
+            "fileOffset": 29844149248,
+            "fileSize": 2000000000,
+            "hashValue": "8103024A936D6F3F576EEAC40019978F25DE37C1"
         },
         {
-            "name": "update-v1.10_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/update-v1.10_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/update-v1.10_2.pkg",
+            "fileOffset": 31844149248,
+            "fileSize": 2000000000,
+            "hashValue": "956963C672DA220E9F13B9439617EAB990A100FD"
         },
         {
-            "name": "update-v1.10_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/update-v1.10_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/update-v1.10_3.pkg",
+            "fileOffset": 33844149248,
+            "fileSize": 2000000000,
+            "hashValue": "7561FA0A86A64EFEBFE3F5C9DCDD42A1738E802D"
         },
         {
-            "name": "update-v1.10_4.pkg",
-            "size": 335196160,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/update-v1.10_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00725/update-v1.10_4.pkg",
+            "fileOffset": 35844149248,
+            "fileSize": 335196160,
+            "hashValue": "270914E3AFD898F7061EEFDD07D6BFFE7E0E6D4D"
         }
     ]
 }

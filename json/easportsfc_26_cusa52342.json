@@ -1,228 +1,271 @@
 {
-    "name": "EASPORTSFC 26 CUSA52342",
-    "tag": "CUSA52342",
-    "total_size": 85357559808,
-    "number_of_parts": 44,
-    "parts": [
+    "originalFileSize": 85357559808,
+    "packageDigest": "EB720E32650FE3C401E32315E3E86AADD5041054CADA0FC317FC1BA069899E2E",
+    "numberOfSplitFiles": 44,
+    "pieces": [
         {
-            "name": "EASPORTSFC26_CUSA52342_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "EB720E32650FE3C401E32315E3E86AADD5041054"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "02DC3B8C13016FC919B3D1322F802D4DC843D125"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "FA714CC4AC22A49E4062398EFE391F7D37F95350"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_BASE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E6999C9C096EC1B4AB843C67A2E7C788B4CA410C"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_BASE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3C0A6D15B87FDA1EB2C0EAB54CADB2E5F444F7E1"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_BASE_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3C89BC6815EF1E5FB38819DCB48B5D93B2BE2BA5"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_BASE_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "38643838F634CA88C117DC0B0950D3E7F5A70EE5"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_BASE_7.pkg",
-            "size": 1947202560,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_BASE_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 1947202560,
+            "hashValue": "9E176AFC684EA4B68E48319062966EA09EA6DEAD"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_UNLOCK_OFFLINE.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_UNLOCK_OFFLINE.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_UNLOCK_OFFLINE.pkg",
+            "fileOffset": 15947202560,
+            "fileSize": 1048576,
+            "hashValue": "6270E698AA520BD76C0D3EAD39C7DFB054EA0AC9"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_0.pkg",
+            "fileOffset": 15948251136,
+            "fileSize": 2000000000,
+            "hashValue": "067D7B60677C290D007E4C5E6C19CE0DDC74E298"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_1.pkg",
+            "fileOffset": 17948251136,
+            "fileSize": 2000000000,
+            "hashValue": "96EAF2CB867C9A103E64BCCF9D54B119FDB01E5A"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_2.pkg",
+            "fileOffset": 19948251136,
+            "fileSize": 2000000000,
+            "hashValue": "E092B6E5BE6FF4B4628B6BCE38706416933F0DF8"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_3.pkg",
+            "fileOffset": 21948251136,
+            "fileSize": 2000000000,
+            "hashValue": "74620F13EBE82724F3E27ED2C1E15ED6C10D00B6"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_4.pkg",
+            "fileOffset": 23948251136,
+            "fileSize": 2000000000,
+            "hashValue": "81A3CCFE98AF8BC7BC5C31120122A155A198D4D5"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_5.pkg",
+            "fileOffset": 25948251136,
+            "fileSize": 2000000000,
+            "hashValue": "12ADBCCD6251E5875FB3F09D19FB1F1DA7FB43B9"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_6.pkg",
+            "fileOffset": 27948251136,
+            "fileSize": 2000000000,
+            "hashValue": "2521F6120F7C38E07B77A3B8253196FE7E308B2B"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_7.pkg",
+            "fileOffset": 29948251136,
+            "fileSize": 2000000000,
+            "hashValue": "FF641176D617BB117805DE467718623560665CC6"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_8.pkg",
+            "fileOffset": 31948251136,
+            "fileSize": 2000000000,
+            "hashValue": "B4DB44F9EAAF918C4C2042A502E921A42B2E4D02"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_9.pkg",
+            "fileOffset": 33948251136,
+            "fileSize": 2000000000,
+            "hashValue": "77B3F677BEA25785C270823D35634FD4B0130725"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_10.pkg",
+            "fileOffset": 35948251136,
+            "fileSize": 2000000000,
+            "hashValue": "E86F03155596750464C7317A9BEF11E8F418FA88"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_11.pkg",
+            "fileOffset": 37948251136,
+            "fileSize": 2000000000,
+            "hashValue": "6E035396D850322B4BD072CAEBEED15845460EF2"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_12.pkg",
+            "fileOffset": 39948251136,
+            "fileSize": 2000000000,
+            "hashValue": "4DA033BEE6887085AE84EEBBFCE28395A770054F"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_13.pkg",
+            "fileOffset": 41948251136,
+            "fileSize": 2000000000,
+            "hashValue": "A1AEE40258B4527D248E761CF501595FF2C1CDA9"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_14.pkg",
+            "fileOffset": 43948251136,
+            "fileSize": 2000000000,
+            "hashValue": "7F25B72616C8CFC7F50FA3B887C47B1F4691B1DE"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_15.pkg",
+            "fileOffset": 45948251136,
+            "fileSize": 2000000000,
+            "hashValue": "30D470897FF3D67865B9B72CED9B741629CF6874"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_16.pkg",
+            "fileOffset": 47948251136,
+            "fileSize": 2000000000,
+            "hashValue": "9DC79B6C8952F56C434070EE53E39EC7737167D5"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_17.pkg",
+            "fileOffset": 49948251136,
+            "fileSize": 2000000000,
+            "hashValue": "B2797D6C29D8AAFD25FD04B18CC3FF663C568EF6"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_18.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_18.pkg",
+            "fileOffset": 51948251136,
+            "fileSize": 2000000000,
+            "hashValue": "6E1A530F3B552F4AF7B6CFD1EEEF89962FA7392B"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_19.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_19.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_19.pkg",
+            "fileOffset": 53948251136,
+            "fileSize": 2000000000,
+            "hashValue": "CB8DA7F1DCBEBE19B98B73DB99EFEBA312C330D4"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_20.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_20.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_20.pkg",
+            "fileOffset": 55948251136,
+            "fileSize": 2000000000,
+            "hashValue": "D7A6129534061654A08850335AD566B97B7A628B"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_21.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_21.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_21.pkg",
+            "fileOffset": 57948251136,
+            "fileSize": 2000000000,
+            "hashValue": "23FD5051A0EAF6D9A817E818CA02DCE909E022A4"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_22.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_22.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_22.pkg",
+            "fileOffset": 59948251136,
+            "fileSize": 2000000000,
+            "hashValue": "1D71E0C2FB2B040DD40395A9BBA35CA910111EDC"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_23.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_23.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_23.pkg",
+            "fileOffset": 61948251136,
+            "fileSize": 2000000000,
+            "hashValue": "58E80B0FA52C99BA41C825A36488810F73B7088D"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_24.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_24.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_24.pkg",
+            "fileOffset": 63948251136,
+            "fileSize": 2000000000,
+            "hashValue": "10326632D432EE84986089D41D60CBD724A29967"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_25.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_25.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_25.pkg",
+            "fileOffset": 65948251136,
+            "fileSize": 2000000000,
+            "hashValue": "929B0F15BF60CD83B05D092739F9396F0D25F9DB"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_26.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_26.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_26.pkg",
+            "fileOffset": 67948251136,
+            "fileSize": 2000000000,
+            "hashValue": "8558680195A73A5DD99A2BABAAB7CEC935562A24"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_27.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_27.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_27.pkg",
+            "fileOffset": 69948251136,
+            "fileSize": 2000000000,
+            "hashValue": "226BA36889F09C382CFC4E09788C726F526088E0"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_28.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_28.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_28.pkg",
+            "fileOffset": 71948251136,
+            "fileSize": 2000000000,
+            "hashValue": "62AE4A768E15CEA33D124423A3307ED287BCD2ED"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_29.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_29.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_29.pkg",
+            "fileOffset": 73948251136,
+            "fileSize": 2000000000,
+            "hashValue": "7AF3CE2B36E5238234A550F4376727C0740A7885"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_30.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_30.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_30.pkg",
+            "fileOffset": 75948251136,
+            "fileSize": 2000000000,
+            "hashValue": "4268FFB1C507BB39DDDD60F3A2792DF0B7779686"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_31.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_31.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_31.pkg",
+            "fileOffset": 77948251136,
+            "fileSize": 2000000000,
+            "hashValue": "2263222E034241CCF7A2DC5FBA220CAB5C2E6E33"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_32.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_32.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_32.pkg",
+            "fileOffset": 79948251136,
+            "fileSize": 2000000000,
+            "hashValue": "99496864B30739E693A60F393EDC973BAE80F927"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_33.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_33.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_33.pkg",
+            "fileOffset": 81948251136,
+            "fileSize": 2000000000,
+            "hashValue": "C675B33E3928DE754A2F933E3FC5C70DF3F7EE05"
         },
         {
-            "name": "EASPORTSFC26_CUSA52342_v117_UPDATE_34.pkg",
-            "size": 1409308672,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_34.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA52342/EASPORTSFC26_CUSA52342_v117_UPDATE_34.pkg",
+            "fileOffset": 83948251136,
+            "fileSize": 1409308672,
+            "hashValue": "2C99457D163537F91C78FFCA3E799DD72A81161B"
         }
     ]
 }

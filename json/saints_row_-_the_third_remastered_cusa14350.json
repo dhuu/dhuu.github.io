@@ -1,173 +1,205 @@
 {
-    "name": "Saints Row - The Third™ Remastered CUSA14350",
-    "tag": "CUSA14350",
-    "total_size": 64198672384,
-    "number_of_parts": 33,
-    "parts": [
+    "originalFileSize": 64198672384,
+    "packageDigest": "B128E87F231E1E3F1C9044E2F7DD4C2008DC319B2749CB6201E01B6AD16B585D",
+    "numberOfSplitFiles": 33,
+    "pieces": [
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "B128E87F231E1E3F1C9044E2F7DD4C2008DC319B"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "634C781A09A5EB2FD6567684FC9B9B69A7B6453F"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3FC9500FB6791935199DD0D0E0A181E76B96D644"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "23B2F43CCD6B88ABE596FE153E56C759E3FDF4BF"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D7A261A0AC6BC9A76C6189052531DFB6BEC9EEC2"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "54D201186E1B7D2A01E0241FEAED60D2ACEF1810"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "19884301E4340FE7E95A9622284F4853466E1E46"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D77EA15F62521A01DE2356173DEE714D7B436BD2"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "6FD7EA5DC61A84CA6B3522BA0AA6DC545504C280"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5A6535D61FE91FD0139850B6C73249F8F478C817"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "77AB0C674DD4338B47140B34303F20B17AAFE44B"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9ABA85C4D1A1C1492D13CD509DF8AF4CB9AE2290"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "CCC9A56A7A03930020E5A49003AEF3948DBD85F9"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "71CCD25A74F637E16E65055882EAB60B1AAC6A29"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C476350E8A6F140F12ADD687C8AD599AA16F9FA9"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "FAF35083736DA1D14543DB0E260D45EB55DB0379"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "DDF0DB79F1B8140AD2C1BB07D9581E2C9F4FA826"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2AA793ECC74FC5C9EB0589251C502283451DCADB"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_18.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C14DAE31180E647D7551F8AB3064D9AB4D11779E"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_CUSA14350_BASE_19.pkg",
-            "size": 1440023552,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_19.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_CUSA14350_BASE_19.pkg",
+            "fileOffset": 38000000000,
+            "fileSize": 1440023552,
+            "hashValue": "F82E014A055A3E88C4C61DAE89B5FF7CD6570298"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_0.pkg",
+            "fileOffset": 39440023552,
+            "fileSize": 2000000000,
+            "hashValue": "0ABEA6984BF2660BB7B97FD21BB22A03A08C8074"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_1.pkg",
+            "fileOffset": 41440023552,
+            "fileSize": 2000000000,
+            "hashValue": "5B177E9B67FE58CAED85970269BD150A6565BCE0"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_2.pkg",
+            "fileOffset": 43440023552,
+            "fileSize": 2000000000,
+            "hashValue": "1EFB92026C607EC7ADFAF5B975B4ADA3C064FDFF"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_3.pkg",
+            "fileOffset": 45440023552,
+            "fileSize": 2000000000,
+            "hashValue": "1E9ADC5EB7F98394B1E8458DB54EE9CA1093B407"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_4.pkg",
+            "fileOffset": 47440023552,
+            "fileSize": 2000000000,
+            "hashValue": "819BEE6E09E4C118281EDC3A89FD8B0D23A7B6A5"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_5.pkg",
+            "fileOffset": 49440023552,
+            "fileSize": 2000000000,
+            "hashValue": "8AE152BC06DF6D5018439372C71BA9618845972B"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_6.pkg",
+            "fileOffset": 51440023552,
+            "fileSize": 2000000000,
+            "hashValue": "214CB2285CE6D539159E6FF5CC0360C36EE48D4F"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_7.pkg",
+            "fileOffset": 53440023552,
+            "fileSize": 2000000000,
+            "hashValue": "DBA5325729DA2736F0AE24D0D8130EFE6CFCCB97"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_8.pkg",
+            "fileOffset": 55440023552,
+            "fileSize": 2000000000,
+            "hashValue": "ACCC17412EAE2A7CB2537DCE99A901C7FD90931A"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_9.pkg",
+            "fileOffset": 57440023552,
+            "fileSize": 2000000000,
+            "hashValue": "90F42AB30B292FDFA79183C9D6B5FA74425FEE33"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_10.pkg",
+            "fileOffset": 59440023552,
+            "fileSize": 2000000000,
+            "hashValue": "6BDA2E6E507840BDAD4FAEC77FE271F1975EEF23"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_11.pkg",
+            "fileOffset": 61440023552,
+            "fileSize": 2000000000,
+            "hashValue": "D80D77CE20A7C5841C39019A2BBC646571E1528C"
         },
         {
-            "name": "Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_12.pkg",
-            "size": 758648832,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14350/Saints_Row_The_Third_Remastered_v111_CUSA14350_UPDATE_12.pkg",
+            "fileOffset": 63440023552,
+            "fileSize": 758648832,
+            "hashValue": "F0DE3D6EB86135F579993A9DE07DC7D17E6F2C49"
         }
     ]
 }

@@ -1,53 +1,61 @@
 {
-    "name": "Song Of Horror CUSA20539",
-    "tag": "CUSA20539",
-    "total_size": 15409086464,
-    "number_of_parts": 9,
-    "parts": [
+    "originalFileSize": 15409086464,
+    "packageDigest": "9C80B3193475BB829C5BBFB19A845DA97BA72732643E6287591AA785CB0F77FB",
+    "numberOfSplitFiles": 9,
+    "pieces": [
         {
-            "name": "Song_Of_Horror_CUSA20539_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_CUSA20539_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_CUSA20539_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "9C80B3193475BB829C5BBFB19A845DA97BA72732"
         },
         {
-            "name": "Song_Of_Horror_CUSA20539_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_CUSA20539_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_CUSA20539_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BFE305C61D6DFE189190384B7EC1B42B36343B38"
         },
         {
-            "name": "Song_Of_Horror_CUSA20539_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_CUSA20539_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_CUSA20539_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "16D47F01B3EF2070D6EE6F58815827C93598960D"
         },
         {
-            "name": "Song_Of_Horror_CUSA20539_3.pkg",
-            "size": 1039746048,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_CUSA20539_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_CUSA20539_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 1039746048,
+            "hashValue": "B3F5901843D1DEC88A41D732A12261E18127C498"
         },
         {
-            "name": "Song_Of_Horror_UP_v103_CUSA20539_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_UP_v103_CUSA20539_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_UP_v103_CUSA20539_0.pkg",
+            "fileOffset": 7039746048,
+            "fileSize": 2000000000,
+            "hashValue": "81BCEB97A2A18751AF74E1DA56A452EB840909C4"
         },
         {
-            "name": "Song_Of_Horror_UP_v103_CUSA20539_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_UP_v103_CUSA20539_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_UP_v103_CUSA20539_1.pkg",
+            "fileOffset": 9039746048,
+            "fileSize": 2000000000,
+            "hashValue": "551FF31918DD405111B9ABB03EB89EBE2E15BCAF"
         },
         {
-            "name": "Song_Of_Horror_UP_v103_CUSA20539_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_UP_v103_CUSA20539_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_UP_v103_CUSA20539_2.pkg",
+            "fileOffset": 11039746048,
+            "fileSize": 2000000000,
+            "hashValue": "6C95202BEE2440BFFB82ED01C555A294E82C5087"
         },
         {
-            "name": "Song_Of_Horror_UP_v103_CUSA20539_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_UP_v103_CUSA20539_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_UP_v103_CUSA20539_3.pkg",
+            "fileOffset": 13039746048,
+            "fileSize": 2000000000,
+            "hashValue": "B3B3DDE5AE8A9AC995F0D2A1B67CF97EB1A11E21"
         },
         {
-            "name": "Song_Of_Horror_UP_v103_CUSA20539_4.pkg",
-            "size": 369340416,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_UP_v103_CUSA20539_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA20539/Song_Of_Horror_UP_v103_CUSA20539_4.pkg",
+            "fileOffset": 15039746048,
+            "fileSize": 369340416,
+            "hashValue": "8B8F90FFAEBBBC9297DF44D01132BC637E4A1B37"
         }
     ]
 }

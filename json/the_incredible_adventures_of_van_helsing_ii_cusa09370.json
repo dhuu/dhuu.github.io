@@ -1,73 +1,85 @@
 {
-    "name": "The Incredible Adventures of Van Helsing II CUSA09370",
-    "tag": "CUSA09370",
-    "total_size": 8830386176,
-    "number_of_parts": 13,
-    "parts": [
+    "originalFileSize": 8830386176,
+    "packageDigest": "A742C82251556491C5E2EA22894D9C7145D949B7303A51686B8C801BC97C5818",
+    "numberOfSplitFiles": 13,
+    "pieces": [
         {
-            "name": "The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "A742C82251556491C5E2EA22894D9C7145D949B7"
         },
         {
-            "name": "The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "08503F1513C5F508D62C2D1FC283B293FF19E4D7"
         },
         {
-            "name": "The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "74FA521792543D95A95BB312FB97FA27745FCE6D"
         },
         {
-            "name": "The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "266277F30A5F785CE660BD09780E5910BE9D33E6"
         },
         {
-            "name": "The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_4.pkg",
-            "size": 700624896,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/The_Incredible_Adventures_of_Van_Helsing_II_CUSA09370_BASE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 700624896,
+            "hashValue": "0069CF3A0AB6D7C4395E7B56DA84250876A11CBD"
         },
         {
-            "name": "The_Incredible_Adventures_of_Van_Helsing_II_v1_03_CUSA09370_UPDATE.pkg",
-            "size": 122421248,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/The_Incredible_Adventures_of_Van_Helsing_II_v1_03_CUSA09370_UPDATE.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/The_Incredible_Adventures_of_Van_Helsing_II_v1_03_CUSA09370_UPDATE.pkg",
+            "fileOffset": 8700624896,
+            "fileSize": 122421248,
+            "hashValue": "B2146EACB7BF146B2F8261B01761FD25B5603E14"
         },
         {
-            "name": "UP1263_CUSA09370_00_VH2THATRABBIT001.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VH2THATRABBIT001.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VH2THATRABBIT001.pkg",
+            "fileOffset": 8823046144,
+            "fileSize": 1048576,
+            "hashValue": "B594B08A671298AF53D20161BF0088BB521DADCB"
         },
         {
-            "name": "UP1263_CUSA09370_00_VHIIDOMOVOLY0003.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VHIIDOMOVOLY0003.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VHIIDOMOVOLY0003.pkg",
+            "fileOffset": 8824094720,
+            "fileSize": 1048576,
+            "hashValue": "2C753247B63F19594CAD86B13469A1EB397553E7"
         },
         {
-            "name": "UP1263_CUSA09370_00_VHIIEXPURGATOR01.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VHIIEXPURGATOR01.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VHIIEXPURGATOR01.pkg",
+            "fileOffset": 8825143296,
+            "fileSize": 1048576,
+            "hashValue": "F53CCD8E8F784BF0CDD002B211127C1E121A25F0"
         },
         {
-            "name": "UP1263_CUSA09370_00_VHIIGOOFZILLA004.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VHIIGOOFZILLA004.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VHIIGOOFZILLA004.pkg",
+            "fileOffset": 8826191872,
+            "fileSize": 1048576,
+            "hashValue": "74F052BA43D985A9B8FC138C03294FB8AF9C2FB6"
         },
         {
-            "name": "UP1263_CUSA09370_00_VHIIINKHUNT00001.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VHIIINKHUNT00001.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VHIIINKHUNT00001.pkg",
+            "fileOffset": 8827240448,
+            "fileSize": 1048576,
+            "hashValue": "D82EB2FF3979E47FC77D892D62A0311EC58A373C"
         },
         {
-            "name": "UP1263_CUSA09370_00_VHIIMAGICPACK002.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VHIIMAGICPACK002.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VHIIMAGICPACK002.pkg",
+            "fileOffset": 8828289024,
+            "fileSize": 1048576,
+            "hashValue": "BB0E0A1720DB7F806F5A197D5E38454CFC953C01"
         },
         {
-            "name": "UP1263_CUSA09370_00_VHIIPIGASUS00001.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VHIIPIGASUS00001.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09370/UP1263_CUSA09370_00_VHIIPIGASUS00001.pkg",
+            "fileOffset": 8829337600,
+            "fileSize": 1048576,
+            "hashValue": "D60AD7EDDAFA4CCC5D64CB8994BC216E8DFE9015"
         }
     ]
 }

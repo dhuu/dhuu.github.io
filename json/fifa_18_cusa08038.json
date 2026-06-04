@@ -1,113 +1,133 @@
 {
-    "name": "FIFA 18 CUSA08038",
-    "tag": "CUSA08038",
-    "total_size": 40075132928,
-    "number_of_parts": 21,
-    "parts": [
+    "originalFileSize": 40075132928,
+    "packageDigest": "2E48C2DE92C880807039E08B6D67F023B3F16D84645C4442965EA7C49B9190FF",
+    "numberOfSplitFiles": 21,
+    "pieces": [
         {
-            "name": "FIFA_18_CUSA08038_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "2E48C2DE92C880807039E08B6D67F023B3F16D84"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "150BA02B628DB426305E48435178298383982058"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "30285EB1AF241E15A17758838FA32ACF83864C8A"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4817BC598B0B332FEBC46C4DAA2ADB50E9EA7C67"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1BE6D76EC7B23107D69E473AE1F4F9423E2E9763"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "CB2295EAB330E4A793D16FBBA80C4620FFA4E02D"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7E7055C5C585078159EF0A3D005BE831F49BC4E1"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "6087342AA9A4CDB6FD7BE470485FFED7EAB9FF3B"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B5CD8357456F38233ED182B128E19BAC34D5F129"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "8F075B67D0C15AD396D5EFB0F30277175241AC97"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "895CEE6A6B3BF45E0998EA2C64F1BFE75749FA9C"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3EC8FF427F1F32ED1C239C141944AB79DA895773"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C8ECEB78EA3C16446BAC5C41970FFDDB22EAA497"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A0D4D3202A22E6165270D9B1080537CA182C47D5"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C6B4BBD6CD10697C3AD4C8CE56825E2B1A763CD7"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2C921B424A6C68485BE7EC6EED9C337B8EB0A54B"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2BCF45FDC60DDDA0193DD7B8226E1C2585D2F313"
         },
         {
-            "name": "FIFA_18_CUSA08038_BASE_17.pkg",
-            "size": 898247680,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_CUSA08038_BASE_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 898247680,
+            "hashValue": "86F51817BC65DC82374C32304DE47AB141B4B9B3"
         },
         {
-            "name": "FIFA_18_v115_CUSA08038_UPDATE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_v115_CUSA08038_UPDATE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_v115_CUSA08038_UPDATE_0.pkg",
+            "fileOffset": 34898247680,
+            "fileSize": 2000000000,
+            "hashValue": "59971F88FB3724464B7F30EEDBB620019AABE9E0"
         },
         {
-            "name": "FIFA_18_v115_CUSA08038_UPDATE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_v115_CUSA08038_UPDATE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_v115_CUSA08038_UPDATE_1.pkg",
+            "fileOffset": 36898247680,
+            "fileSize": 2000000000,
+            "hashValue": "DEAEEEECAB23528920BFD6D3C258D443EC955F68"
         },
         {
-            "name": "FIFA_18_v115_CUSA08038_UPDATE_2.pkg",
-            "size": 1176885248,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_v115_CUSA08038_UPDATE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08038/FIFA_18_v115_CUSA08038_UPDATE_2.pkg",
+            "fileOffset": 38898247680,
+            "fileSize": 1176885248,
+            "hashValue": "926D2A100F938C21832F7B65E90A27249A906A82"
         }
     ]
 }

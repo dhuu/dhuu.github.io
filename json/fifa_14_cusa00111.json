@@ -1,38 +1,43 @@
 {
-    "name": "FIFA 14 CUSA00111",
-    "tag": "CUSA00111",
-    "total_size": 9181462528,
-    "number_of_parts": 6,
-    "parts": [
+    "originalFileSize": 9181462528,
+    "packageDigest": "80943E5B9D99B57D234D83EA7D7E7F284ACF29781A52C798FB3797F484140E3B",
+    "numberOfSplitFiles": 6,
+    "pieces": [
         {
-            "name": "FIFA_14_CUSA00111_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00111/FIFA_14_CUSA00111_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00111/FIFA_14_CUSA00111_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "80943E5B9D99B57D234D83EA7D7E7F284ACF2978"
         },
         {
-            "name": "FIFA_14_CUSA00111_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00111/FIFA_14_CUSA00111_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00111/FIFA_14_CUSA00111_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C008B80C57EC98A7EFE913DE745C6166267ECE80"
         },
         {
-            "name": "FIFA_14_CUSA00111_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00111/FIFA_14_CUSA00111_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00111/FIFA_14_CUSA00111_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0220F49E7CB3DD0631AA2E69D01AEA9C47ED2D01"
         },
         {
-            "name": "FIFA_14_CUSA00111_BASE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00111/FIFA_14_CUSA00111_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00111/FIFA_14_CUSA00111_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "CB9C82370FC141D075D7E572505AEA9786F8B7D9"
         },
         {
-            "name": "FIFA_14_CUSA00111_BASE_4.pkg",
-            "size": 781692928,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00111/FIFA_14_CUSA00111_BASE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00111/FIFA_14_CUSA00111_BASE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 781692928,
+            "hashValue": "73B288073E58A6FB82DB100BA6B651FA300646F7"
         },
         {
-            "name": "FIFA_14_CUSA00111_v105_CUSA00111_UPDATE.pkg",
-            "size": 399769600,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00111/FIFA_14_CUSA00111_v105_CUSA00111_UPDATE.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00111/FIFA_14_CUSA00111_v105_CUSA00111_UPDATE.pkg",
+            "fileOffset": 8781692928,
+            "fileSize": 399769600,
+            "hashValue": "CFA39317453B780B098E8D1373FCF516B5976759"
         }
     ]
 }

@@ -1,83 +1,97 @@
 {
-    "name": "CUSA05350",
-    "tag": "CUSA05350",
-    "total_size": 26636386304,
-    "number_of_parts": 15,
-    "parts": [
+    "originalFileSize": 26636386304,
+    "packageDigest": "68B698A7F9EE6F4906D1269753C3100C2F0C03A38999F8BC74D01BFB164E7EC4",
+    "numberOfSplitFiles": 15,
+    "pieces": [
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "68B698A7F9EE6F4906D1269753C3100C2F0C03A3"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C85CA14CE8D7FAEECF79ED7CEFC1EAE45B638DB4"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D62C5A5C6B5A347B485F0BC155712DD56A3EB648"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3C6C05768EA37641B530A667F25588172C18C83A"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "EC74C188E8E0E61AC637E108E248EFEEC28C7F8A"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A693F75A57320B2AE0F54DAC45F2D7F3E5E07FC3"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_6.pkg",
-            "size": 246974464,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_CUSA05350_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 246974464,
+            "hashValue": "34B6ED7829A8A58CE3F84C7BC1C837BDB5E30452"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_0.pkg",
+            "fileOffset": 12246974464,
+            "fileSize": 2000000000,
+            "hashValue": "3BCDCA60DFAA575D79E7081B65B2C276EF51C497"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_1.pkg",
+            "fileOffset": 14246974464,
+            "fileSize": 2000000000,
+            "hashValue": "330D1D18B8CD0B2BF34F95F73BF6F32C20155C67"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_2.pkg",
+            "fileOffset": 16246974464,
+            "fileSize": 2000000000,
+            "hashValue": "6F9C866549A782F805B40A009B2DF18095614C60"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_3.pkg",
+            "fileOffset": 18246974464,
+            "fileSize": 2000000000,
+            "hashValue": "FA13DA2485D3A76CA6A1961383FCC296A8482B23"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_4.pkg",
+            "fileOffset": 20246974464,
+            "fileSize": 2000000000,
+            "hashValue": "B4A96B6732F2DC54BE9811500BF1316CA06E6D67"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_5.pkg",
+            "fileOffset": 22246974464,
+            "fileSize": 2000000000,
+            "hashValue": "F0A1A534797E2DF9950D176E767DE4DD85BE0648"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_6.pkg",
+            "fileOffset": 24246974464,
+            "fileSize": 2000000000,
+            "hashValue": "BE74E05E52197BECC77998B8F53B9AC6AE196761"
         },
         {
-            "name": "Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_7.pkg",
-            "size": 389411840,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05350/Dragon_Ball_Xenoverse_2_Deluxe_Edition_v150_CUSA05350_UPDATE_7.pkg",
+            "fileOffset": 26246974464,
+            "fileSize": 389411840,
+            "hashValue": "06B7EB2276890B479B75CD45C8D3921640AF4456"
         }
     ]
 }

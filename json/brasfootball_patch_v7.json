@@ -1,458 +1,547 @@
 {
-    "name": "Brasfootball Patch V7",
-    "tag": "BRASFBALLV7",
-    "total_size": 177180966912,
-    "number_of_parts": 90,
-    "parts": [
+    "originalFileSize": 177180966912,
+    "packageDigest": "20B13DEF12909B659B5D9A5099D4D000D03A020D144FCFD55D66586C2DB9E4EC",
+    "numberOfSplitFiles": 90,
+    "pieces": [
         {
-            "name": "Brasfootball_Patch_V7_Base_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "20B13DEF12909B659B5D9A5099D4D000D03A020D"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3226ED852E2C70E017234B6869D0F804B6DE9034"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5B8511D20807682049D3E8C45C8687914CE23E08"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3624E4DCDACC7C1E771604FD6CE36041E5DB8823"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "39C919DAF4152F2428B3B6ED1CB1F6AFED57AB7A"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3923A17EF7D5B17076AD9EC0ABF4C99EDF295A57"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C1E420A9488D0E87872127379241BCC6D65EC91C"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E6CA9006BD43EE4F75B6A7026C9E73D35192CD3A"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0FBBBD00A616748880807D96E344BDE538EFDD32"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "19F4425C844032E3C8F6D8696B95C46A3C6088BB"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "627055D801A3C728FA28F40BCE041D0165B0A5FD"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0F9BBC0C9FF2383BA3C68E383DDC4D9B626F6FB1"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D75BBB473E9F27BC105E8F5FCFF14EF8B712DD4D"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "944AE9198888F1FA850F65793104DB4A2CD23C02"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C89BB50EEED69B7C67F4DB860C255C5934F5BD10"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "CB65A0791931406AB98B0C53EB5215B65F7861FA"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "553A7ECFB45914EE5DAD684F18197FA20FB2058C"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9C8BD930C4F9636C16439857BDEC8EAAF8BB35A1"
         },
         {
-            "name": "Brasfootball_Patch_V7_Base_18.pkg",
-            "size": 130521088,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Base_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 130521088,
+            "hashValue": "8A18FFE7160EFC5841F2462E30811D853CF4742A"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_0.pkg",
+            "fileOffset": 36130521088,
+            "fileSize": 2000000000,
+            "hashValue": "40B5516204CD580BC954B3072F8F7B660390DD55"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_1.pkg",
+            "fileOffset": 38130521088,
+            "fileSize": 2000000000,
+            "hashValue": "D82335FDCF37BAFD46B600F8B4054A05EB3704C6"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_2.pkg",
+            "fileOffset": 40130521088,
+            "fileSize": 2000000000,
+            "hashValue": "0CE9D3A3EA30014D082DDE6C8ABCC4898A95DDEC"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_3.pkg",
+            "fileOffset": 42130521088,
+            "fileSize": 2000000000,
+            "hashValue": "B3B022D601C89927554A6F783724F101D73FDF27"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_4.pkg",
+            "fileOffset": 44130521088,
+            "fileSize": 2000000000,
+            "hashValue": "721B5BC53E6DE680640DEDB6EA821EF6C79CDE16"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_5.pkg",
+            "fileOffset": 46130521088,
+            "fileSize": 2000000000,
+            "hashValue": "2112EB6C26ED786BCD693FCAD496C5C52F176888"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_6.pkg",
+            "fileOffset": 48130521088,
+            "fileSize": 2000000000,
+            "hashValue": "DF6E395039A1DBAA927C225493759C0F221C8929"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_7.pkg",
+            "fileOffset": 50130521088,
+            "fileSize": 2000000000,
+            "hashValue": "4A3EC856199187FE6CF2CB4CACB1499D1E0B1BB5"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_8.pkg",
+            "fileOffset": 52130521088,
+            "fileSize": 2000000000,
+            "hashValue": "79EBED012CB9F02268F05CAD23EDDAF1F7C137D9"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_9.pkg",
+            "fileOffset": 54130521088,
+            "fileSize": 2000000000,
+            "hashValue": "4E3161B45FCA73B115163DAEC4CB0D753F45E470"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_10.pkg",
+            "fileOffset": 56130521088,
+            "fileSize": 2000000000,
+            "hashValue": "0088FA13D3304B7B23DA0E508D5AA7B675E8C7C3"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_11.pkg",
+            "fileOffset": 58130521088,
+            "fileSize": 2000000000,
+            "hashValue": "19A3A36F071105613A1CF8D8F336EC2F33F5A3A5"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_12.pkg",
+            "fileOffset": 60130521088,
+            "fileSize": 2000000000,
+            "hashValue": "48F6DC53A1E6BC785B43654CB86FFDABCDE570C8"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_13.pkg",
+            "fileOffset": 62130521088,
+            "fileSize": 2000000000,
+            "hashValue": "A802829AE0946AC9C152B348AA4BE8B84203E863"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_14.pkg",
+            "fileOffset": 64130521088,
+            "fileSize": 2000000000,
+            "hashValue": "B87445347727CD3890641A65D4BC425ECC60E4B1"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_15.pkg",
+            "fileOffset": 66130521088,
+            "fileSize": 2000000000,
+            "hashValue": "377924CFDFA49BF816B0E50B50DD9C3F882A6C8D"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_16.pkg",
+            "fileOffset": 68130521088,
+            "fileSize": 2000000000,
+            "hashValue": "6186D0ED881248200E5D9C12E7205DE8A92885DE"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_17.pkg",
+            "fileOffset": 70130521088,
+            "fileSize": 2000000000,
+            "hashValue": "11D17B910B9CFC605E274C697D577BD047B3EF9B"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_18.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_18.pkg",
+            "fileOffset": 72130521088,
+            "fileSize": 2000000000,
+            "hashValue": "0F0B19DD45B238AC993BDC58CD464A9F1209B00A"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_19.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_19.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_19.pkg",
+            "fileOffset": 74130521088,
+            "fileSize": 2000000000,
+            "hashValue": "FE3827D2CC13081E4E8EEC9036AE365D22DB00E1"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_20.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_20.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_20.pkg",
+            "fileOffset": 76130521088,
+            "fileSize": 2000000000,
+            "hashValue": "A8C7828E4E5AE1139561462E9A475FA75AD4E5B7"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_21.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_21.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_21.pkg",
+            "fileOffset": 78130521088,
+            "fileSize": 2000000000,
+            "hashValue": "B667130D6B3CD9F29DFFB8B63D705B64D1C89000"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_22.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_22.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_22.pkg",
+            "fileOffset": 80130521088,
+            "fileSize": 2000000000,
+            "hashValue": "962574EA5ED6F584B9E75B93DDE70DCDEBFE145C"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_23.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_23.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_23.pkg",
+            "fileOffset": 82130521088,
+            "fileSize": 2000000000,
+            "hashValue": "5F01901C6521DACCFA0D094D8FA62D166EA3EAEB"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_24.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_24.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_24.pkg",
+            "fileOffset": 84130521088,
+            "fileSize": 2000000000,
+            "hashValue": "3D84320C17BCA1C5BD3A5778BE810DAEC7EB67C5"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_25.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_25.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_25.pkg",
+            "fileOffset": 86130521088,
+            "fileSize": 2000000000,
+            "hashValue": "AC153BD7F3572A2D14FCFEFC62B526C7CBDAAD8F"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_26.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_26.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_26.pkg",
+            "fileOffset": 88130521088,
+            "fileSize": 2000000000,
+            "hashValue": "53FC18753C8342B4BE53D111C78E60FFE780092D"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_27.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_27.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_27.pkg",
+            "fileOffset": 90130521088,
+            "fileSize": 2000000000,
+            "hashValue": "ADC4488B627DAB5BE204559F85A5B9D7B8638D52"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_28.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_28.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_28.pkg",
+            "fileOffset": 92130521088,
+            "fileSize": 2000000000,
+            "hashValue": "B2C41ADFBD879D11BB187B524BDD77D380245437"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_29.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_29.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_29.pkg",
+            "fileOffset": 94130521088,
+            "fileSize": 2000000000,
+            "hashValue": "361C73FE349B2DAC1A09A2901BB4C3B01E2FDCA7"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_30.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_30.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_30.pkg",
+            "fileOffset": 96130521088,
+            "fileSize": 2000000000,
+            "hashValue": "693443A4DA08D41F62A42BF925FA460143B9731B"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_31.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_31.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_31.pkg",
+            "fileOffset": 98130521088,
+            "fileSize": 2000000000,
+            "hashValue": "DAB8464C93160EBBA41E84057A0BD8408C97330B"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_32.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_32.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_32.pkg",
+            "fileOffset": 100130521088,
+            "fileSize": 2000000000,
+            "hashValue": "926C74CCB7E6E12294A259A113DD02C59F8FBD4C"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_33.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_33.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_33.pkg",
+            "fileOffset": 102130521088,
+            "fileSize": 2000000000,
+            "hashValue": "BC818C4386F4AD61ADA51F141DCBB16BDA16EC53"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_34.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_34.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_34.pkg",
+            "fileOffset": 104130521088,
+            "fileSize": 2000000000,
+            "hashValue": "8F4B698E7DE43DA29BBBBDA8D6CF34BCCAB2D5F5"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_35.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_35.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_35.pkg",
+            "fileOffset": 106130521088,
+            "fileSize": 2000000000,
+            "hashValue": "011B66C62C86068F806C1E5227B67C986F9DF441"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_36.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_36.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_36.pkg",
+            "fileOffset": 108130521088,
+            "fileSize": 2000000000,
+            "hashValue": "373CCD790E4F42BEE4B5B5CC2F2D260E2C84E9CE"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_37.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_37.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_37.pkg",
+            "fileOffset": 110130521088,
+            "fileSize": 2000000000,
+            "hashValue": "7DAD7A4839BCC3C5C32CE6BD82E3775773C68A55"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_38.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_38.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_38.pkg",
+            "fileOffset": 112130521088,
+            "fileSize": 2000000000,
+            "hashValue": "08BEA117A09730FBFC14D8B893B194A1FF77FA6D"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_39.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_39.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_39.pkg",
+            "fileOffset": 114130521088,
+            "fileSize": 2000000000,
+            "hashValue": "1F37858BED36EC33890245FDC91C858C82B7157A"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_40.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_40.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_40.pkg",
+            "fileOffset": 116130521088,
+            "fileSize": 2000000000,
+            "hashValue": "FAD28C88D05103326D3D0324DAD37E55273C80CF"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_41.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_41.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_41.pkg",
+            "fileOffset": 118130521088,
+            "fileSize": 2000000000,
+            "hashValue": "2C3BC3F0D79E259AAFFE31A14BCCC873C911F76C"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_42.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_42.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_42.pkg",
+            "fileOffset": 120130521088,
+            "fileSize": 2000000000,
+            "hashValue": "3E592C40DA8EC30BFBB11802D26ED52BB7C15E9B"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_43.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_43.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_43.pkg",
+            "fileOffset": 122130521088,
+            "fileSize": 2000000000,
+            "hashValue": "8EEAE5D034F223DDDE79DAD33D6711DF1B6EDB93"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_44.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_44.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_44.pkg",
+            "fileOffset": 124130521088,
+            "fileSize": 2000000000,
+            "hashValue": "1BA03BD0D577A63DF27BBE5BD1DEF73883489CD7"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_45.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_45.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_45.pkg",
+            "fileOffset": 126130521088,
+            "fileSize": 2000000000,
+            "hashValue": "6F31BF84967C7CE5FA0DB9C6D24EB0B999DC437E"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_46.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_46.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_46.pkg",
+            "fileOffset": 128130521088,
+            "fileSize": 2000000000,
+            "hashValue": "3E4AFD5521760C7ED8DB8CA3FBEC2EE4CAA735B9"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_47.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_47.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_47.pkg",
+            "fileOffset": 130130521088,
+            "fileSize": 2000000000,
+            "hashValue": "A42C84215D0DC76CD44C5C6E1676F92F4ED859AE"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_48.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_48.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_48.pkg",
+            "fileOffset": 132130521088,
+            "fileSize": 2000000000,
+            "hashValue": "CE5840495B6236047E80E43778F79404CCD0F1A1"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_49.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_49.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_49.pkg",
+            "fileOffset": 134130521088,
+            "fileSize": 2000000000,
+            "hashValue": "6345DCC28EE8F5630E1447A4B1456834FB8FCBE4"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_50.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_50.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_50.pkg",
+            "fileOffset": 136130521088,
+            "fileSize": 2000000000,
+            "hashValue": "C77730B8213B11B2AF70477A70CE5EE2C1B89BEF"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_51.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_51.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_51.pkg",
+            "fileOffset": 138130521088,
+            "fileSize": 2000000000,
+            "hashValue": "2E67CC0B4269CFFE2E7AFB0F10DD763C7D0AE46C"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_52.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_52.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_52.pkg",
+            "fileOffset": 140130521088,
+            "fileSize": 2000000000,
+            "hashValue": "2819B584CCC7017DA24E27A334D2734B6A3BE0AC"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_53.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_53.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_53.pkg",
+            "fileOffset": 142130521088,
+            "fileSize": 2000000000,
+            "hashValue": "1AD90585424CF8330DCB215AD2C12103E655E543"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_54.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_54.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_54.pkg",
+            "fileOffset": 144130521088,
+            "fileSize": 2000000000,
+            "hashValue": "3EEE6D881524FC141003E44374E19D033CC110F2"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_55.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_55.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_55.pkg",
+            "fileOffset": 146130521088,
+            "fileSize": 2000000000,
+            "hashValue": "89D259B35CA75804F93D9FEDFD07A19A58ADD9B8"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_56.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_56.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_56.pkg",
+            "fileOffset": 148130521088,
+            "fileSize": 2000000000,
+            "hashValue": "4EFECEB8FCE05F63C93F0252C6A9380289C54BDB"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_57.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_57.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_57.pkg",
+            "fileOffset": 150130521088,
+            "fileSize": 2000000000,
+            "hashValue": "F39672C9FEB1398E9FBDF5DFDC24DA30E6150C64"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_58.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_58.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_58.pkg",
+            "fileOffset": 152130521088,
+            "fileSize": 2000000000,
+            "hashValue": "6221A00F8BA10841AA2D055CF466D53C8DBD8BD9"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_59.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_59.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_59.pkg",
+            "fileOffset": 154130521088,
+            "fileSize": 2000000000,
+            "hashValue": "B7723CED82831D7083D9DC36DEB519808F072141"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_60.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_60.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_60.pkg",
+            "fileOffset": 156130521088,
+            "fileSize": 2000000000,
+            "hashValue": "1D65A44B9A566B56A05083A2422DEC54D4DE40DC"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_61.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_61.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_61.pkg",
+            "fileOffset": 158130521088,
+            "fileSize": 2000000000,
+            "hashValue": "F5677CB17B37FEEFD99C0FA3C099069EC8DCA6A7"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_62.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_62.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_62.pkg",
+            "fileOffset": 160130521088,
+            "fileSize": 2000000000,
+            "hashValue": "6CDB144F4263D9E1F3779DE6DFFC19E750887DA9"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_63.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_63.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_63.pkg",
+            "fileOffset": 162130521088,
+            "fileSize": 2000000000,
+            "hashValue": "6A3A9443768B3D2361A455903A369C45C3637B64"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_64.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_64.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_64.pkg",
+            "fileOffset": 164130521088,
+            "fileSize": 2000000000,
+            "hashValue": "5F55D6670C366E077BFC249DF0291F2CE534A90A"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_65.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_65.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_65.pkg",
+            "fileOffset": 166130521088,
+            "fileSize": 2000000000,
+            "hashValue": "53B3839DDE9EFA64630702D21664C426859D26D2"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_66.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_66.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_66.pkg",
+            "fileOffset": 168130521088,
+            "fileSize": 2000000000,
+            "hashValue": "D07EA3775DDD188B35C3C65033B84625F4831516"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_67.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_67.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_67.pkg",
+            "fileOffset": 170130521088,
+            "fileSize": 2000000000,
+            "hashValue": "CF749EA8498E939661081B907BC27E605CC058CC"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_68.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_68.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_68.pkg",
+            "fileOffset": 172130521088,
+            "fileSize": 2000000000,
+            "hashValue": "9AC5F916980104A8A9439373866D3CF05468BF70"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_69.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_69.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_69.pkg",
+            "fileOffset": 174130521088,
+            "fileSize": 2000000000,
+            "hashValue": "277DCB6DA39BB3281BB612B54EB867755B3030C6"
         },
         {
-            "name": "Brasfootball_Patch_V7_Update_70.pkg",
-            "size": 1050445824,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_70.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/BRASFBALLV7/Brasfootball_Patch_V7_Update_70.pkg",
+            "fileOffset": 176130521088,
+            "fileSize": 1050445824,
+            "hashValue": "A3CDEAAEBFB5F7CF1C3FFA768A95BDB8C992FF3C"
         }
     ]
 }

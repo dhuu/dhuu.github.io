@@ -1,18 +1,19 @@
 {
-    "name": "Paw_Patrol_On_a_Roll",
-    "tag": "CUSA11095",
-    "total_size": 1135673344,
-    "number_of_parts": 2,
-    "parts": [
+    "originalFileSize": 1135673344,
+    "packageDigest": "19218E8196EC76DE047CC6C672781ADBE435D0EA82E31099E5F90F50AF64714C",
+    "numberOfSplitFiles": 2,
+    "pieces": [
         {
-            "name": "Paw_Patrol_On_a_Roll_CUSA11095.pkg",
-            "size": 997916672,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11095/Paw_Patrol_On_a_Roll_CUSA11095.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11095/Paw_Patrol_On_a_Roll_CUSA11095.pkg",
+            "fileOffset": 0,
+            "fileSize": 997916672,
+            "hashValue": "19218E8196EC76DE047CC6C672781ADBE435D0EA"
         },
         {
-            "name": "Paw_Patrol_On_a_Roll_CUSA11095_u101_505.pkg",
-            "size": 137756672,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11095/Paw_Patrol_On_a_Roll_CUSA11095_u101_505.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11095/Paw_Patrol_On_a_Roll_CUSA11095_u101_505.pkg",
+            "fileOffset": 997916672,
+            "fileSize": 137756672,
+            "hashValue": "5CDC70D202EDDEB670DCC848CA2FD03C8C4D9108"
         }
     ]
 }

@@ -1,138 +1,163 @@
 {
-    "name": "Pathfinder Kingmaker CUSA15041",
-    "tag": "CUSA15041",
-    "total_size": 50213158912,
-    "number_of_parts": 26,
-    "parts": [
+    "originalFileSize": 50213158912,
+    "packageDigest": "84117A3A9D55B573CE1A9F56245EE38495EC365FC3BCEB333B5E0E498B5A9C24",
+    "numberOfSplitFiles": 26,
+    "pieces": [
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "84117A3A9D55B573CE1A9F56245EE38495EC365F"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D2064AB9B7F02580733CC08202D5D9FA6BD66E4F"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1C4A35AC8D628A1F7B970F2D76E3A7675DC5D550"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "8D2C3D81F318CA07866DB7EC027604757996CBCE"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "482FFEAC86205DFC551F4E1FD1563600A9BE7B73"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B16146FAA65EFFFF4196092829076459B0DE1CC6"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5FF0CA43E1EB6931501785A838301854F0821EAF"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E852ED3CB723D33BECA35EB75A303213F22C5937"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "77D5781F80519D45801ACF0CB24C66E013E9C099"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "340CE873B89A034D034D694B8B6846B27E77939B"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "994F70B279AA28206D9A890D198F6594AD28FC29"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A87E763C581E030E350B2B53E53EF9055A2A6576"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "EB6BFFE3E7504F16E7D51901E68E273649655F33"
         },
         {
-            "name": "Pathfinder_Kingmaker_CUSA15041_13.pkg",
-            "size": 1614052352,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_CUSA15041_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 1614052352,
+            "hashValue": "6D934834FE52832853BC4B33CF42B399922F96CE"
         },
         {
-            "name": "Pathfinder_Kingmaker_UP_v103_CUSA15041_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_0.pkg",
+            "fileOffset": 27614052352,
+            "fileSize": 2000000000,
+            "hashValue": "E8044F518CDC1643F33EAF6DC8F86CAA57C9C36E"
         },
         {
-            "name": "Pathfinder_Kingmaker_UP_v103_CUSA15041_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_1.pkg",
+            "fileOffset": 29614052352,
+            "fileSize": 2000000000,
+            "hashValue": "C748104332153143DEA0999EF2DD472CAB084D9A"
         },
         {
-            "name": "Pathfinder_Kingmaker_UP_v103_CUSA15041_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_2.pkg",
+            "fileOffset": 31614052352,
+            "fileSize": 2000000000,
+            "hashValue": "1E25FD04DB5E2E244B9174BD7C60E5E3C94A93BD"
         },
         {
-            "name": "Pathfinder_Kingmaker_UP_v103_CUSA15041_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_3.pkg",
+            "fileOffset": 33614052352,
+            "fileSize": 2000000000,
+            "hashValue": "BD3CC48B877F712C378AEE107D3E78DB101F1D86"
         },
         {
-            "name": "Pathfinder_Kingmaker_UP_v103_CUSA15041_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_4.pkg",
+            "fileOffset": 35614052352,
+            "fileSize": 2000000000,
+            "hashValue": "9639D6498539E778D4B4CF2C170171DD0BF0EFF5"
         },
         {
-            "name": "Pathfinder_Kingmaker_UP_v103_CUSA15041_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_5.pkg",
+            "fileOffset": 37614052352,
+            "fileSize": 2000000000,
+            "hashValue": "184DB8B16E992D6EEA3DB106DA20DD323EF21A40"
         },
         {
-            "name": "Pathfinder_Kingmaker_UP_v103_CUSA15041_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_6.pkg",
+            "fileOffset": 39614052352,
+            "fileSize": 2000000000,
+            "hashValue": "F8D6A5CCBFFEC2CCFDA218404E509ED3306AC700"
         },
         {
-            "name": "Pathfinder_Kingmaker_UP_v103_CUSA15041_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_7.pkg",
+            "fileOffset": 41614052352,
+            "fileSize": 2000000000,
+            "hashValue": "E9DCE3C6092170D1A9D4876D1A3A76C7DE0DB696"
         },
         {
-            "name": "Pathfinder_Kingmaker_UP_v103_CUSA15041_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_8.pkg",
+            "fileOffset": 43614052352,
+            "fileSize": 2000000000,
+            "hashValue": "BC1A1A707ECD62275F2B3E25CB850B60B6D46748"
         },
         {
-            "name": "Pathfinder_Kingmaker_UP_v103_CUSA15041_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_9.pkg",
+            "fileOffset": 45614052352,
+            "fileSize": 2000000000,
+            "hashValue": "893467574F7989019EB446C52ABEEF47EDA5D6AB"
         },
         {
-            "name": "Pathfinder_Kingmaker_UP_v103_CUSA15041_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_10.pkg",
+            "fileOffset": 47614052352,
+            "fileSize": 2000000000,
+            "hashValue": "887A42982263B82CED1D8F4AF68DE8CC8D898E66"
         },
         {
-            "name": "Pathfinder_Kingmaker_UP_v103_CUSA15041_11.pkg",
-            "size": 599106560,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15041/Pathfinder_Kingmaker_UP_v103_CUSA15041_11.pkg",
+            "fileOffset": 49614052352,
+            "fileSize": 599106560,
+            "hashValue": "4066430BD084560D811A95750E2350610993FCAD"
         }
     ]
 }

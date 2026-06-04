@@ -1,23 +1,25 @@
 {
-    "name": "Castle Crashers Remastered CUSA14409",
-    "tag": "CUSA14409",
-    "total_size": 251723776,
-    "number_of_parts": 3,
-    "parts": [
+    "originalFileSize": 251723776,
+    "packageDigest": "84871D37F59A33AD6A67A4580342011F798B92A8D4C4C8C8BB255AE4DEA8964F",
+    "numberOfSplitFiles": 3,
+    "pieces": [
         {
-            "name": "Castle_Crashers_Remastered_CUSA14409.pkg",
-            "size": 227540992,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14409/Castle_Crashers_Remastered_CUSA14409.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14409/Castle_Crashers_Remastered_CUSA14409.pkg",
+            "fileOffset": 0,
+            "fileSize": 227540992,
+            "hashValue": "84871D37F59A33AD6A67A4580342011F798B92A8"
         },
         {
-            "name": "Castle_Crashers_Remastered_CUSA14409_v104_672.pkg",
-            "size": 10682368,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14409/Castle_Crashers_Remastered_CUSA14409_v104_672.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14409/Castle_Crashers_Remastered_CUSA14409_v104_672.pkg",
+            "fileOffset": 227540992,
+            "fileSize": 10682368,
+            "hashValue": "BBF746E66B6FCF7BC20ABF146899D8D350A272FC"
         },
         {
-            "name": "Castle_Crashers_Remastered_CUSA14409_v104_BACKPORT_505.pkg",
-            "size": 13500416,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14409/Castle_Crashers_Remastered_CUSA14409_v104_BACKPORT_505.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA14409/Castle_Crashers_Remastered_CUSA14409_v104_BACKPORT_505.pkg",
+            "fileOffset": 238223360,
+            "fileSize": 13500416,
+            "hashValue": "32556B83901AE9273C92217299CA4F7C4495DF18"
         }
     ]
 }

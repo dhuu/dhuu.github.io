@@ -1,63 +1,73 @@
 {
-    "name": "Shadows Awakening CUSA10425",
-    "tag": "CUSA10425",
-    "total_size": 13661372416,
-    "number_of_parts": 11,
-    "parts": [
+    "originalFileSize": 13661372416,
+    "packageDigest": "1009CBE8E455BB33E6B2E9B629A0ACA23532086295345816E5A51B0C6E73C1B3",
+    "numberOfSplitFiles": 11,
+    "pieces": [
         {
-            "name": "Shadows_Awakening_CUSA10425_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_CUSA10425_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_CUSA10425_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "1009CBE8E455BB33E6B2E9B629A0ACA235320862"
         },
         {
-            "name": "Shadows_Awakening_CUSA10425_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_CUSA10425_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_CUSA10425_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "99C5F510640CB73B809C20CE6B88D9178C035938"
         },
         {
-            "name": "Shadows_Awakening_CUSA10425_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_CUSA10425_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_CUSA10425_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "702735509E575F20D6CD538A90E54D6DE95F978F"
         },
         {
-            "name": "Shadows_Awakening_CUSA10425_3.pkg",
-            "size": 743195648,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_CUSA10425_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_CUSA10425_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 743195648,
+            "hashValue": "DA8BDBBB30B48B1505B4F027195348C9CF92F496"
         },
         {
-            "name": "Shadows_Awakening_UP_v107_CUSA10425_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_UP_v107_CUSA10425_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_UP_v107_CUSA10425_0.pkg",
+            "fileOffset": 6743195648,
+            "fileSize": 2000000000,
+            "hashValue": "7FFEDC99062ADDAA6A8F2E47923453BB7FBD55AE"
         },
         {
-            "name": "Shadows_Awakening_UP_v107_CUSA10425_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_UP_v107_CUSA10425_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_UP_v107_CUSA10425_1.pkg",
+            "fileOffset": 8743195648,
+            "fileSize": 2000000000,
+            "hashValue": "2ECBAFA0D1EAF4B280B4224033762C0F256F99A3"
         },
         {
-            "name": "Shadows_Awakening_UP_v107_CUSA10425_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_UP_v107_CUSA10425_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_UP_v107_CUSA10425_2.pkg",
+            "fileOffset": 10743195648,
+            "fileSize": 2000000000,
+            "hashValue": "A37E6718CFF6BB17D9C90DD007067E4A7E93C977"
         },
         {
-            "name": "Shadows_Awakening_UP_v107_CUSA10425_3.pkg",
-            "size": 915031040,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_UP_v107_CUSA10425_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/Shadows_Awakening_UP_v107_CUSA10425_3.pkg",
+            "fileOffset": 12743195648,
+            "fileSize": 915031040,
+            "hashValue": "72FABA0061737D44622101A89FE6D61EDB92CF12"
         },
         {
-            "name": "UP2060_CUSA10425_00_0000000CHROMATON.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/UP2060_CUSA10425_00_0000000CHROMATON.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/UP2060_CUSA10425_00_0000000CHROMATON.pkg",
+            "fileOffset": 13658226688,
+            "fileSize": 1048576,
+            "hashValue": "0FE3900FD231FC288F873E368A604051995F0F37"
         },
         {
-            "name": "UP2060_CUSA10425_00_000000NECROPHAGE.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/UP2060_CUSA10425_00_000000NECROPHAGE.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/UP2060_CUSA10425_00_000000NECROPHAGE.pkg",
+            "fileOffset": 13659275264,
+            "fileSize": 1048576,
+            "hashValue": "905130687545D724B53765844060C416281F89B2"
         },
         {
-            "name": "UP2060_CUSA10425_00_000000SAPREORDER.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/UP2060_CUSA10425_00_000000SAPREORDER.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10425/UP2060_CUSA10425_00_000000SAPREORDER.pkg",
+            "fileOffset": 13660323840,
+            "fileSize": 1048576,
+            "hashValue": "1C2ED2F3DDE0C94542072D51A74DB75D8A304D17"
         }
     ]
 }

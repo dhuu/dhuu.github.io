@@ -1,23 +1,25 @@
 {
-    "name": "Victor Vran CUSA06253",
-    "tag": "CUSA06253",
-    "total_size": 5339676672,
-    "number_of_parts": 3,
-    "parts": [
+    "originalFileSize": 5339676672,
+    "packageDigest": "A4C5080D7F8DDC73BDF71BB6724A8F3748E0002C1CCE3AEA869672DCCF95BFA5",
+    "numberOfSplitFiles": 3,
+    "pieces": [
         {
-            "name": "Victor_Vran_CUSA06253_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06253/Victor_Vran_CUSA06253_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06253/Victor_Vran_CUSA06253_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "A4C5080D7F8DDC73BDF71BB6724A8F3748E0002C"
         },
         {
-            "name": "Victor_Vran_CUSA06253_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06253/Victor_Vran_CUSA06253_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06253/Victor_Vran_CUSA06253_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "AB44BC5F4832C2116E06AA22262B2EC98FC4863A"
         },
         {
-            "name": "Victor_Vran_CUSA06253_2.pkg",
-            "size": 1339676672,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06253/Victor_Vran_CUSA06253_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06253/Victor_Vran_CUSA06253_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 1339676672,
+            "hashValue": "77AE0E565924FA6F134D29063D0D3A0FDD2377E2"
         }
     ]
 }

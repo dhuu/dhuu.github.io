@@ -1,463 +1,553 @@
 {
-    "name": "MEGA PATCH INFINTY 4.1 ",
-    "tag": "MEGAPTIF41",
-    "total_size": 180410056704,
-    "number_of_parts": 91,
-    "parts": [
+    "originalFileSize": 180410056704,
+    "packageDigest": "7A889C4CC9D911CE7FD179A4802309700A6E8A46E0053BD72C968641D79FAAE9",
+    "numberOfSplitFiles": 91,
+    "pieces": [
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "7A889C4CC9D911CE7FD179A4802309700A6E8A46"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F1D519A115A952CC7539FA9667D811253D186DAC"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2F621EEE6E5165F674AE820AF6C51155F9B3333D"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "FF2D42FDC65D29FE4FF2C950241242B28D6FA78B"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A34BBC073F5292B07DC5AA756FA9A8F403C52A4D"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D8643A46C6EDB971026E06671AD4083FB1FD224F"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "393719D15F7C06612121D06FE9AB2C80004CB944"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D5190B607A67BC856B5C9415DB6F53B68453C0B0"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "14DEA67E8507AE160B759D40376A7F965E34C544"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "59AEA403FEE3F063CE6D3E3A3CF16B1D741E8C96"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "790DF02E096C1C1977D06BCF59E8BADAB87F4BE7"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C67327A94CF20031B3C001E117DC2D76E9C34C11"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3F3B7DBABD9BABA072FEEE86DAA2EFB306E4020E"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0C6BB8C594176ABADDDAB3FCA3F7D6B9F9F78AFA"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D44256A8A25411B628DB07C6B145D5D15B8C9C4D"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B92781B7B28BADD39C8456FDC1271A01969F8462"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "EAF3384F9C85B38207D36833D1535C89002AED1B"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E9D656EFB246307879E50D9297A8F1DD24A313E5"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_18.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BA06B0C99AF0C0DF1A0D6F3EB050E1237313F813"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_19.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_19.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_19.pkg",
+            "fileOffset": 38000000000,
+            "fileSize": 2000000000,
+            "hashValue": "6A4FFBA3230FCCCD7A6FDE1EBC3CF0988A3B5D5C"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_20.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_20.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_20.pkg",
+            "fileOffset": 40000000000,
+            "fileSize": 2000000000,
+            "hashValue": "259C3BF6852118F277D1192178EC4EA1E4BF1F7A"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_21.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_21.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_21.pkg",
+            "fileOffset": 42000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B727E695346C941FE6599CBD72FEEA4B454654E9"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_22.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_22.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_22.pkg",
+            "fileOffset": 44000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1E845EA88C02AFE34B72016AF50E8968DE3BE209"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_23.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_23.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_23.pkg",
+            "fileOffset": 46000000000,
+            "fileSize": 2000000000,
+            "hashValue": "80AAC83E46CE353D4903B7B089A9ADBD20D7BB3F"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_24.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_24.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_24.pkg",
+            "fileOffset": 48000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0796ABD74EBD9AEB90984DB2577B2CD3C918B704"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_25.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_25.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_25.pkg",
+            "fileOffset": 50000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B502FF7EA2BA59410E144F894BCD11E53DEBDDEF"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_26.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_26.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_26.pkg",
+            "fileOffset": 52000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F08091F3036238081A14B4DC9FF0EF6EE41FFF5D"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_27.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_27.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_27.pkg",
+            "fileOffset": 54000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F3E0269DBBBE18C9D063946580622C464FC44E13"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_28.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_28.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_28.pkg",
+            "fileOffset": 56000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B3DA3704748A0A32A0AB1CCD3005B2916760F2E2"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_29.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_29.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_29.pkg",
+            "fileOffset": 58000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A86263BCF74AF19528DD0A80D69FF34166B922C1"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_30.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_30.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_30.pkg",
+            "fileOffset": 60000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E35888E9270ACC4561DDFB1B08029755D4A6C6B1"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_31.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_31.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_31.pkg",
+            "fileOffset": 62000000000,
+            "fileSize": 2000000000,
+            "hashValue": "642CB0C39C9D4131C9D1040985BE9D8A1677A679"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_32.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_32.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_32.pkg",
+            "fileOffset": 64000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E886B2AD414F8CB20923B74211407DA92D9FBB37"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_33.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_33.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_33.pkg",
+            "fileOffset": 66000000000,
+            "fileSize": 2000000000,
+            "hashValue": "19468487F6C9CD28F486F98B110F50BE6577A23B"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_34.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_34.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_34.pkg",
+            "fileOffset": 68000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F38A91CB697E7DF1ECEB731E40230D589EF5A692"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_35.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_35.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_35.pkg",
+            "fileOffset": 70000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BC2507D6AF0AE0577E68194295B6AB4D9E0CEADC"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_36.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_36.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_36.pkg",
+            "fileOffset": 72000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D9E07F6D28C366A6394AC7D0A7D8D2ACE7FFE104"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_37.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_37.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_37.pkg",
+            "fileOffset": 74000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0B251134CB8B886461FA043AA6BD861469BD00FA"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_38.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_38.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_38.pkg",
+            "fileOffset": 76000000000,
+            "fileSize": 2000000000,
+            "hashValue": "DBF2187B0E2304EF0AA6E029A7C39B0CACE09EE2"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_39.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_39.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_39.pkg",
+            "fileOffset": 78000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2E6F38948C57C2AD6FA1B6CB86C692DAEDB97C69"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_40.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_40.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_40.pkg",
+            "fileOffset": 80000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D213362C84A2492E0513A1288298F8C7D9DE224A"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_41.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_41.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_41.pkg",
+            "fileOffset": 82000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0B0E1135CE4B4D5EDDB4B1C449F173C96FA2C1A6"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_42.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_42.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_42.pkg",
+            "fileOffset": 84000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B06B224C42FEEF10D0FB2EC05BFDD41A15AB0BA9"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_43.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_43.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_43.pkg",
+            "fileOffset": 86000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7ACDBDC4EF26BEAEA934E04DBA35868C146B86C6"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_44.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_44.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_44.pkg",
+            "fileOffset": 88000000000,
+            "fileSize": 2000000000,
+            "hashValue": "60DCA0CFB75CFD070065B13E704F348764BE23B2"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_45.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_45.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_45.pkg",
+            "fileOffset": 90000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B29F9D4CD590B46E0C8FDF8BB1A60E5C270C5D62"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_46.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_46.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_46.pkg",
+            "fileOffset": 92000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E48D00A05752EEA80C25311A167B1B7078680622"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_47.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_47.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_47.pkg",
+            "fileOffset": 94000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1CD0EDA0900266B7188BE7D2ACD436C7E3E2DB2B"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_48.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_48.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_48.pkg",
+            "fileOffset": 96000000000,
+            "fileSize": 2000000000,
+            "hashValue": "454D0D7263D23E224ADD0E51ACB1B1094BEA7D77"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_49.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_49.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_49.pkg",
+            "fileOffset": 98000000000,
+            "fileSize": 2000000000,
+            "hashValue": "AF61AB3DE62AA1BFCBB62C86865B4B60743392E2"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_50.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_50.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_50.pkg",
+            "fileOffset": 100000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A7046EFD7477EA5B732B88A20E51F6D0882C685D"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_51.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_51.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_51.pkg",
+            "fileOffset": 102000000000,
+            "fileSize": 2000000000,
+            "hashValue": "09BD828B8D838357CD10E2A07ECB142D41034006"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_52.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_52.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_52.pkg",
+            "fileOffset": 104000000000,
+            "fileSize": 2000000000,
+            "hashValue": "FAE2A1F9B1C4E62C4E80FC6DDC0EBCD8D800E5E1"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_53.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_53.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_53.pkg",
+            "fileOffset": 106000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9DF38F7FF96B72A8401174CBC0B80BA1F39D8536"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_54.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_54.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_54.pkg",
+            "fileOffset": 108000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2BB3C2D7255A4DF21EF97D95C1425090FE806745"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_55.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_55.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_55.pkg",
+            "fileOffset": 110000000000,
+            "fileSize": 2000000000,
+            "hashValue": "63137427D760B4171EB607B174E86BB5E46B39EA"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_56.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_56.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_56.pkg",
+            "fileOffset": 112000000000,
+            "fileSize": 2000000000,
+            "hashValue": "6AC6A42EDCC864C4F3FCD53D2A638A85A446601D"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_57.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_57.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_57.pkg",
+            "fileOffset": 114000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D792177D460564458C6033120D19BE98FA45BDF6"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_58.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_58.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_58.pkg",
+            "fileOffset": 116000000000,
+            "fileSize": 2000000000,
+            "hashValue": "18BDB4A96AA97E1E03EFA5E0047A4C9ABB1CE2D8"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_59.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_59.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_59.pkg",
+            "fileOffset": 118000000000,
+            "fileSize": 2000000000,
+            "hashValue": "63E165DF4004E90D306F7E7B2D0B2BBE7C8EE597"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_60.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_60.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_60.pkg",
+            "fileOffset": 120000000000,
+            "fileSize": 2000000000,
+            "hashValue": "00158056AF8F68C41F1CF397825C1BEF7BF53DCF"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_61.pkg",
-            "size": 803453952,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_61.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_4.1_2026_Update_61.pkg",
+            "fileOffset": 122000000000,
+            "fileSize": 803453952,
+            "hashValue": "01C3B190FD947B8D1026FDBB9A44F75ABED4A1D8"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_0.pkg",
+            "fileOffset": 122803453952,
+            "fileSize": 2000000000,
+            "hashValue": "A28CEF5B90197C30D30C929902539219C2159A8D"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_1.pkg",
+            "fileOffset": 124803453952,
+            "fileSize": 2000000000,
+            "hashValue": "793D9FD2CA399C24A2A1F56F1F7B0DBC14E663AF"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_2.pkg",
+            "fileOffset": 126803453952,
+            "fileSize": 2000000000,
+            "hashValue": "1C47AC5E4CD9C01A14ACD39A8789F9242A50F74C"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_3.pkg",
+            "fileOffset": 128803453952,
+            "fileSize": 2000000000,
+            "hashValue": "A7A4E319E7F5E0C2CF155FEF57D9B1B9E7D12C9C"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_4.pkg",
+            "fileOffset": 130803453952,
+            "fileSize": 2000000000,
+            "hashValue": "4A3BB7E6E439478A00F2844CA2FDA2AF554087E1"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_5.pkg",
+            "fileOffset": 132803453952,
+            "fileSize": 2000000000,
+            "hashValue": "4C9F498E3A8422B7AD18732336637B830D2B79D6"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_6.pkg",
+            "fileOffset": 134803453952,
+            "fileSize": 2000000000,
+            "hashValue": "F09942ED117DDEAE74A29DFBC43E445EDA57B0C1"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_7.pkg",
+            "fileOffset": 136803453952,
+            "fileSize": 2000000000,
+            "hashValue": "53540766EF5C500091682C6971642B2B5C555BCB"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_8.pkg",
+            "fileOffset": 138803453952,
+            "fileSize": 2000000000,
+            "hashValue": "BCC061B44A237CEB40FEDBF6530A2516B99BE816"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_9.pkg",
+            "fileOffset": 140803453952,
+            "fileSize": 2000000000,
+            "hashValue": "8ED6A7B948F971DD9C554815EBA15A029EE3B5DF"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_10.pkg",
+            "fileOffset": 142803453952,
+            "fileSize": 2000000000,
+            "hashValue": "A631AA890E9A5DC24C161755268408DC2EB7A240"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_11.pkg",
+            "fileOffset": 144803453952,
+            "fileSize": 2000000000,
+            "hashValue": "A30CB24F2DF25E358C4B4EED0E81C6D3B626F277"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_12.pkg",
+            "fileOffset": 146803453952,
+            "fileSize": 2000000000,
+            "hashValue": "108242D5A4D82A51B6B2C082FC41B2E56174EAC0"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_13.pkg",
+            "fileOffset": 148803453952,
+            "fileSize": 2000000000,
+            "hashValue": "D06EDDC6F85BEC9D3CA0E8393539E2E2F0E1B44E"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_14.pkg",
+            "fileOffset": 150803453952,
+            "fileSize": 2000000000,
+            "hashValue": "8416638E5A72235D636BB025C407BFF0BEEA9B97"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_15.pkg",
+            "fileOffset": 152803453952,
+            "fileSize": 2000000000,
+            "hashValue": "58BCD463C8EA5A90BBF52BCE09D1ECEE33AD2E57"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_16.pkg",
+            "fileOffset": 154803453952,
+            "fileSize": 2000000000,
+            "hashValue": "FAA62EA1A5B3BAD9F8461E7899DB9346B342EEE2"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_17.pkg",
+            "fileOffset": 156803453952,
+            "fileSize": 2000000000,
+            "hashValue": "460F369C2C6FB44B3F4C78E3F3BD6D366CB44FA1"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_18.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_18.pkg",
+            "fileOffset": 158803453952,
+            "fileSize": 2000000000,
+            "hashValue": "B91A97C818352DA3C98B817F3E885F9320289698"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_19.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_19.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_19.pkg",
+            "fileOffset": 160803453952,
+            "fileSize": 2000000000,
+            "hashValue": "D25FCEEE84D0699DEDE1D2E058431262D33BEE43"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_20.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_20.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_20.pkg",
+            "fileOffset": 162803453952,
+            "fileSize": 2000000000,
+            "hashValue": "5CDB060C30CF1BC7A6A3DAABD219711450B53982"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_21.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_21.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_21.pkg",
+            "fileOffset": 164803453952,
+            "fileSize": 2000000000,
+            "hashValue": "99B72F7DDFF01C703C7D41321BB84A7C79AB72D7"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_22.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_22.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_22.pkg",
+            "fileOffset": 166803453952,
+            "fileSize": 2000000000,
+            "hashValue": "D20E448E3E52EA4ECC50D8378264F60CEAF6218B"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_23.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_23.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_23.pkg",
+            "fileOffset": 168803453952,
+            "fileSize": 2000000000,
+            "hashValue": "DDB362127D83A3DF2E26212963079FCC4326F961"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_24.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_24.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_24.pkg",
+            "fileOffset": 170803453952,
+            "fileSize": 2000000000,
+            "hashValue": "94E99D57007C6261B2F4479FD11BE7025E8A502E"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_25.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_25.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_25.pkg",
+            "fileOffset": 172803453952,
+            "fileSize": 2000000000,
+            "hashValue": "3DC5B4F5E970F1DF752FAA3DA756E8EAFBF5AA30"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_26.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_26.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_26.pkg",
+            "fileOffset": 174803453952,
+            "fileSize": 2000000000,
+            "hashValue": "84C831D469478350583E0E5E29A9B7DB98AC5E38"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_27.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_27.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_27.pkg",
+            "fileOffset": 176803453952,
+            "fileSize": 2000000000,
+            "hashValue": "1F504804417CA42F46A98D548E6EDBA52F29959D"
         },
         {
-            "name": "eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_28.pkg",
-            "size": 1606602752,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_28.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/MEGAPTIF41/eFootball_PES_2021_Mega_Patch_Infinity_Base_Game_28.pkg",
+            "fileOffset": 178803453952,
+            "fileSize": 1606602752,
+            "hashValue": "86F05C7074E1616186DE6295E6CD9A9E71674C3A"
         }
     ]
 }

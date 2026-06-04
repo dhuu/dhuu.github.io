@@ -1,28 +1,31 @@
 {
-    "name": "Poppy Playtime Chapter 1 CUSA46876",
-    "tag": "CUSA46876",
-    "total_size": 6053232640,
-    "number_of_parts": 4,
-    "parts": [
+    "originalFileSize": 6053232640,
+    "packageDigest": "654DFADB4AF57667E9788252E23A8DCC0D961C5D23BC778A7DFC677B875B3A59",
+    "numberOfSplitFiles": 4,
+    "pieces": [
         {
-            "name": "Poppy_Playtime_Chapter_1_CUSA46876_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA46876/Poppy_Playtime_Chapter_1_CUSA46876_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA46876/Poppy_Playtime_Chapter_1_CUSA46876_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "654DFADB4AF57667E9788252E23A8DCC0D961C5D"
         },
         {
-            "name": "Poppy_Playtime_Chapter_1_CUSA46876_1.pkg",
-            "size": 1352690688,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA46876/Poppy_Playtime_Chapter_1_CUSA46876_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA46876/Poppy_Playtime_Chapter_1_CUSA46876_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 1352690688,
+            "hashValue": "684F594148D60C767F2D0DC4FC8D74F9B9140F0B"
         },
         {
-            "name": "Poppy_Playtime_Chapter_1_UP_v101_CUSA46876_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA46876/Poppy_Playtime_Chapter_1_UP_v101_CUSA46876_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA46876/Poppy_Playtime_Chapter_1_UP_v101_CUSA46876_0.pkg",
+            "fileOffset": 3352690688,
+            "fileSize": 2000000000,
+            "hashValue": "3964262965176D91B237ABCC33D58EE52E9E2681"
         },
         {
-            "name": "Poppy_Playtime_Chapter_1_UP_v101_CUSA46876_1.pkg",
-            "size": 700541952,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA46876/Poppy_Playtime_Chapter_1_UP_v101_CUSA46876_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA46876/Poppy_Playtime_Chapter_1_UP_v101_CUSA46876_1.pkg",
+            "fileOffset": 5352690688,
+            "fileSize": 700541952,
+            "hashValue": "09DE9DF1FD91128F0434B83707C9E0668B27A9E2"
         }
     ]
 }

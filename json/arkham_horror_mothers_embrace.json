@@ -1,28 +1,31 @@
 {
-    "name": "Arkham Horror Mother's Embrace",
-    "tag": "CUSA23393",
-    "total_size": 6230573056,
-    "number_of_parts": 4,
-    "parts": [
+    "originalFileSize": 6230573056,
+    "packageDigest": "D6CE5C4EFCE2D6757836405AA4DC17515313AB0A3CF2E1FD425A433D0A327258",
+    "numberOfSplitFiles": 4,
+    "pieces": [
         {
-            "name": "Arkham_Horror_Mothers_Embrace_CUSA23393_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA23393/Arkham_Horror_Mothers_Embrace_CUSA23393_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA23393/Arkham_Horror_Mothers_Embrace_CUSA23393_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "D6CE5C4EFCE2D6757836405AA4DC17515313AB0A"
         },
         {
-            "name": "Arkham_Horror_Mothers_Embrace_CUSA23393_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA23393/Arkham_Horror_Mothers_Embrace_CUSA23393_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA23393/Arkham_Horror_Mothers_Embrace_CUSA23393_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C1BBF7922876A8530D6846CAF971260D0736F79C"
         },
         {
-            "name": "Arkham_Horror_Mothers_Embrace_CUSA23393_BASE_2.pkg",
-            "size": 280090624,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA23393/Arkham_Horror_Mothers_Embrace_CUSA23393_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA23393/Arkham_Horror_Mothers_Embrace_CUSA23393_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 280090624,
+            "hashValue": "F1DAE270323A0805B2A561E8B7436A4610D87666"
         },
         {
-            "name": "Arkham_Horror_Mothers_Embrace_UP_v102_CUSA23393.pkg",
-            "size": 1950482432,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA23393/Arkham_Horror_Mothers_Embrace_UP_v102_CUSA23393.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA23393/Arkham_Horror_Mothers_Embrace_UP_v102_CUSA23393.pkg",
+            "fileOffset": 4280090624,
+            "fileSize": 1950482432,
+            "hashValue": "E72C688B3273571190B241F1EACF34147CDC9AC4"
         }
     ]
 }

@@ -1,263 +1,313 @@
 {
-    "name": "GTAONLINE",
-    "tag": "GTAONLINE",
-    "total_size": 96692011008,
-    "number_of_parts": 51,
-    "parts": [
+    "originalFileSize": 96692011008,
+    "packageDigest": "68FFBD172FB7B5BE58F733ECB6C5244D19A6D70F7E629E72907BC65D0FC0A0C2",
+    "numberOfSplitFiles": 51,
+    "pieces": [
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "68FFBD172FB7B5BE58F733ECB6C5244D19A6D70F"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "05DFE105BEB9EA4169FD512C2D5F6F6AC8A830B9"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7B0222DD4BECB2B27EEDFB8AFB2E653A3308E3AE"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "6E6D7F1737D26B670CBA7B046EA5C5DF4FFB5809"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9C88A4D57D58403073C479C3FEFE4E764FC03760"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C79645B93D44771E4DD3DB076A7AB8E0DE84103A"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BB76657672341C357A9FF69B6F0361F33B444F77"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "8F483DD64DF3078E0D5BA0D9E9F3FD9B81D6CC6F"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F5E393A7ED5E1BBA4FEA3DA02B9BBF3AD222932F"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "FE749F183DB8D6A21F9C7089E9CD63D429FCD61C"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A8A28559F6B75B9A50CDAFF626B5BDC378796F33"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "8C6C6EDC80B1EBE6D8562114CE74CF27DF392F94"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "242D686E77E774D97ECF8CF138BEEB1C2B93BF59"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "56A3ADC7C5851388CC71D790B346F063F141798B"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "28E976CF078755982C2B615345434AD2E6CA3FFC"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B2E00B389BC253D9903E21903B6C18599DBC6961"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E5CE20047BFCFD6213F523C44ABB05376D88BA07"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "28114A7CA86E3B8C5E8D5B3C11CDD805DEDF353E"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_18.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BEDAD2C50088762036EB36FF2CA00D7B24721EF2"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_19.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_19.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_19.pkg",
+            "fileOffset": 38000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5F62AEBD2505F9482DAB28C6998E3CB1BFF0304C"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_20.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_20.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_20.pkg",
+            "fileOffset": 40000000000,
+            "fileSize": 2000000000,
+            "hashValue": "15952F777E75C1983E51B454B37A38427EC1D4F0"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_21.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_21.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_21.pkg",
+            "fileOffset": 42000000000,
+            "fileSize": 2000000000,
+            "hashValue": "763154773CCFCD02A4A3574FD3024621FDCD3587"
         },
         {
-            "name": "GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_22.pkg",
-            "size": 760039424,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_22.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_Base_God_s_Blessing_Mod_Menu_60fps_22.pkg",
+            "fileOffset": 44000000000,
+            "fileSize": 760039424,
+            "hashValue": "21B854ECD0710F8AD0028B8E5A6E395A5575E139"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_0.pkg",
+            "fileOffset": 44760039424,
+            "fileSize": 2000000000,
+            "hashValue": "EB58C09E684B607CE91818EFF970862535FE65E1"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_1.pkg",
+            "fileOffset": 46760039424,
+            "fileSize": 2000000000,
+            "hashValue": "AFDB171DDBF2B05280A727C6707E6EE6543361D9"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_2.pkg",
+            "fileOffset": 48760039424,
+            "fileSize": 2000000000,
+            "hashValue": "D867B670F2F99441812157F17F0CC6BD8EDF9793"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_3.pkg",
+            "fileOffset": 50760039424,
+            "fileSize": 2000000000,
+            "hashValue": "EE978BED470971C4E035F57F651FE4753E51FAAE"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_4.pkg",
+            "fileOffset": 52760039424,
+            "fileSize": 2000000000,
+            "hashValue": "CA848147D7BB5B5C5E2D61F180A661328D4A5C1F"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_5.pkg",
+            "fileOffset": 54760039424,
+            "fileSize": 2000000000,
+            "hashValue": "F8DFDE8CE45C59583D6964B0E1B912FD676EE7DB"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_6.pkg",
+            "fileOffset": 56760039424,
+            "fileSize": 2000000000,
+            "hashValue": "6995494F9EB23ACF97656366A1D022021F7BAEEA"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_7.pkg",
+            "fileOffset": 58760039424,
+            "fileSize": 2000000000,
+            "hashValue": "74897A7088EA6CA2C0808B978B89C68EA09F6264"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_8.pkg",
+            "fileOffset": 60760039424,
+            "fileSize": 2000000000,
+            "hashValue": "B309459BBA83B692F3165FB98ADC1F05FED5171D"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_9.pkg",
+            "fileOffset": 62760039424,
+            "fileSize": 2000000000,
+            "hashValue": "57F84645E9B0B4D265C9E51F57300BD38E3D3B94"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_10.pkg",
+            "fileOffset": 64760039424,
+            "fileSize": 2000000000,
+            "hashValue": "BAD31CED93349C1AFD7125EF43122A4222B94175"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_11.pkg",
+            "fileOffset": 66760039424,
+            "fileSize": 2000000000,
+            "hashValue": "5F1AB43188C89EB45FA145ECE33CC95CCC9A7802"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_12.pkg",
+            "fileOffset": 68760039424,
+            "fileSize": 2000000000,
+            "hashValue": "E767CD3EC4A628D851991BDEC7D43847DAC85CDD"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_13.pkg",
+            "fileOffset": 70760039424,
+            "fileSize": 2000000000,
+            "hashValue": "6F78BEF47FE9D099122C76DB6CBFA9B525F1BBC1"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_14.pkg",
+            "fileOffset": 72760039424,
+            "fileSize": 2000000000,
+            "hashValue": "DCE000093E049822277410DE4D9F207BE151E2D2"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_15.pkg",
+            "fileOffset": 74760039424,
+            "fileSize": 2000000000,
+            "hashValue": "72284E9895EE05190E400E909648A18B5E6185ED"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_16.pkg",
+            "fileOffset": 76760039424,
+            "fileSize": 2000000000,
+            "hashValue": "CA4EB451C6FA48BB02F35CA9B34E5A72AE4C8DF4"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_17.pkg",
+            "fileOffset": 78760039424,
+            "fileSize": 2000000000,
+            "hashValue": "7544F37C63CCBAE8EED7A814DB74A1144734CD17"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_18.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_18.pkg",
+            "fileOffset": 80760039424,
+            "fileSize": 2000000000,
+            "hashValue": "647E2DCBAB6DAA8AA46D32E530CF5116650EB6DB"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_19.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_19.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_19.pkg",
+            "fileOffset": 82760039424,
+            "fileSize": 2000000000,
+            "hashValue": "6C9D6782808CDD9A2A1A607B86F8A0196CE42154"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_20.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_20.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_20.pkg",
+            "fileOffset": 84760039424,
+            "fileSize": 2000000000,
+            "hashValue": "D3891051F99D8B8187702A8FD121AF2E04081FE4"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_21.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_21.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_21.pkg",
+            "fileOffset": 86760039424,
+            "fileSize": 2000000000,
+            "hashValue": "8FD96B406DB245FEF029E477890C84EA1FC009B2"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_22.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_22.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_22.pkg",
+            "fileOffset": 88760039424,
+            "fileSize": 2000000000,
+            "hashValue": "D78514CDD2A37E2BA61B26EEF6E13145FEE7BFB2"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_23.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_23.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_23.pkg",
+            "fileOffset": 90760039424,
+            "fileSize": 2000000000,
+            "hashValue": "D25F1545662D68BF6CEBBFAF3782F69C1BA66737"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_24.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_24.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_24.pkg",
+            "fileOffset": 92760039424,
+            "fileSize": 2000000000,
+            "hashValue": "5E4C3BD277B6C96C31C078EC42BC2D2C91044125"
         },
         {
-            "name": "GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_25.pkg",
-            "size": 1868532736,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_25.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/GTAV_CUSA00419_v156_God_s_Blessing_Mod_Menu_60fps_25.pkg",
+            "fileOffset": 94760039424,
+            "fileSize": 1868532736,
+            "hashValue": "526DF4E842325260B79084B9A6C798BCFB872654"
         },
         {
-            "name": "LSOPluginInstaller.pkg",
-            "size": 9240576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/LSOPluginInstaller.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/LSOPluginInstaller.pkg",
+            "fileOffset": 96628572160,
+            "fileSize": 9240576,
+            "hashValue": "CB3D52C76F9F6AAB8F5C7E463580ABDAB199B6D0"
         },
         {
-            "name": "LSOPluginsprx.pkg",
-            "size": 54198272,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/LSOPluginsprx.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/GTAONLINE/LSOPluginsprx.pkg",
+            "fileOffset": 96637812736,
+            "fileSize": 54198272,
+            "hashValue": "848B57C1B956E88D1CCE031C7ACD95470BDB23EB"
         }
     ]
 }

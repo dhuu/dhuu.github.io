@@ -1,28 +1,31 @@
 {
-    "name": "Saints Row - Gat out of Hell CUSA00939",
-    "tag": "CUSA00939",
-    "total_size": 6668943360,
-    "number_of_parts": 4,
-    "parts": [
+    "originalFileSize": 6668943360,
+    "packageDigest": "54EB0B290BCE66F36FDFE1477891C7DA71C530D9E0CAC1B24F5A0312A0C4EBB1",
+    "numberOfSplitFiles": 4,
+    "pieces": [
         {
-            "name": "Saints_Row_Gat_out_of_Hell_CUSA00939_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00939/Saints_Row_Gat_out_of_Hell_CUSA00939_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00939/Saints_Row_Gat_out_of_Hell_CUSA00939_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "54EB0B290BCE66F36FDFE1477891C7DA71C530D9"
         },
         {
-            "name": "Saints_Row_Gat_out_of_Hell_CUSA00939_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00939/Saints_Row_Gat_out_of_Hell_CUSA00939_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00939/Saints_Row_Gat_out_of_Hell_CUSA00939_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "CF3FDD5F19C753DC69ACECF65B5D848A86C729FB"
         },
         {
-            "name": "Saints_Row_Gat_out_of_Hell_CUSA00939_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00939/Saints_Row_Gat_out_of_Hell_CUSA00939_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00939/Saints_Row_Gat_out_of_Hell_CUSA00939_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1D4B96AC3E8B75936C750B1B6A60C2380118491C"
         },
         {
-            "name": "Saints_Row_Gat_out_of_Hell_CUSA00939_BASE_3.pkg",
-            "size": 668943360,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00939/Saints_Row_Gat_out_of_Hell_CUSA00939_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00939/Saints_Row_Gat_out_of_Hell_CUSA00939_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 668943360,
+            "hashValue": "3E0CB679F3B6410E4DA051635F5A46ECCFB4A35E"
         }
     ]
 }

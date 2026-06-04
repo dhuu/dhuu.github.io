@@ -1,48 +1,55 @@
 {
-    "name": "The Entropy Centre",
-    "tag": "CUSA35695",
-    "total_size": 12677873664,
-    "number_of_parts": 8,
-    "parts": [
+    "originalFileSize": 12677873664,
+    "packageDigest": "CE28305A4022ECF60E54F3EF0C49F5B8E2DFA2337C276EA678E00E9CC7786762",
+    "numberOfSplitFiles": 8,
+    "pieces": [
         {
-            "name": "The_Entropy_Centre_CUSA35695_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_CUSA35695_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_CUSA35695_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "CE28305A4022ECF60E54F3EF0C49F5B8E2DFA233"
         },
         {
-            "name": "The_Entropy_Centre_CUSA35695_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_CUSA35695_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_CUSA35695_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A091C64EB5C44611B2EBE941C2C923B9385C74D0"
         },
         {
-            "name": "The_Entropy_Centre_CUSA35695_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_CUSA35695_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_CUSA35695_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "56391800D1628420C06507DE518A238933691EB7"
         },
         {
-            "name": "The_Entropy_Centre_CUSA35695_BASE_3.pkg",
-            "size": 453919744,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_CUSA35695_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_CUSA35695_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 453919744,
+            "hashValue": "CD38A87AC2B5633F9FAD26CF5464BC0AEA635E9D"
         },
         {
-            "name": "The_Entropy_Centre_UP_v105_CUSA35695_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_UP_v105_CUSA35695_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_UP_v105_CUSA35695_0.pkg",
+            "fileOffset": 6453919744,
+            "fileSize": 2000000000,
+            "hashValue": "E00EF95DF9185B68321FBECE51BA8091A53B8C83"
         },
         {
-            "name": "The_Entropy_Centre_UP_v105_CUSA35695_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_UP_v105_CUSA35695_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_UP_v105_CUSA35695_1.pkg",
+            "fileOffset": 8453919744,
+            "fileSize": 2000000000,
+            "hashValue": "2F683A198659A1F3565473355308C8A1D79F4D3B"
         },
         {
-            "name": "The_Entropy_Centre_UP_v105_CUSA35695_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_UP_v105_CUSA35695_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_UP_v105_CUSA35695_2.pkg",
+            "fileOffset": 10453919744,
+            "fileSize": 2000000000,
+            "hashValue": "790AAC74E05A3D310DF2C95637056835AE04D200"
         },
         {
-            "name": "The_Entropy_Centre_UP_v105_CUSA35695_3.pkg",
-            "size": 223953920,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_UP_v105_CUSA35695_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA35695/The_Entropy_Centre_UP_v105_CUSA35695_3.pkg",
+            "fileOffset": 12453919744,
+            "fileSize": 223953920,
+            "hashValue": "D57FEFC5F25E39577F580FB42B2994D312C30C62"
         }
     ]
 }

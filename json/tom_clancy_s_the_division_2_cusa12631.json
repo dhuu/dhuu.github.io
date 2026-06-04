@@ -1,208 +1,247 @@
 {
-    "name": "Tom_Clancy_s_The_Division_2_CUSA12631",
-    "tag": "CUSA12631",
-    "total_size": 79069315072,
-    "number_of_parts": 40,
-    "parts": [
+    "originalFileSize": 79069315072,
+    "packageDigest": "43F949BCADF52ED49F7157AF6BDF313D3E9F740D934DFCBBA2A9ED131EE48488",
+    "numberOfSplitFiles": 40,
+    "pieces": [
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "43F949BCADF52ED49F7157AF6BDF313D3E9F740D"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "99D18665869D3BD1320AFCD2857A71FD2096504C"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "AF9879E9EE2A34541DF0D91646CBA40EFD16E9C1"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4780D659A6F1820AA6E4F7736B2137B94ACD0C8A"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4C3E6FA2B83CBEEA86E619697065A3E1CA3DF2FD"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "33AFA4A3AC90346989533E78F9E79297F4E4BB02"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D4A83363E1C02F94CAFB4880C6B77CCD0F6735D8"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9708F154B469101B64F9162B7081666E60732F8A"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3E096AF6148983A3C23D513C9749936D5E114D05"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "20A6D730507DA28B604DDCBADC29E1ADFA88E3F4"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7ED2C2EFA6871525C1400225090D06741A8DC54D"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1DB3122CD8175E30F8A206C851ACC910C2B311EE"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9BA7A3527C968A9229EF48F319020186DCEF63DB"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A367C06C6DA424DEAD8A04981F123F4662F457FC"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1469365B37B5F47039B0A13995E07EF512FD419A"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "49BB938B00ED81805881A4A3E33C3105443D58D0"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3C034740CC663436F3B3A2E32CB015AA66A0F252"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0CBAE83995570A42B88AE3FB8ED1E2E127465E59"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_18.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 2000000000,
+            "hashValue": "893E140001B61B4C16167E61F985C06FE05AD89C"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_19.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_19.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_19.pkg",
+            "fileOffset": 38000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1C60A623CD4DF356EDF7E785E603BB4808357857"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_20.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_20.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_20.pkg",
+            "fileOffset": 40000000000,
+            "fileSize": 2000000000,
+            "hashValue": "21E336A946CBDAE66B3E931D82ED412547581567"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_21.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_21.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_21.pkg",
+            "fileOffset": 42000000000,
+            "fileSize": 2000000000,
+            "hashValue": "85902091AD84E359AE7ADC8C528503E0482FC262"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_22.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_22.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_22.pkg",
+            "fileOffset": 44000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D5EBEFD67922EB5B0AE9D96F68B6DD46DFAA4E0E"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_23.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_23.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_23.pkg",
+            "fileOffset": 46000000000,
+            "fileSize": 2000000000,
+            "hashValue": "27A24398FC2531A0EC96EA35E76667BB21609F1F"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_24.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_24.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_24.pkg",
+            "fileOffset": 48000000000,
+            "fileSize": 2000000000,
+            "hashValue": "39642D079CAB7CBBD202EB9D7E62D4B19E3E3D3E"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_25.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_25.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_25.pkg",
+            "fileOffset": 50000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5FBD689CC58E8C0F0A567A7B2323D664748DEA5F"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_26.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_26.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_26.pkg",
+            "fileOffset": 52000000000,
+            "fileSize": 2000000000,
+            "hashValue": "86186EE46E1208EF1A9838B63DE54A074CEBAD31"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_27.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_27.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_27.pkg",
+            "fileOffset": 54000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A3DD844C9607CFEEF8C665A9536650FB02F4F331"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_28.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_28.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_28.pkg",
+            "fileOffset": 56000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5F1831599AC2FAF6689A23060BA3F9FF25C8749D"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_29.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_29.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_29.pkg",
+            "fileOffset": 58000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9C9C5FD7AFD404AD8D7C3BCDB6A8F31A4EBFACDF"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_30.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_30.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_30.pkg",
+            "fileOffset": 60000000000,
+            "fileSize": 2000000000,
+            "hashValue": "FA5E718F230830230AD21D39E4AABBE77B98DD4C"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_31.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_31.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_31.pkg",
+            "fileOffset": 62000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A5CA9AB2A203FA899C3CBCBB2A43E392493A6655"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_32.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_32.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_32.pkg",
+            "fileOffset": 64000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BCDBB2AB8CDD0906A45CB678C8BFE0A93AAA8F2E"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_33.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_33.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_33.pkg",
+            "fileOffset": 66000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7CD90FFA98EE3182720BB4A700EEFFB5A33AA25F"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_34.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_34.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_34.pkg",
+            "fileOffset": 68000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1E6DC90DF26860A03E375B902111CA6EA9621C1F"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_35.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_35.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_35.pkg",
+            "fileOffset": 70000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BCA9AD5C1E0C38A826D95EEAA215BD107BF02E8D"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_36.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_36.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_36.pkg",
+            "fileOffset": 72000000000,
+            "fileSize": 2000000000,
+            "hashValue": "52B21DA8F172CA0FAF01223C20B8898D70246A33"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_37.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_37.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_37.pkg",
+            "fileOffset": 74000000000,
+            "fileSize": 2000000000,
+            "hashValue": "ED33B1260E4992E23C4FA292A3FCAC8D44F43963"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_38.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_38.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_38.pkg",
+            "fileOffset": 76000000000,
+            "fileSize": 2000000000,
+            "hashValue": "8EF67068783221454D064CA45F9C184EA4B2B46E"
         },
         {
-            "name": "Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_39.pkg",
-            "size": 1069315072,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_39.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12631/Tom_Clancy_s_The_Division_2_CUSA12631_A0218_V0100_39.pkg",
+            "fileOffset": 78000000000,
+            "fileSize": 1069315072,
+            "hashValue": "9A8ADEF7A7A0ECA163199229225F13C826200B35"
         }
     ]
 }

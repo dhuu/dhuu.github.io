@@ -1,163 +1,193 @@
 {
-    "name": "The Last of Us Remastered CUSA00552",
-    "tag": "CUSA00552",
-    "total_size": 44273827840,
-    "number_of_parts": 31,
-    "parts": [
+    "originalFileSize": 44273827840,
+    "packageDigest": "2F16ADDD3069D7FBCFC6E063705675C508484E22A5042FF0B8FC11DC2D729CD4",
+    "numberOfSplitFiles": 31,
+    "pieces": [
         {
-            "name": "CUSA00552_DLC_Early_Brawler_Survival_Skill.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Early_Brawler_Survival_Skill.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Early_Brawler_Survival_Skill.pkg",
+            "fileOffset": 0,
+            "fileSize": 1048576,
+            "hashValue": "2F16ADDD3069D7FBCFC6E063705675C508484E22"
         },
         {
-            "name": "CUSA00552_DLC_Early_Hat_Access.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Early_Hat_Access.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Early_Hat_Access.pkg",
+            "fileOffset": 1048576,
+            "fileSize": 1048576,
+            "hashValue": "7155A00DF902186FB9B67F3BB6DF0AC78788734D"
         },
         {
-            "name": "CUSA00552_DLC_Extra_Supply.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Extra_Supply.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Extra_Supply.pkg",
+            "fileOffset": 2097152,
+            "fileSize": 1048576,
+            "hashValue": "48C5E3F30FB42CD7F3E16F8791ED0A8658B44E94"
         },
         {
-            "name": "CUSA00552_DLC_Loadout_Points.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Loadout_Points.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Loadout_Points.pkg",
+            "fileOffset": 3145728,
+            "fileSize": 1048576,
+            "hashValue": "163C203B7BCC158142B58F707EBD32897E960771"
         },
         {
-            "name": "CUSA00552_DLC_Single_Player_Free_Upgrades.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Single_Player_Free_Upgrades.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Single_Player_Free_Upgrades.pkg",
+            "fileOffset": 4194304,
+            "fileSize": 1048576,
+            "hashValue": "796A4208213A4C50A6F6C71E501DA776376C8033"
         },
         {
-            "name": "CUSA00552_DLC_Single_Player_Preorder_Ellie_Skin.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Single_Player_Preorder_Ellie_Skin.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Single_Player_Preorder_Ellie_Skin.pkg",
+            "fileOffset": 5242880,
+            "fileSize": 1048576,
+            "hashValue": "4CE7742544F8E3F762CBB66DCF9906F5DF2D06FD"
         },
         {
-            "name": "CUSA00552_DLC_Single_Player_Preorder_Joel_Skin.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Single_Player_Preorder_Joel_Skin.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/CUSA00552_DLC_Single_Player_Preorder_Joel_Skin.pkg",
+            "fileOffset": 6291456,
+            "fileSize": 1048576,
+            "hashValue": "EDDA128B7C879CA39FCE15E2BE9F064A577314AA"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_111_UPDATE.pkg",
-            "size": 371261440,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_111_UPDATE.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_111_UPDATE.pkg",
+            "fileOffset": 7340032,
+            "fileSize": 371261440,
+            "hashValue": "E8A12494FCD2364050C0DDABF9C06AFB60B93F93"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_111_UPDATE_DEVMENU.pkg",
-            "size": 371261440,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_111_UPDATE_DEVMENU.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_111_UPDATE_DEVMENU.pkg",
+            "fileOffset": 378601472,
+            "fileSize": 371261440,
+            "hashValue": "A1C9BB9D63BE1B832DD6772C8CECE1EE3981FFDA"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_0.pkg",
+            "fileOffset": 749862912,
+            "fileSize": 2000000000,
+            "hashValue": "4E9BB3165A0A98247CEF94718AE444654CE37208"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_1.pkg",
+            "fileOffset": 2749862912,
+            "fileSize": 2000000000,
+            "hashValue": "8D0F41E2300195D36B54A94E8976F57B75262C5D"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_2.pkg",
+            "fileOffset": 4749862912,
+            "fileSize": 2000000000,
+            "hashValue": "0927952E214DD6E5408A265AC7955D9029BA5638"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_3.pkg",
+            "fileOffset": 6749862912,
+            "fileSize": 2000000000,
+            "hashValue": "87FDA8FBF36AAF3EA65356FC41E0328E9C91AC44"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_4.pkg",
+            "fileOffset": 8749862912,
+            "fileSize": 2000000000,
+            "hashValue": "748C515C2DEA29BB78C9A22FB5B607E74A63B431"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_5.pkg",
+            "fileOffset": 10749862912,
+            "fileSize": 2000000000,
+            "hashValue": "AEB89B7CB1DFEFC573781D7BB791538135459AE2"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_6.pkg",
+            "fileOffset": 12749862912,
+            "fileSize": 2000000000,
+            "hashValue": "FB1E7DC6D8D1D1D0AEF5C6F2C26B2723F91D2D11"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_7.pkg",
+            "fileOffset": 14749862912,
+            "fileSize": 2000000000,
+            "hashValue": "4F409001981747BD3748D3EDCA86A194F5344C56"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_8.pkg",
+            "fileOffset": 16749862912,
+            "fileSize": 2000000000,
+            "hashValue": "EC3B68CBEDFE72B8E700086078C3B7BB5536BC05"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_9.pkg",
+            "fileOffset": 18749862912,
+            "fileSize": 2000000000,
+            "hashValue": "09480BFAFA0B0652F09F8AA961E68C751713553B"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_10.pkg",
+            "fileOffset": 20749862912,
+            "fileSize": 2000000000,
+            "hashValue": "4462BAE0335505C46C55BA867EAE1A7A24D1BF91"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_11.pkg",
+            "fileOffset": 22749862912,
+            "fileSize": 2000000000,
+            "hashValue": "89497B1BED24632C531A7EA2F5DDBFECCA49B3E2"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_12.pkg",
+            "fileOffset": 24749862912,
+            "fileSize": 2000000000,
+            "hashValue": "C89A14F507FDA3D2D133AA74023E0043975CB90A"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_13.pkg",
+            "fileOffset": 26749862912,
+            "fileSize": 2000000000,
+            "hashValue": "30A775E2878DC353136BAF72690A0EC51F486314"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_14.pkg",
+            "fileOffset": 28749862912,
+            "fileSize": 2000000000,
+            "hashValue": "D3A20D2EB33211E0DBFDAD96CAD7AB571508094A"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_15.pkg",
+            "fileOffset": 30749862912,
+            "fileSize": 2000000000,
+            "hashValue": "570DE327DD386206E7F60D8777ACDA2D130AA555"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_16.pkg",
+            "fileOffset": 32749862912,
+            "fileSize": 2000000000,
+            "hashValue": "03A290114D4B0D194C2B5148848884D8C5850A1F"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_17.pkg",
+            "fileOffset": 34749862912,
+            "fileSize": 2000000000,
+            "hashValue": "7EAE6C207B812C9EC398BA5FAAEA1624D12F8918"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_18.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_18.pkg",
+            "fileOffset": 36749862912,
+            "fileSize": 2000000000,
+            "hashValue": "92E6C5823CD8E0B75964FC4E18006479E044B147"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_19.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_19.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_19.pkg",
+            "fileOffset": 38749862912,
+            "fileSize": 2000000000,
+            "hashValue": "0510F57DE1875AF588566B4950D7B8C4DCB2C67A"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_20.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_20.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_20.pkg",
+            "fileOffset": 40749862912,
+            "fileSize": 2000000000,
+            "hashValue": "E3ECAF8C2D55BBE3499613948A647C6B0F6DE1C0"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_BASE_21.pkg",
-            "size": 1523964928,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_21.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00552/The_Last_of_Us_Remastered_CUSA00552_BASE_21.pkg",
+            "fileOffset": 42749862912,
+            "fileSize": 1523964928,
+            "hashValue": "8373AF25D2E459080CB0DB55BEE664A37960A186"
         }
     ]
 }

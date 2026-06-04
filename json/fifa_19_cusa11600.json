@@ -1,118 +1,139 @@
 {
-    "name": "FIFA 19 CUSA11600",
-    "tag": "CUSA11600",
-    "total_size": 38739640320,
-    "number_of_parts": 22,
-    "parts": [
+    "originalFileSize": 38739640320,
+    "packageDigest": "217194A061BE304D77CCE959004D262824E5833F811638FF606B33E34844F57A",
+    "numberOfSplitFiles": 22,
+    "pieces": [
         {
-            "name": "FIFA_19_CUSA11600_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "217194A061BE304D77CCE959004D262824E5833F"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4301C2E2FB5D47DB993F5D5C513EE8A0DE09993C"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "76EF6C1550FACDFD68939271BDAAA4E47F1167C5"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "873B406F1983657F7B76E0F77E3FF9DF85CDBC79"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "46F61A2838488D404420D0827278CFF86A23C0F3"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "006C3087777E7E2FFFB2575CAD58D174393BD3FD"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E6C49BD4A01CC44E1EE169D7CE5F343217240291"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F40701FC0D30BCDF205C361B8FA44338082B52DC"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D12D7AAF3B7E7909AF7BB7E6937E375CCC6155F4"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "775F065E8A44DEC22AA36C3F9F49EA8DBF26DA4D"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "308BD9580A86959C5163702D47B4E0772A99F4FB"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A240F5F83F457E57668947CEE2B342676A2F56DD"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0640CA3603A3B6E8FC3535B4C9F1FE689DBE73A7"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "10AC435DADD97D2ECC0262EA68D143A8A3F5A84A"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A5333EBB880807957A53CD68898DB30AAE81C035"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "22E9CB39297C4CBBCF116341F9FCD1A3C0AAD2AB"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2A52F1FDE4DCC09BCD46DA04E551628E2032EFC4"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F616A137F34443BBE4F2FF7FEDFB4AC14726D030"
         },
         {
-            "name": "FIFA_19_CUSA11600_BASE_18.pkg",
-            "size": 377919488,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_BASE_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 377919488,
+            "hashValue": "055894BC6065193E30EEAD53B3B38745D2E89170"
         },
         {
-            "name": "FIFA_19_CUSA11600_v117_CUSA11600_UPDATE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_v117_CUSA11600_UPDATE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_v117_CUSA11600_UPDATE_0.pkg",
+            "fileOffset": 36377919488,
+            "fileSize": 2000000000,
+            "hashValue": "728E29125AF4115CB767F61E2DCD49D6014BF5E0"
         },
         {
-            "name": "FIFA_19_CUSA11600_v117_CUSA11600_UPDATE_1.pkg",
-            "size": 360672256,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_v117_CUSA11600_UPDATE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/FIFA_19_CUSA11600_v117_CUSA11600_UPDATE_1.pkg",
+            "fileOffset": 38377919488,
+            "fileSize": 360672256,
+            "hashValue": "365CBD38ED395533F76302039A067092AF748128"
         },
         {
-            "name": "UP0006_CUSA11600_00_THEJOURNEYBUNDLE.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/UP0006_CUSA11600_00_THEJOURNEYBUNDLE.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA11600/UP0006_CUSA11600_00_THEJOURNEYBUNDLE.pkg",
+            "fileOffset": 38738591744,
+            "fileSize": 1048576,
+            "hashValue": "26FE72BF3CB2BBF78FC062C464CA942DF9B85518"
         }
     ]
 }

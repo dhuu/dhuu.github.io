@@ -1,38 +1,43 @@
 {
-    "name": "The Forgotten City",
-    "tag": "CUSA26944",
-    "total_size": 11346968576,
-    "number_of_parts": 6,
-    "parts": [
+    "originalFileSize": 11346968576,
+    "packageDigest": "59BA584D8A2BDD00F9E5EB1C9CF49BD4630EB363A12F1BD69862CA33216D10C8",
+    "numberOfSplitFiles": 6,
+    "pieces": [
         {
-            "name": "The_Forgotten_City_CUSA26944_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26944/The_Forgotten_City_CUSA26944_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26944/The_Forgotten_City_CUSA26944_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "59BA584D8A2BDD00F9E5EB1C9CF49BD4630EB363"
         },
         {
-            "name": "The_Forgotten_City_CUSA26944_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26944/The_Forgotten_City_CUSA26944_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26944/The_Forgotten_City_CUSA26944_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "60AB4145C8D61EE0582476C030AA172D65643884"
         },
         {
-            "name": "The_Forgotten_City_CUSA26944_BASE_2.pkg",
-            "size": 1474549760,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26944/The_Forgotten_City_CUSA26944_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26944/The_Forgotten_City_CUSA26944_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 1474549760,
+            "hashValue": "A5EACB1643FC259BF1B18B72587C38EC847D9430"
         },
         {
-            "name": "The_Forgotten_City_UP_v104_CUSA26944_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26944/The_Forgotten_City_UP_v104_CUSA26944_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26944/The_Forgotten_City_UP_v104_CUSA26944_0.pkg",
+            "fileOffset": 5474549760,
+            "fileSize": 2000000000,
+            "hashValue": "F2F19046C73D80CDB00D83EA28DA38AC5DB36E47"
         },
         {
-            "name": "The_Forgotten_City_UP_v104_CUSA26944_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26944/The_Forgotten_City_UP_v104_CUSA26944_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26944/The_Forgotten_City_UP_v104_CUSA26944_1.pkg",
+            "fileOffset": 7474549760,
+            "fileSize": 2000000000,
+            "hashValue": "7D21BB9EBC25640DB6DC851C3D5F4FB0A8E56696"
         },
         {
-            "name": "The_Forgotten_City_UP_v104_CUSA26944_2.pkg",
-            "size": 1872418816,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26944/The_Forgotten_City_UP_v104_CUSA26944_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26944/The_Forgotten_City_UP_v104_CUSA26944_2.pkg",
+            "fileOffset": 9474549760,
+            "fileSize": 1872418816,
+            "hashValue": "A35294C77C127AB14BB81866A11BCAE274170582"
         }
     ]
 }

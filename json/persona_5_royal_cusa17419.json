@@ -1,118 +1,139 @@
 {
-    "name": "Persona_5_Royal_CUSA17419",
-    "tag": "CUSA17419",
-    "total_size": 41186033664,
-    "number_of_parts": 22,
-    "parts": [
+    "originalFileSize": 41186033664,
+    "packageDigest": "6ADDAA032B15A00969E00CEB1170DB35C987A9489ACD1AB07C44EDB71C065C70",
+    "numberOfSplitFiles": 22,
+    "pieces": [
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "6ADDAA032B15A00969E00CEB1170DB35C987A948"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "795D9353B76169533DA68C888E1CC7ADC7F25999"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "75E95AFECE0365286A8A0EC3D9276EC6F831E538"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F60E94F377CD3898DF0CE8EEBF52E27B4809D344"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BFBE52E49AABF0A2AE94A525AFEDF9461D754B64"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "891DE206E32EA267724A334A237DCB3004C37A81"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E344DD2CD0611A60E81300C7558DE9DBD4739C42"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "99DB724594688E11AFFAED568B577C42AE3234FE"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "ADBB9220AF0D7BBB3F4C637EBC4DCD0196E0B3D7"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E9DE6AD1851A45F0D1A345928C60A5203302C70E"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "400AA1CC2960250874908B68D922C66236CF8DF0"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BA5B4F383483BEBC42F2A03B1D88FF8B761F9E2F"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C2E1D5503000A92365F41BB08BD6BD16D2331E1E"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A5413947CA380E8CEBE02FDD019B2E34318A978A"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "91CF126D28E8FC66BE0DDF2850F11EC5A4AD6D90"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "44FE76463F04D9647EBD8DD26B1D7FE1E7B8D01D"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2F21AA2302018B7E6A65CF54735BADBA66AAE5E9"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C7834E3591AA455735D7F34959A2EE796D5BEA95"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_702_672_18.pkg",
-            "size": 1759549440,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_702_672_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 1759549440,
+            "hashValue": "C250A53C3A0FC4EEE1ED3D1E5E22B54C9A5CDDDA"
         },
         {
-            "name": "Persona_5_Royal_CUSA17419_A0101_BACKPORT505.pkg",
-            "size": 875298816,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_A0101_BACKPORT505.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/Persona_5_Royal_CUSA17419_A0101_BACKPORT505.pkg",
+            "fileOffset": 37759549440,
+            "fileSize": 875298816,
+            "hashValue": "5EA0250D9428DE0E995890D99BFFA2D361231966"
         },
         {
-            "name": "UPDATE_102_COM_TRADUCAO_CUSA17419_BR.pkg",
-            "size": 1271660544,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/UPDATE_102_COM_TRADUCAO_CUSA17419_BR.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/UPDATE_102_COM_TRADUCAO_CUSA17419_BR.pkg",
+            "fileOffset": 38634848256,
+            "fileSize": 1271660544,
+            "hashValue": "73FA50D214F3436C7C3937B3FA596FD7A6A99263"
         },
         {
-            "name": "UPDATE_102_COM_TRADUCAO_FW_505_CUSA17419_BR.pkg",
-            "size": 1279524864,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/UPDATE_102_COM_TRADUCAO_FW_505_CUSA17419_BR.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17419/UPDATE_102_COM_TRADUCAO_FW_505_CUSA17419_BR.pkg",
+            "fileOffset": 39906508800,
+            "fileSize": 1279524864,
+            "hashValue": "C34EB5A02C950E61CB143D2D5F309F4BA5707CD6"
         }
     ]
 }

@@ -1,178 +1,211 @@
 {
-    "name": "Fallout 4 CUSA03448",
-    "tag": "CUSA03448",
-    "total_size": 59115634688,
-    "number_of_parts": 34,
-    "parts": [
+    "originalFileSize": 59115634688,
+    "packageDigest": "2448B3781D83594941D424F4B586B65D61E1F04B01B21B02FAE075D4C1CDDDE5",
+    "numberOfSplitFiles": 34,
+    "pieces": [
         {
-            "name": "Dublado_CUSA03448_00_FALLOUT4DLC00001.pkg",
-            "size": 1418723328,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00001.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00001.pkg",
+            "fileOffset": 0,
+            "fileSize": 1418723328,
+            "hashValue": "2448B3781D83594941D424F4B586B65D61E1F04B"
         },
         {
-            "name": "Dublado_CUSA03448_00_FALLOUT4DLC00002.pkg",
-            "size": 55640064,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00002.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00002.pkg",
+            "fileOffset": 1418723328,
+            "fileSize": 55640064,
+            "hashValue": "C770EA41430E504BF881197773450C940EC2F635"
         },
         {
-            "name": "Dublado_CUSA03448_00_FALLOUT4DLC00003_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00003_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00003_0.pkg",
+            "fileOffset": 1474363392,
+            "fileSize": 2000000000,
+            "hashValue": "6917F61B7F0A9B6D6694BFDAFF4DD8402B2186AF"
         },
         {
-            "name": "Dublado_CUSA03448_00_FALLOUT4DLC00003_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00003_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00003_1.pkg",
+            "fileOffset": 3474363392,
+            "fileSize": 2000000000,
+            "hashValue": "11638A2B9BB289B8669CE9EB45DB9D9C5607BD93"
         },
         {
-            "name": "Dublado_CUSA03448_00_FALLOUT4DLC00003_2.pkg",
-            "size": 1394268160,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00003_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00003_2.pkg",
+            "fileOffset": 5474363392,
+            "fileSize": 1394268160,
+            "hashValue": "A8B5BBAF80127D230DC1EC179CB6108DAE715569"
         },
         {
-            "name": "Dublado_CUSA03448_00_FALLOUT4DLC00004.pkg",
-            "size": 152764416,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00004.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00004.pkg",
+            "fileOffset": 6868631552,
+            "fileSize": 152764416,
+            "hashValue": "B6FCF7A276A9EABBFDEA3A28AC748C19BC4F8FEF"
         },
         {
-            "name": "Dublado_CUSA03448_00_FALLOUT4DLC00005.pkg",
-            "size": 581566464,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00005.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00005.pkg",
+            "fileOffset": 7021395968,
+            "fileSize": 581566464,
+            "hashValue": "A4DEAA88ACA4C225CE8B1D8EA029B14B56DDDC0C"
         },
         {
-            "name": "Dublado_CUSA03448_00_FALLOUT4DLC00006_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00006_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00006_0.pkg",
+            "fileOffset": 7602962432,
+            "fileSize": 2000000000,
+            "hashValue": "988981D22B64835B45FEF1E0884008D1E162DCE8"
         },
         {
-            "name": "Dublado_CUSA03448_00_FALLOUT4DLC00006_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00006_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00006_1.pkg",
+            "fileOffset": 9602962432,
+            "fileSize": 2000000000,
+            "hashValue": "7EB2B0D659C081C564D0B8F4AC7C7EA9CFE982EF"
         },
         {
-            "name": "Dublado_CUSA03448_00_FALLOUT4DLC00006_2.pkg",
-            "size": 666228736,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00006_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Dublado_CUSA03448_00_FALLOUT4DLC00006_2.pkg",
+            "fileOffset": 11602962432,
+            "fileSize": 666228736,
+            "hashValue": "28911C3380ACA98982036EA136DABE5516AC2CD1"
         },
         {
-            "name": "Fallout_4_CUSA03448_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_0.pkg",
+            "fileOffset": 12269191168,
+            "fileSize": 2000000000,
+            "hashValue": "26857E1E414BC3102A9B0D622CF293554202D542"
         },
         {
-            "name": "Fallout_4_CUSA03448_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_1.pkg",
+            "fileOffset": 14269191168,
+            "fileSize": 2000000000,
+            "hashValue": "51E843110FD7A0ACA56C622B8BA3BC0F45DB4F1D"
         },
         {
-            "name": "Fallout_4_CUSA03448_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_2.pkg",
+            "fileOffset": 16269191168,
+            "fileSize": 2000000000,
+            "hashValue": "C4DD74F7DFB46A00B9990A86EBDBEE05E31C6617"
         },
         {
-            "name": "Fallout_4_CUSA03448_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_3.pkg",
+            "fileOffset": 18269191168,
+            "fileSize": 2000000000,
+            "hashValue": "F74BAB1F2F71D4B7F59E93C7EB351356AA181AE8"
         },
         {
-            "name": "Fallout_4_CUSA03448_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_4.pkg",
+            "fileOffset": 20269191168,
+            "fileSize": 2000000000,
+            "hashValue": "0CE2A954188A4C0D9645125EEE2515CFB9F261EC"
         },
         {
-            "name": "Fallout_4_CUSA03448_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_5.pkg",
+            "fileOffset": 22269191168,
+            "fileSize": 2000000000,
+            "hashValue": "28AB152C11D857E33358CF9B9EC4A09567FC4726"
         },
         {
-            "name": "Fallout_4_CUSA03448_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_6.pkg",
+            "fileOffset": 24269191168,
+            "fileSize": 2000000000,
+            "hashValue": "98CE482E47297E60E37730419005A6212A316985"
         },
         {
-            "name": "Fallout_4_CUSA03448_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_7.pkg",
+            "fileOffset": 26269191168,
+            "fileSize": 2000000000,
+            "hashValue": "3177ACC123A1DF204F6ACA1332A885D1FFDC2B37"
         },
         {
-            "name": "Fallout_4_CUSA03448_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_8.pkg",
+            "fileOffset": 28269191168,
+            "fileSize": 2000000000,
+            "hashValue": "A4F9D66F46E95C0F8BE3792C628D3B2ACB341ECF"
         },
         {
-            "name": "Fallout_4_CUSA03448_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_9.pkg",
+            "fileOffset": 30269191168,
+            "fileSize": 2000000000,
+            "hashValue": "B7192561505EBA89B15DEC8CCD4E6BB9C6AEB8D7"
         },
         {
-            "name": "Fallout_4_CUSA03448_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_10.pkg",
+            "fileOffset": 32269191168,
+            "fileSize": 2000000000,
+            "hashValue": "03578D1D89E1A6E190F24C06740B16D6DB74FC7D"
         },
         {
-            "name": "Fallout_4_CUSA03448_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_11.pkg",
+            "fileOffset": 34269191168,
+            "fileSize": 2000000000,
+            "hashValue": "C0F402E5472CB1731006B26D022DCA3AADB445C8"
         },
         {
-            "name": "Fallout_4_CUSA03448_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_12.pkg",
+            "fileOffset": 36269191168,
+            "fileSize": 2000000000,
+            "hashValue": "9FC95246A4B977683EA4C07BDB4F444542B85084"
         },
         {
-            "name": "Fallout_4_CUSA03448_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_13.pkg",
+            "fileOffset": 38269191168,
+            "fileSize": 2000000000,
+            "hashValue": "B3C18A91F99EAF7988277C0F731B88525568A541"
         },
         {
-            "name": "Fallout_4_CUSA03448_14.pkg",
-            "size": 1846011904,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_CUSA03448_14.pkg",
+            "fileOffset": 40269191168,
+            "fileSize": 1846011904,
+            "hashValue": "AB413C0EE05CAF94214F596C396FC78E5E3BD12F"
         },
         {
-            "name": "Fallout_4_UP_v137_CUSA03448_Dublado_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_0.pkg",
+            "fileOffset": 42115203072,
+            "fileSize": 2000000000,
+            "hashValue": "8CDD55C8A6AE9917BB5935FBBF7D280290FB01C7"
         },
         {
-            "name": "Fallout_4_UP_v137_CUSA03448_Dublado_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_1.pkg",
+            "fileOffset": 44115203072,
+            "fileSize": 2000000000,
+            "hashValue": "7DE2EDD3E7FB4EBAE9ADD769685274326CD77698"
         },
         {
-            "name": "Fallout_4_UP_v137_CUSA03448_Dublado_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_2.pkg",
+            "fileOffset": 46115203072,
+            "fileSize": 2000000000,
+            "hashValue": "81B9A8074BBF091ECF016FA727AF9BF12C5F57E1"
         },
         {
-            "name": "Fallout_4_UP_v137_CUSA03448_Dublado_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_3.pkg",
+            "fileOffset": 48115203072,
+            "fileSize": 2000000000,
+            "hashValue": "DE9E6ADFD85E7D1FFA0DE8D8413701FD8F0CE87B"
         },
         {
-            "name": "Fallout_4_UP_v137_CUSA03448_Dublado_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_4.pkg",
+            "fileOffset": 50115203072,
+            "fileSize": 2000000000,
+            "hashValue": "2E9F9C99DA6CCF1CD46BB39258B8FB4F66543595"
         },
         {
-            "name": "Fallout_4_UP_v137_CUSA03448_Dublado_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_5.pkg",
+            "fileOffset": 52115203072,
+            "fileSize": 2000000000,
+            "hashValue": "E2B78CF155F8B0CE6C30CBC759D15F81A9C2B583"
         },
         {
-            "name": "Fallout_4_UP_v137_CUSA03448_Dublado_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_6.pkg",
+            "fileOffset": 54115203072,
+            "fileSize": 2000000000,
+            "hashValue": "BB24D633F4F5C6AEB2D123DBBA1F911F43A80DF7"
         },
         {
-            "name": "Fallout_4_UP_v137_CUSA03448_Dublado_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_7.pkg",
+            "fileOffset": 56115203072,
+            "fileSize": 2000000000,
+            "hashValue": "5FBC62E133FE8A082BDB1E2BC378F6F4702B9444"
         },
         {
-            "name": "Fallout_4_UP_v137_CUSA03448_Dublado_8.pkg",
-            "size": 1000431616,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA03448/Fallout_4_UP_v137_CUSA03448_Dublado_8.pkg",
+            "fileOffset": 58115203072,
+            "fileSize": 1000431616,
+            "hashValue": "EF9C9C47FC56461C37772560EE9181A6F98167E8"
         }
     ]
 }

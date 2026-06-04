@@ -1,113 +1,133 @@
 {
-    "name": "Valkyrie Elysium CUSA33214",
-    "tag": "CUSA33214",
-    "total_size": 22408200192,
-    "number_of_parts": 21,
-    "parts": [
+    "originalFileSize": 22408200192,
+    "packageDigest": "2F16ADDD3069D7FBCFC6E063705675C508484E22A5042FF0B8FC11DC2D729CD4",
+    "numberOfSplitFiles": 21,
+    "pieces": [
         {
-            "name": "CUSA00552_DLC_Early_Brawler_Survival_Skill.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Early_Brawler_Survival_Skill.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Early_Brawler_Survival_Skill.pkg",
+            "fileOffset": 0,
+            "fileSize": 1048576,
+            "hashValue": "2F16ADDD3069D7FBCFC6E063705675C508484E22"
         },
         {
-            "name": "CUSA00552_DLC_Early_Hat_Access.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Early_Hat_Access.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Early_Hat_Access.pkg",
+            "fileOffset": 1048576,
+            "fileSize": 1048576,
+            "hashValue": "7155A00DF902186FB9B67F3BB6DF0AC78788734D"
         },
         {
-            "name": "CUSA00552_DLC_Extra_Supply.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Extra_Supply.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Extra_Supply.pkg",
+            "fileOffset": 2097152,
+            "fileSize": 1048576,
+            "hashValue": "48C5E3F30FB42CD7F3E16F8791ED0A8658B44E94"
         },
         {
-            "name": "CUSA00552_DLC_Loadout_Points.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Loadout_Points.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Loadout_Points.pkg",
+            "fileOffset": 3145728,
+            "fileSize": 1048576,
+            "hashValue": "163C203B7BCC158142B58F707EBD32897E960771"
         },
         {
-            "name": "CUSA00552_DLC_Single_Player_Free_Upgrades.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Single_Player_Free_Upgrades.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Single_Player_Free_Upgrades.pkg",
+            "fileOffset": 4194304,
+            "fileSize": 1048576,
+            "hashValue": "796A4208213A4C50A6F6C71E501DA776376C8033"
         },
         {
-            "name": "CUSA00552_DLC_Single_Player_Preorder_Ellie_Skin.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Single_Player_Preorder_Ellie_Skin.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Single_Player_Preorder_Ellie_Skin.pkg",
+            "fileOffset": 5242880,
+            "fileSize": 1048576,
+            "hashValue": "4CE7742544F8E3F762CBB66DCF9906F5DF2D06FD"
         },
         {
-            "name": "CUSA00552_DLC_Single_Player_Preorder_Joel_Skin.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Single_Player_Preorder_Joel_Skin.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/CUSA00552_DLC_Single_Player_Preorder_Joel_Skin.pkg",
+            "fileOffset": 6291456,
+            "fileSize": 1048576,
+            "hashValue": "EDDA128B7C879CA39FCE15E2BE9F064A577314AA"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_111_UPDATE.pkg",
-            "size": 371261440,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/The_Last_of_Us_Remastered_CUSA00552_111_UPDATE.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/The_Last_of_Us_Remastered_CUSA00552_111_UPDATE.pkg",
+            "fileOffset": 7340032,
+            "fileSize": 371261440,
+            "hashValue": "E8A12494FCD2364050C0DDABF9C06AFB60B93F93"
         },
         {
-            "name": "The_Last_of_Us_Remastered_CUSA00552_111_UPDATE_DEVMENU.pkg",
-            "size": 371261440,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/The_Last_of_Us_Remastered_CUSA00552_111_UPDATE_DEVMENU.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/The_Last_of_Us_Remastered_CUSA00552_111_UPDATE_DEVMENU.pkg",
+            "fileOffset": 378601472,
+            "fileSize": 371261440,
+            "hashValue": "A1C9BB9D63BE1B832DD6772C8CECE1EE3981FFDA"
         },
         {
-            "name": "Valkyrie_Elysium_CUSA33214_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_CUSA33214_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_CUSA33214_BASE_0.pkg",
+            "fileOffset": 749862912,
+            "fileSize": 2000000000,
+            "hashValue": "0556466E7598156891B8846054BC658363F54D86"
         },
         {
-            "name": "Valkyrie_Elysium_CUSA33214_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_CUSA33214_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_CUSA33214_BASE_1.pkg",
+            "fileOffset": 2749862912,
+            "fileSize": 2000000000,
+            "hashValue": "84531F91B985F9B461E0934BAEB754451B454D8F"
         },
         {
-            "name": "Valkyrie_Elysium_CUSA33214_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_CUSA33214_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_CUSA33214_BASE_2.pkg",
+            "fileOffset": 4749862912,
+            "fileSize": 2000000000,
+            "hashValue": "D0CFBB75E5711EC5CADF3B4C85CC43F6702F9C2D"
         },
         {
-            "name": "Valkyrie_Elysium_CUSA33214_BASE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_CUSA33214_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_CUSA33214_BASE_3.pkg",
+            "fileOffset": 6749862912,
+            "fileSize": 2000000000,
+            "hashValue": "18505D2481B7A8043D1D0A4FF929CFAB9C020AC3"
         },
         {
-            "name": "Valkyrie_Elysium_CUSA33214_BASE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_CUSA33214_BASE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_CUSA33214_BASE_4.pkg",
+            "fileOffset": 8749862912,
+            "fileSize": 2000000000,
+            "hashValue": "215F69DD27B0B819BEF87C3E3F6CF4B9BE0670D7"
         },
         {
-            "name": "Valkyrie_Elysium_CUSA33214_BASE_5.pkg",
-            "size": 640883712,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_CUSA33214_BASE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_CUSA33214_BASE_5.pkg",
+            "fileOffset": 10749862912,
+            "fileSize": 640883712,
+            "hashValue": "A8E56CDB51B1FF497821850E3EB58EFE47F114DA"
         },
         {
-            "name": "Valkyrie_Elysium_v103_CUSA33214_UPDATE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_v103_CUSA33214_UPDATE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_v103_CUSA33214_UPDATE_0.pkg",
+            "fileOffset": 11390746624,
+            "fileSize": 2000000000,
+            "hashValue": "2E30105EDA5B531BF4534C69FF713A64E56AB5E5"
         },
         {
-            "name": "Valkyrie_Elysium_v103_CUSA33214_UPDATE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_v103_CUSA33214_UPDATE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_v103_CUSA33214_UPDATE_1.pkg",
+            "fileOffset": 13390746624,
+            "fileSize": 2000000000,
+            "hashValue": "51B3C811B96B29D1110FF36880A8B4CE17CB501B"
         },
         {
-            "name": "Valkyrie_Elysium_v103_CUSA33214_UPDATE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_v103_CUSA33214_UPDATE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_v103_CUSA33214_UPDATE_2.pkg",
+            "fileOffset": 15390746624,
+            "fileSize": 2000000000,
+            "hashValue": "CC926E912115527161FC9381206BDBC89B56EE28"
         },
         {
-            "name": "Valkyrie_Elysium_v103_CUSA33214_UPDATE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_v103_CUSA33214_UPDATE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_v103_CUSA33214_UPDATE_3.pkg",
+            "fileOffset": 17390746624,
+            "fileSize": 2000000000,
+            "hashValue": "2924F278DD3725B67564AF5C53E2F2594A9F9672"
         },
         {
-            "name": "Valkyrie_Elysium_v103_CUSA33214_UPDATE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_v103_CUSA33214_UPDATE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_v103_CUSA33214_UPDATE_4.pkg",
+            "fileOffset": 19390746624,
+            "fileSize": 2000000000,
+            "hashValue": "EA9A51506384D360498E048C23880D5E07D66277"
         },
         {
-            "name": "Valkyrie_Elysium_v103_CUSA33214_UPDATE_5.pkg",
-            "size": 1017453568,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_v103_CUSA33214_UPDATE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33214/Valkyrie_Elysium_v103_CUSA33214_UPDATE_5.pkg",
+            "fileOffset": 21390746624,
+            "fileSize": 1017453568,
+            "hashValue": "31E172970683871BC0FBE655CA14486124378231"
         }
     ]
 }

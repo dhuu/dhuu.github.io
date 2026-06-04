@@ -1,48 +1,55 @@
 {
-    "name": "The Artful Escape",
-    "tag": "CUSA30113",
-    "total_size": 12786532352,
-    "number_of_parts": 8,
-    "parts": [
+    "originalFileSize": 12786532352,
+    "packageDigest": "A5FEB74EB034CBF166905CEBA6BE65BEDC7E4FA7930D0C8A34450F7BFED0A4FE",
+    "numberOfSplitFiles": 8,
+    "pieces": [
         {
-            "name": "The_Artful_Escape_CUSA30113_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_CUSA30113_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_CUSA30113_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "A5FEB74EB034CBF166905CEBA6BE65BEDC7E4FA7"
         },
         {
-            "name": "The_Artful_Escape_CUSA30113_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_CUSA30113_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_CUSA30113_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7B6EB3137C1998F718B538DDDB46A5649FF144CD"
         },
         {
-            "name": "The_Artful_Escape_CUSA30113_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_CUSA30113_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_CUSA30113_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A2DCF8C27685A5E678CB2CAC0641E4E63C623FBF"
         },
         {
-            "name": "The_Artful_Escape_CUSA30113_BASE_3.pkg",
-            "size": 373441536,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_CUSA30113_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_CUSA30113_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 373441536,
+            "hashValue": "328455E6E47F3EAB3F61D9D2980F767A688ECA36"
         },
         {
-            "name": "The_Artful_Escape_UP_v102_CUSA30113_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_UP_v102_CUSA30113_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_UP_v102_CUSA30113_0.pkg",
+            "fileOffset": 6373441536,
+            "fileSize": 2000000000,
+            "hashValue": "F8C5BA23E385F659DB193BD9ACF1186290E1CDF3"
         },
         {
-            "name": "The_Artful_Escape_UP_v102_CUSA30113_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_UP_v102_CUSA30113_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_UP_v102_CUSA30113_1.pkg",
+            "fileOffset": 8373441536,
+            "fileSize": 2000000000,
+            "hashValue": "F09B814842B7D1EA4500FD527BBFB23938205C55"
         },
         {
-            "name": "The_Artful_Escape_UP_v102_CUSA30113_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_UP_v102_CUSA30113_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_UP_v102_CUSA30113_2.pkg",
+            "fileOffset": 10373441536,
+            "fileSize": 2000000000,
+            "hashValue": "2C4E4BBEF6614B3AD7B63FDB46343C0736FFC45B"
         },
         {
-            "name": "The_Artful_Escape_UP_v102_CUSA30113_3.pkg",
-            "size": 413090816,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_UP_v102_CUSA30113_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA30113/The_Artful_Escape_UP_v102_CUSA30113_3.pkg",
+            "fileOffset": 12373441536,
+            "fileSize": 413090816,
+            "hashValue": "329890D15FD962AD8650BD1BA35E46F3F6E17866"
         }
     ]
 }

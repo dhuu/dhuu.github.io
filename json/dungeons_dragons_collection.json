@@ -1,18 +1,19 @@
 {
-    "name": "Dungeons & Dragons Collection",
-    "tag": "STRN40436",
-    "total_size": 1172176896,
-    "number_of_parts": 2,
-    "parts": [
+    "originalFileSize": 1172176896,
+    "packageDigest": "92C7AA849DF4226B6F928984582DE2E1F2353F21F9E73321C59567210903A7CA",
+    "numberOfSplitFiles": 2,
+    "pieces": [
         {
-            "name": "Dungeons_e_Dragons_Collection_Shadow_over_Mystara_Disc2.pkg",
-            "size": 628424704,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/STRN40436/Dungeons_e_Dragons_Collection_Shadow_over_Mystara_Disc2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/STRN40436/Dungeons_e_Dragons_Collection_Shadow_over_Mystara_Disc2.pkg",
+            "fileOffset": 0,
+            "fileSize": 628424704,
+            "hashValue": "92C7AA849DF4226B6F928984582DE2E1F2353F21"
         },
         {
-            "name": "Dungeons_e_Dragons_Collection_Tower_of_Doom_Disc1.pkg",
-            "size": 543752192,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/STRN40436/Dungeons_e_Dragons_Collection_Tower_of_Doom_Disc1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/STRN40436/Dungeons_e_Dragons_Collection_Tower_of_Doom_Disc1.pkg",
+            "fileOffset": 628424704,
+            "fileSize": 543752192,
+            "hashValue": "CC4F892A54D5163C64146D2C34A4E40519B16FC3"
         }
     ]
 }

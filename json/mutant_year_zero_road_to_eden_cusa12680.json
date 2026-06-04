@@ -1,38 +1,43 @@
 {
-    "name": "Mutant Year Zero Road to Eden CUSA12680",
-    "tag": "CUSA12680",
-    "total_size": 7136477184,
-    "number_of_parts": 6,
-    "parts": [
+    "originalFileSize": 7136477184,
+    "packageDigest": "85AF088B2A3D9CAF210840891CCDDAA52B6FEE999A8A95BFF10B0B71BC749F75",
+    "numberOfSplitFiles": 6,
+    "pieces": [
         {
-            "name": "Mutant_Year_Zero_Road_to_Eden_CUSA12680_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12680/Mutant_Year_Zero_Road_to_Eden_CUSA12680_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12680/Mutant_Year_Zero_Road_to_Eden_CUSA12680_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "85AF088B2A3D9CAF210840891CCDDAA52B6FEE99"
         },
         {
-            "name": "Mutant_Year_Zero_Road_to_Eden_CUSA12680_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12680/Mutant_Year_Zero_Road_to_Eden_CUSA12680_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12680/Mutant_Year_Zero_Road_to_Eden_CUSA12680_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B8238EB1CBBF244D0A58FAFA9AFA22779177730E"
         },
         {
-            "name": "Mutant_Year_Zero_Road_to_Eden_CUSA12680_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12680/Mutant_Year_Zero_Road_to_Eden_CUSA12680_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12680/Mutant_Year_Zero_Road_to_Eden_CUSA12680_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4440A3556280954E3ED9F5677008756A0852DC9A"
         },
         {
-            "name": "Mutant_Year_Zero_Road_to_Eden_CUSA12680_3.pkg",
-            "size": 1022444544,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12680/Mutant_Year_Zero_Road_to_Eden_CUSA12680_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12680/Mutant_Year_Zero_Road_to_Eden_CUSA12680_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 1022444544,
+            "hashValue": "B2DA8309A61986EE8F03002D7993C1B42EFD83BA"
         },
         {
-            "name": "Mutant_Year_Zero_Road_to_Eden_UP_v114_CUSA12680.pkg",
-            "size": 112984064,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12680/Mutant_Year_Zero_Road_to_Eden_UP_v114_CUSA12680.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12680/Mutant_Year_Zero_Road_to_Eden_UP_v114_CUSA12680.pkg",
+            "fileOffset": 7022444544,
+            "fileSize": 112984064,
+            "hashValue": "E946C08D3369D3812E42F88605814C705CD4A6EE"
         },
         {
-            "name": "UP1850_CUSA12680_00_MYZSEEDOFEVILDLC.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12680/UP1850_CUSA12680_00_MYZSEEDOFEVILDLC.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA12680/UP1850_CUSA12680_00_MYZSEEDOFEVILDLC.pkg",
+            "fileOffset": 7135428608,
+            "fileSize": 1048576,
+            "hashValue": "34304FFE5908726835F06C0CA4BA9B04EEAE1CBE"
         }
     ]
 }

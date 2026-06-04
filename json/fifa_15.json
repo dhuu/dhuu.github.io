@@ -1,48 +1,55 @@
 {
-    "name": "FIFA 15",
-    "tag": "CUSA00720",
-    "total_size": 13361807360,
-    "number_of_parts": 8,
-    "parts": [
+    "originalFileSize": 13361807360,
+    "packageDigest": "D96F7573C93247F1D55F57EEB7F68420B6BA4EC35892B1DD55A0EE682B2F73A1",
+    "numberOfSplitFiles": 8,
+    "pieces": [
         {
-            "name": "FIFA_15_CUSA00720_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "D96F7573C93247F1D55F57EEB7F68420B6BA4EC3"
         },
         {
-            "name": "FIFA_15_CUSA00720_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7A4B1B6E081994660514F60E28542C25313DC6DB"
         },
         {
-            "name": "FIFA_15_CUSA00720_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B54FFC33CB9556293168858FFA0386A59C40F682"
         },
         {
-            "name": "FIFA_15_CUSA00720_BASE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5D5A6D0C6848B99AE5F2DC82C9885691B9E3776A"
         },
         {
-            "name": "FIFA_15_CUSA00720_BASE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D02E3A5EECC017B4BDE273BBB873F3773CB62927"
         },
         {
-            "name": "FIFA_15_CUSA00720_BASE_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BBDCE9C42682E7FE0251FF15C0221D773C194E99"
         },
         {
-            "name": "FIFA_15_CUSA00720_BASE_6.pkg",
-            "size": 1067812864,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_CUSA00720_BASE_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 1067812864,
+            "hashValue": "9FF30B21AB5D1F019CF75971DF3696258840037D"
         },
         {
-            "name": "FIFA_15_UP_v106_CUSA00720.pkg",
-            "size": 293994496,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_UP_v106_CUSA00720.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA00720/FIFA_15_UP_v106_CUSA00720.pkg",
+            "fileOffset": 13067812864,
+            "fileSize": 293994496,
+            "hashValue": "9C985DA53B1A005AA9011FDA78098DC273CE2250"
         }
     ]
 }

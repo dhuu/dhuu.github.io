@@ -1,68 +1,79 @@
 {
-    "name": "SKYRIM_JOGO_CUSA05486",
-    "tag": "CUSA05486",
-    "total_size": 22203400192,
-    "number_of_parts": 12,
-    "parts": [
+    "originalFileSize": 22203400192,
+    "packageDigest": "95F59D48246A7A78002C73E572518726F916F9D6D2F509253945F7D51A726C53",
+    "numberOfSplitFiles": 12,
+    "pieces": [
         {
-            "name": "SKYRIM_JOGO_CUSA05486_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "95F59D48246A7A78002C73E572518726F916F9D6"
         },
         {
-            "name": "SKYRIM_JOGO_CUSA05486_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A9A35EACD86190539A5E65615072B659DA294B5C"
         },
         {
-            "name": "SKYRIM_JOGO_CUSA05486_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3F16250C0C7D3C4B5467B59F752299F2262516D7"
         },
         {
-            "name": "SKYRIM_JOGO_CUSA05486_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "76DAD50657006B1C8185DDF85902DDCFE1EBF10E"
         },
         {
-            "name": "SKYRIM_JOGO_CUSA05486_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "8A124A2A9D59F5E8590F81167ABCA0D894CA4402"
         },
         {
-            "name": "SKYRIM_JOGO_CUSA05486_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "DA8B4ABA06D2CDC33DD8B9EF573545FF7634EDBE"
         },
         {
-            "name": "SKYRIM_JOGO_CUSA05486_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "25F8D81E682CC67DCF0B9060A1A760197AAD887C"
         },
         {
-            "name": "SKYRIM_JOGO_CUSA05486_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A49FC4EEC6C3ED7C2D0E91FADFF4DCD9435B5219"
         },
         {
-            "name": "SKYRIM_JOGO_CUSA05486_8.pkg",
-            "size": 959799296,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_JOGO_CUSA05486_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 959799296,
+            "hashValue": "C382AF66387777D3DCBBA431A52003AC938A86F9"
         },
         {
-            "name": "SKYRIM_TRADUCAO_E_DUBLAGEM_PTBR_CUSA05486_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_TRADUCAO_E_DUBLAGEM_PTBR_CUSA05486_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_TRADUCAO_E_DUBLAGEM_PTBR_CUSA05486_0.pkg",
+            "fileOffset": 16959799296,
+            "fileSize": 2000000000,
+            "hashValue": "B6CF101BE1D6B902DAF1A731272F6BBDEDA4B564"
         },
         {
-            "name": "SKYRIM_TRADUCAO_E_DUBLAGEM_PTBR_CUSA05486_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_TRADUCAO_E_DUBLAGEM_PTBR_CUSA05486_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_TRADUCAO_E_DUBLAGEM_PTBR_CUSA05486_1.pkg",
+            "fileOffset": 18959799296,
+            "fileSize": 2000000000,
+            "hashValue": "2061827A137F569995AE5F0D6CEA434B2614FAAB"
         },
         {
-            "name": "SKYRIM_TRADUCAO_E_DUBLAGEM_PTBR_CUSA05486_2.pkg",
-            "size": 1243600896,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_TRADUCAO_E_DUBLAGEM_PTBR_CUSA05486_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA05486/SKYRIM_TRADUCAO_E_DUBLAGEM_PTBR_CUSA05486_2.pkg",
+            "fileOffset": 20959799296,
+            "fileSize": 1243600896,
+            "hashValue": "3EC39072EAEA051420DA3A33BB11EFAEA5055A94"
         }
     ]
 }

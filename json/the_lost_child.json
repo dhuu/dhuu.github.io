@@ -1,23 +1,25 @@
 {
-    "name": "The Lost Child",
-    "tag": "CUSA10156",
-    "total_size": 2805596160,
-    "number_of_parts": 3,
-    "parts": [
+    "originalFileSize": 2805596160,
+    "packageDigest": "6A80A8ADFFF9930EFF6F1152785C6938D749BB85A0B571192316147ABF805DB3",
+    "numberOfSplitFiles": 3,
+    "pieces": [
         {
-            "name": "The_Lost_child_CUSA10156_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10156/The_Lost_child_CUSA10156_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10156/The_Lost_child_CUSA10156_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "6A80A8ADFFF9930EFF6F1152785C6938D749BB85"
         },
         {
-            "name": "The_Lost_child_CUSA10156_BASE_1.pkg",
-            "size": 751463424,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10156/The_Lost_child_CUSA10156_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10156/The_Lost_child_CUSA10156_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 751463424,
+            "hashValue": "829166FA1D9272546EE581FEB3ED3FF29EF4751C"
         },
         {
-            "name": "The_Lost_child_UP_v102_CUSA10156.pkg",
-            "size": 54132736,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10156/The_Lost_child_UP_v102_CUSA10156.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA10156/The_Lost_child_UP_v102_CUSA10156.pkg",
+            "fileOffset": 2751463424,
+            "fileSize": 54132736,
+            "hashValue": "5A7273A2F85FB09B14AA6EAD346170FF1F0747DB"
         }
     ]
 }

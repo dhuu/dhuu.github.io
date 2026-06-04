@@ -1,273 +1,325 @@
 {
-    "name": "Saints Row CUSA26458",
-    "tag": "CUSA26458",
-    "total_size": 70168018944,
-    "number_of_parts": 53,
-    "parts": [
+    "originalFileSize": 70168018944,
+    "packageDigest": "9E1A106D86EFD32D6375ED21799CECD22C65C9CA9E58E73405D059BF49C7806A",
+    "numberOfSplitFiles": 53,
+    "pieces": [
         {
-            "name": "Saints_Row_CUSA26458_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "9E1A106D86EFD32D6375ED21799CECD22C65C9CA"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "97AE0F5803B268EC449B824A73A5329121D0F4B5"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A65DE6525536A0CFB4A077145C631F597C79D574"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E87BF2537070B2B5624F1DBC8D51F7F92015C5E8"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "723F3D7ADFE98C06C1FB35DF67977F0ED62E0B8F"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C72DDC157FA1B46A998D906AFBBFC9F1368AEC46"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "649779EB3D186A27E058924E97DF5881B87BEEBA"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2935FE90B5E84DF552382A7BDA88C7297C3AC215"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "EF31282B55544C76C5048FC9A5AF01DE64C4AE46"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "DA7B916DA513A0B84574D2FD7141E149A1A50E80"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C40C39114F2AC4BEE89C01949B50CB80009AA1A0"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "348127C91667C19D1CFE24655BBC74DE45E0560B"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "85FF1F9EFDA27DC1AF5BB21723DE4E14BFBF5363"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1923B56B9852104790AF108B33B87E528B6BACB7"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B4F4D10F0ABABC06D03E563D757B838500CDEB4B"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "593750661202439FC6F070E659B099A16DC0FC99"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "47FAEFE81C1FD3E599D56279C9B508D9A8B0AF4E"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5077AD6DD6AB376F11CEE959D83C0932C8601442"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_18.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 2000000000,
+            "hashValue": "ABEB9BF1EB4F3070273FE2CDA6DF2C95B76C3F85"
         },
         {
-            "name": "Saints_Row_CUSA26458_BASE_19.pkg",
-            "size": 724304896,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_19.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_CUSA26458_BASE_19.pkg",
+            "fileOffset": 38000000000,
+            "fileSize": 724304896,
+            "hashValue": "C4C1D35095CB769ADBED1177BA1D98F50B468977"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_0.pkg",
+            "fileOffset": 38724304896,
+            "fileSize": 2000000000,
+            "hashValue": "3A1379A4D6765168DBC3330B1AE64F43C9098EEA"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_1.pkg",
+            "fileOffset": 40724304896,
+            "fileSize": 2000000000,
+            "hashValue": "5A6D9CAF0C9C2A2BD7039A7087CC4521D6B7F020"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_2.pkg",
+            "fileOffset": 42724304896,
+            "fileSize": 2000000000,
+            "hashValue": "AF5B1FCE2EBA1FF4D9D9412300EA79D3A367FA84"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_3.pkg",
+            "fileOffset": 44724304896,
+            "fileSize": 2000000000,
+            "hashValue": "1D8EBDB304F374C6C19F0E020E12CCA91272C7B8"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_4.pkg",
+            "fileOffset": 46724304896,
+            "fileSize": 2000000000,
+            "hashValue": "C11E5FAB7FF7E715E1E052C92597E6DB00A34056"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_5.pkg",
+            "fileOffset": 48724304896,
+            "fileSize": 2000000000,
+            "hashValue": "DDF84848DEE0F9F563EA97C46A60B5FB20076A6C"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_6.pkg",
+            "fileOffset": 50724304896,
+            "fileSize": 2000000000,
+            "hashValue": "64462F563DE717D9E39983AAB8F39986B91E6ACA"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_7.pkg",
+            "fileOffset": 52724304896,
+            "fileSize": 2000000000,
+            "hashValue": "78AF146C8E5AC5FAE28580958E6E1A615B9AE7A0"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_8.pkg",
+            "fileOffset": 54724304896,
+            "fileSize": 2000000000,
+            "hashValue": "0524A8301FA3DC3071C0DE058002E4EF4A91F402"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_9.pkg",
+            "fileOffset": 56724304896,
+            "fileSize": 2000000000,
+            "hashValue": "ACC1966009CB135502C62BABF74C3C4AAF86B119"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_10.pkg",
+            "fileOffset": 58724304896,
+            "fileSize": 2000000000,
+            "hashValue": "64DAB73D58BF435BA11B0611FC3BB13A6BE7A91C"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_11.pkg",
+            "fileOffset": 60724304896,
+            "fileSize": 2000000000,
+            "hashValue": "3054FC9CF6E73443E9D5543F8A343616C6C30A12"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_12.pkg",
+            "fileOffset": 62724304896,
+            "fileSize": 2000000000,
+            "hashValue": "3248D8368F9330E65681EA25CDD33D6D836B60A4"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_13.pkg",
+            "fileOffset": 64724304896,
+            "fileSize": 2000000000,
+            "hashValue": "A7B6E1388DC5D7F4DAA531EDACFC0190E97095E2"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_14.pkg",
+            "fileOffset": 66724304896,
+            "fileSize": 2000000000,
+            "hashValue": "5F1AF7F592D750CC7B1118C170AC7C9120F49898"
         },
         {
-            "name": "Saints_Row_v117_CUSA26458_UPDATE_15.pkg",
-            "size": 1425888256,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/Saints_Row_v117_CUSA26458_UPDATE_15.pkg",
+            "fileOffset": 68724304896,
+            "fileSize": 1425888256,
+            "hashValue": "BEE0EAC2FCBD2E0D05CA4C557DE22E48231F2150"
         },
         {
-            "name": "UP2047_CUSA26458_00_CHICKENDLC00SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_CHICKENDLC00SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_CHICKENDLC00SIEA.pkg",
+            "fileOffset": 70150193152,
+            "fileSize": 1048576,
+            "hashValue": "5729E3E84E79E90C90AE93B8C63B925CA03D6E94"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRCRIMCUSDLCSIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRCRIMCUSDLCSIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRCRIMCUSDLCSIEA.pkg",
+            "fileOffset": 70151241728,
+            "fileSize": 1048576,
+            "hashValue": "CB883EA5BF6D3F770856382944AF9D54B25B67F8"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRDLC0000003SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000003SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000003SIEA.pkg",
+            "fileOffset": 70152290304,
+            "fileSize": 1048576,
+            "hashValue": "6D98C234C8198D020B17F13BD72A5E9C4D20F744"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRDLC0000004SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000004SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000004SIEA.pkg",
+            "fileOffset": 70153338880,
+            "fileSize": 1048576,
+            "hashValue": "75B10EA25551C26339403BF5E3C25C4D759FD64D"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRDLC0000005SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000005SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000005SIEA.pkg",
+            "fileOffset": 70154387456,
+            "fileSize": 1048576,
+            "hashValue": "099BCFFADB96BD19CA8E8EF4BAC5F4690315F288"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRDLC0000007SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000007SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000007SIEA.pkg",
+            "fileOffset": 70155436032,
+            "fileSize": 1048576,
+            "hashValue": "02FB913FBB8ECC57C18D6FD743D92F8CBCF3B09A"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRDLC0000008SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000008SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000008SIEA.pkg",
+            "fileOffset": 70156484608,
+            "fileSize": 1048576,
+            "hashValue": "8D9E19B9D40045C70458712539A58E7FBAF5BE19"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRDLC0000009SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000009SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000009SIEA.pkg",
+            "fileOffset": 70157533184,
+            "fileSize": 1048576,
+            "hashValue": "3642C3F278523D58CCBE0278F985EFA4480FF6AF"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRDLC0000010SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000010SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000010SIEA.pkg",
+            "fileOffset": 70158581760,
+            "fileSize": 1048576,
+            "hashValue": "BCFDE64EADD6BB92A7D662A177C03D5DB01515A8"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRDLC0000011SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000011SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000011SIEA.pkg",
+            "fileOffset": 70159630336,
+            "fileSize": 1048576,
+            "hashValue": "F9382CCC79C5CC8ECBFBFBF27285B2A5471D6C4B"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRDLC0000012SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000012SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000012SIEA.pkg",
+            "fileOffset": 70160678912,
+            "fileSize": 1048576,
+            "hashValue": "1D65348102D1C91A42CE35AC6679B0303C948BDC"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRDLC0000013SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000013SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRDLC0000013SIEA.pkg",
+            "fileOffset": 70161727488,
+            "fileSize": 1048576,
+            "hashValue": "128DAF045A2038B4DECD8A6E81D6783A4C02EE6D"
         },
         {
-            "name": "UP2047_CUSA26458_00_SREXP0000000SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SREXP0000000SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SREXP0000000SIEA.pkg",
+            "fileOffset": 70162776064,
+            "fileSize": 1048576,
+            "hashValue": "55B2A90DD5FFC2D0D20CB830ADB071EC72AC27E1"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRIDOLSDLC00SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRIDOLSDLC00SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRIDOLSDLC00SIEA.pkg",
+            "fileOffset": 70163824640,
+            "fileSize": 1048576,
+            "hashValue": "610499E2BB69B4FE812321B44D7A51AEEF8085CE"
         },
         {
-            "name": "UP2047_CUSA26458_00_SRLOSPANDLC0SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRLOSPANDLC0SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_SRLOSPANDLC0SIEA.pkg",
+            "fileOffset": 70164873216,
+            "fileSize": 1048576,
+            "hashValue": "6C91FD237247119C40FA104EBAFDCDC09EC7887E"
         },
         {
-            "name": "UP2047_CUSA26458_00_TACPACSDLC00SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_TACPACSDLC00SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_TACPACSDLC00SIEA.pkg",
+            "fileOffset": 70165921792,
+            "fileSize": 1048576,
+            "hashValue": "3841D90C0798461E10E02B6423CEE3DF579EE335"
         },
         {
-            "name": "UP2047_CUSA26458_00_WHICHDLC0000SIEA.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_WHICHDLC0000SIEA.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26458/UP2047_CUSA26458_00_WHICHDLC0000SIEA.pkg",
+            "fileOffset": 70166970368,
+            "fileSize": 1048576,
+            "hashValue": "F46D9A34B69077FB0D46FC063DAD67AB8AA6A65F"
         }
     ]
 }

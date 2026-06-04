@@ -1,38 +1,43 @@
 {
-    "name": "Predator Hunting Grounds CUSA15400",
-    "tag": "CUSA15400",
-    "total_size": 11385634816,
-    "number_of_parts": 6,
-    "parts": [
+    "originalFileSize": 11385634816,
+    "packageDigest": "6BDA5EAEF3DB224B83AD178D3B623DBF68114E15894C681D90437B572CD1EE73",
+    "numberOfSplitFiles": 6,
+    "pieces": [
         {
-            "name": "Predator_Hunting_Grounds_CUSA15400_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15400/Predator_Hunting_Grounds_CUSA15400_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15400/Predator_Hunting_Grounds_CUSA15400_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "6BDA5EAEF3DB224B83AD178D3B623DBF68114E15"
         },
         {
-            "name": "Predator_Hunting_Grounds_CUSA15400_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15400/Predator_Hunting_Grounds_CUSA15400_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15400/Predator_Hunting_Grounds_CUSA15400_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "70C9291A8DB34C3FC5796EDDCD22CCB8F67AA856"
         },
         {
-            "name": "Predator_Hunting_Grounds_CUSA15400_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15400/Predator_Hunting_Grounds_CUSA15400_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15400/Predator_Hunting_Grounds_CUSA15400_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4182EA8BCE87828009AC398323BC18920669097F"
         },
         {
-            "name": "Predator_Hunting_Grounds_CUSA15400_BASE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15400/Predator_Hunting_Grounds_CUSA15400_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15400/Predator_Hunting_Grounds_CUSA15400_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "519E624F0F05E26FBDFF0C6D01B0287D87CFEEB6"
         },
         {
-            "name": "Predator_Hunting_Grounds_CUSA15400_BASE_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15400/Predator_Hunting_Grounds_CUSA15400_BASE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15400/Predator_Hunting_Grounds_CUSA15400_BASE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1E0EECE3EECCD204ED5DBE748307B035A1DFDCCE"
         },
         {
-            "name": "Predator_Hunting_Grounds_CUSA15400_BASE_5.pkg",
-            "size": 1385634816,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15400/Predator_Hunting_Grounds_CUSA15400_BASE_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15400/Predator_Hunting_Grounds_CUSA15400_BASE_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 1385634816,
+            "hashValue": "5C00626B6332CB54CD558EECE896D83F6182F91F"
         }
     ]
 }

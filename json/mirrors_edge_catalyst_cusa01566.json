@@ -1,53 +1,61 @@
 {
-    "name": "Mirror's Edge Catalyst CUSA01566",
-    "tag": "CUSA01566",
-    "total_size": 16380395520,
-    "number_of_parts": 9,
-    "parts": [
+    "originalFileSize": 16380395520,
+    "packageDigest": "FD0DD7A9AEF327112556BAA1FACE2EF862E52F1C83126A3318717A49DCDDBE7A",
+    "numberOfSplitFiles": 9,
+    "pieces": [
         {
-            "name": "Mirror_s_Edge_Catalyst_CUSA01566_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "FD0DD7A9AEF327112556BAA1FACE2EF862E52F1C"
         },
         {
-            "name": "Mirror_s_Edge_Catalyst_CUSA01566_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "204DAF4C96F91207A72040D2331262197C03B580"
         },
         {
-            "name": "Mirror_s_Edge_Catalyst_CUSA01566_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "23C1D4D1B9AD521878D35816C1391A719D07FAD4"
         },
         {
-            "name": "Mirror_s_Edge_Catalyst_CUSA01566_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F52C6498CEB2F052977441E426FD9BD92426BE5F"
         },
         {
-            "name": "Mirror_s_Edge_Catalyst_CUSA01566_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "208F4E40D58480383D47B59D683911687A733E95"
         },
         {
-            "name": "Mirror_s_Edge_Catalyst_CUSA01566_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C2FBFB036200E212411080A051E376BFB6FE4ECE"
         },
         {
-            "name": "Mirror_s_Edge_Catalyst_CUSA01566_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "942A4D05FD19E32D151CC1081F9795457584C76D"
         },
         {
-            "name": "Mirror_s_Edge_Catalyst_CUSA01566_7.pkg",
-            "size": 1568076800,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_CUSA01566_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 1568076800,
+            "hashValue": "7FFD83045BE6E8BE9919A47DD91E782EA3184AA1"
         },
         {
-            "name": "Mirror_s_Edge_Catalyst_UP_v102_CUSA01566.pkg",
-            "size": 812318720,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_UP_v102_CUSA01566.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA01566/Mirror_s_Edge_Catalyst_UP_v102_CUSA01566.pkg",
+            "fileOffset": 15568076800,
+            "fileSize": 812318720,
+            "hashValue": "FC3108C12E6B847EC529E5A605AD76EF58C7C25D"
         }
     ]
 }

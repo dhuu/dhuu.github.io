@@ -1,23 +1,25 @@
 {
-    "name": "LocoRoco 2 CUSA07183",
-    "tag": "CUSA07183",
-    "total_size": 4404674560,
-    "number_of_parts": 3,
-    "parts": [
+    "originalFileSize": 4404674560,
+    "packageDigest": "5193B59628388B0F88E5DDF7A74391DD90F915EB3ED8D4C38180539B3EC7EC94",
+    "numberOfSplitFiles": 3,
+    "pieces": [
         {
-            "name": "LOCOROCO_2_CUSA07183_103_UPDATE.pkg",
-            "size": 588709888,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA07183/LOCOROCO_2_CUSA07183_103_UPDATE.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA07183/LOCOROCO_2_CUSA07183_103_UPDATE.pkg",
+            "fileOffset": 0,
+            "fileSize": 588709888,
+            "hashValue": "5193B59628388B0F88E5DDF7A74391DD90F915EB"
         },
         {
-            "name": "LOCOROCO_2_CUSA07183_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA07183/LOCOROCO_2_CUSA07183_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA07183/LOCOROCO_2_CUSA07183_BASE_0.pkg",
+            "fileOffset": 588709888,
+            "fileSize": 2000000000,
+            "hashValue": "96337C284FC32FFD1F204047AF075823C3035E93"
         },
         {
-            "name": "LOCOROCO_2_CUSA07183_BASE_1.pkg",
-            "size": 1815964672,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA07183/LOCOROCO_2_CUSA07183_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA07183/LOCOROCO_2_CUSA07183_BASE_1.pkg",
+            "fileOffset": 2588709888,
+            "fileSize": 1815964672,
+            "hashValue": "E96330B7C36167EC891DF002DFCBCD77EB101D9F"
         }
     ]
 }

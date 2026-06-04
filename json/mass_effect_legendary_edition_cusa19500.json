@@ -1,223 +1,265 @@
 {
-    "name": "Mass_Effect_Legendary_Edition_CUSA19500",
-    "tag": "CUSA19500",
-    "total_size": 85087354880,
-    "number_of_parts": 43,
-    "parts": [
+    "originalFileSize": 85087354880,
+    "packageDigest": "78787DC3BD975D6CD028512E371ADABEAB04E74CF1B90568952ED6F4D03F6552",
+    "numberOfSplitFiles": 43,
+    "pieces": [
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "78787DC3BD975D6CD028512E371ADABEAB04E74C"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A3B38A1490FB18585E633E16F1CDD89F3FF79C10"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4D04C1A6A081E2C64D975CE011FAD5B6F3435E50"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "AC9657427E8429F1B2D02305499570B46E793BD2"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F552F2812A620A6322C77873B014C257CCB58D75"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E0B476F63741649F25043B326382B010D94A7B57"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7D3CA4F2CD4DF1D48458C11AFF602A80D10C8761"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "6ECACE619648D8D81272F8FE6B07418E79528779"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "AD80AFDC4A48533F1FF45C299D014FA0B4DF83F5"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3C8282CC30DFE37A87912EF7E8D15CC22FE10194"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D7289BA1F10365627DD17119252D7733AFD791C7"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "282B9AA0ADC43D0153E035C0A1D22658DF8702D1"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E269D13540A076B75BCDFCFDBAF89E3DA245EC66"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "57605D91BCA39C8B3A8EDF2CE2BF7E69F49B5FDE"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "535A6DFEC98A988027726A44F99AF09AEDFCBD80"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "6135CB4FAF24922DD74D53263556B8128EC5A581"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B980C8216A0566BF2C61F7F23620FACD979C2CAB"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "AF64D5617D5141BF7A57C723ABE9FA9CB5352191"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_18.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 2000000000,
+            "hashValue": "436B06DE2C2F7445A5A2C7CA1C9D1E4897C74A21"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_19.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_19.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_19.pkg",
+            "fileOffset": 38000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E67CC178922129930CBDEF70BE0CACD9C7E57C55"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_20.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_20.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_20.pkg",
+            "fileOffset": 40000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C36E1FFDBC5EF5B17B18B8A110A2F916B0576551"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_21.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_21.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_21.pkg",
+            "fileOffset": 42000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D685DCD7E08862E04950CC427A101735904D827E"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_22.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_22.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_22.pkg",
+            "fileOffset": 44000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F94CF7498D11C090DABC31A216DCC4A1140AB43D"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_23.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_23.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_23.pkg",
+            "fileOffset": 46000000000,
+            "fileSize": 2000000000,
+            "hashValue": "142E43450D44F23D727839412B938DC9ACC9C52C"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_24.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_24.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_24.pkg",
+            "fileOffset": 48000000000,
+            "fileSize": 2000000000,
+            "hashValue": "79BC9112D670617484DD7FF75F6EEDDE9B821B35"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_25.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_25.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_25.pkg",
+            "fileOffset": 50000000000,
+            "fileSize": 2000000000,
+            "hashValue": "59460F14D8980A40BAD5C8A29A864D58B506CC2F"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_26.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_26.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_26.pkg",
+            "fileOffset": 52000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C269F5A974494BEB21F68A9B03B54ECCBD2BF98D"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_27.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_27.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_27.pkg",
+            "fileOffset": 54000000000,
+            "fileSize": 2000000000,
+            "hashValue": "86482F35C933E5589DAF73CB04EB5A2D1FB1D74F"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_28.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_28.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_28.pkg",
+            "fileOffset": 56000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C7DB646A9C49CBDC142F268771640AA72AF63613"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_29.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_29.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_29.pkg",
+            "fileOffset": 58000000000,
+            "fileSize": 2000000000,
+            "hashValue": "56E8C72776D3D6DD3F7B1C0F6E813334B2A1BE2C"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_30.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_30.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_30.pkg",
+            "fileOffset": 60000000000,
+            "fileSize": 2000000000,
+            "hashValue": "CE326BDB924DD313FF8042F2AFFEE4EF5D1D3CA8"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_31.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_31.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_31.pkg",
+            "fileOffset": 62000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2980A2BDF046FEA54DC2568515D86682F1760293"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_32.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_32.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_32.pkg",
+            "fileOffset": 64000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D1F15BD1E4F2ED821C8ADBEFC0C20D6ED39A7B45"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_33.pkg",
-            "size": 1950149632,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_33.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_33.pkg",
+            "fileOffset": 66000000000,
+            "fileSize": 1950149632,
+            "hashValue": "AFF02F289D5A0C5268D5AFFE66B740A2FE4183D7"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_U103_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_0.pkg",
+            "fileOffset": 67950149632,
+            "fileSize": 2000000000,
+            "hashValue": "F2580411168FA343D5568C515E28F3BDA4D18A03"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_U103_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_1.pkg",
+            "fileOffset": 69950149632,
+            "fileSize": 2000000000,
+            "hashValue": "F4856938E6E43A23A2F7E9645A462DC971F0C57A"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_U103_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_2.pkg",
+            "fileOffset": 71950149632,
+            "fileSize": 2000000000,
+            "hashValue": "9815FE6C3BC10E55A198090073ED2731DBF562E5"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_U103_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_3.pkg",
+            "fileOffset": 73950149632,
+            "fileSize": 2000000000,
+            "hashValue": "049C4BF9466006D8883E1BE6330ED5A2486E693F"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_U103_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_4.pkg",
+            "fileOffset": 75950149632,
+            "fileSize": 2000000000,
+            "hashValue": "D10975709222CCA1AE452CCD53B435EDC9898E65"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_U103_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_5.pkg",
+            "fileOffset": 77950149632,
+            "fileSize": 2000000000,
+            "hashValue": "0DCD7CF6FD23F10A825524D02F053DB9F50CF788"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_U103_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_6.pkg",
+            "fileOffset": 79950149632,
+            "fileSize": 2000000000,
+            "hashValue": "6F7CBE056904A31DCC9D8183C9ECCBE9C8F6C5F2"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_U103_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_7.pkg",
+            "fileOffset": 81950149632,
+            "fileSize": 2000000000,
+            "hashValue": "FD5E61D3734AABF19E881023DC96A8F18041C8AA"
         },
         {
-            "name": "Mass_Effect_Legendary_Edition_CUSA19500_U103_8.pkg",
-            "size": 1137205248,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA19500/Mass_Effect_Legendary_Edition_CUSA19500_U103_8.pkg",
+            "fileOffset": 83950149632,
+            "fileSize": 1137205248,
+            "hashValue": "24E95CAC7AD55B042D80A5EF8CC83D00277B1A77"
         }
     ]
 }

@@ -1,48 +1,55 @@
 {
-    "name": "Othercide",
-    "tag": "CUSA17231",
-    "total_size": 13870104576,
-    "number_of_parts": 8,
-    "parts": [
+    "originalFileSize": 13870104576,
+    "packageDigest": "DB2E1E3D97A55A3511396E5EE1E0A1E7C49DC038A4C06ADB41454ADB9D716834",
+    "numberOfSplitFiles": 8,
+    "pieces": [
         {
-            "name": "Othercide_CUSA17231_BASE_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_CUSA17231_BASE_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_CUSA17231_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "DB2E1E3D97A55A3511396E5EE1E0A1E7C49DC038"
         },
         {
-            "name": "Othercide_CUSA17231_BASE_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_CUSA17231_BASE_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_CUSA17231_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4210605EDE3852B6264BA01913BD09DF33F48831"
         },
         {
-            "name": "Othercide_CUSA17231_BASE_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_CUSA17231_BASE_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_CUSA17231_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C50DDA13A2CA825DBD0DDB8C7089B5E1D7E3EF6D"
         },
         {
-            "name": "Othercide_CUSA17231_BASE_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_CUSA17231_BASE_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_CUSA17231_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C5B30F39949CDC12411CAA8E68F525C67793B020"
         },
         {
-            "name": "Othercide_CUSA17231_BASE_4.pkg",
-            "size": 418820096,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_CUSA17231_BASE_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_CUSA17231_BASE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 418820096,
+            "hashValue": "99E5E3CBED50C11BE3A4BA89CA636F9491CAA2D1"
         },
         {
-            "name": "Othercide_UP_v108_CUSA17231_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_UP_v108_CUSA17231_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_UP_v108_CUSA17231_0.pkg",
+            "fileOffset": 8418820096,
+            "fileSize": 2000000000,
+            "hashValue": "FFA31AB789D4ACD46F323ECE4F9714EB5DE2C48B"
         },
         {
-            "name": "Othercide_UP_v108_CUSA17231_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_UP_v108_CUSA17231_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_UP_v108_CUSA17231_1.pkg",
+            "fileOffset": 10418820096,
+            "fileSize": 2000000000,
+            "hashValue": "95C9DE06607CA12A4ACADE98CCCD864F688C6600"
         },
         {
-            "name": "Othercide_UP_v108_CUSA17231_2.pkg",
-            "size": 1451284480,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_UP_v108_CUSA17231_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA17231/Othercide_UP_v108_CUSA17231_2.pkg",
+            "fileOffset": 12418820096,
+            "fileSize": 1451284480,
+            "hashValue": "E4A36CCF88EBA277F7F282289828CCBF55E7B65B"
         }
     ]
 }

@@ -1,278 +1,331 @@
 {
-    "name": "DOOM_Eternal_CUSA13338",
-    "tag": "CUSA13338",
-    "total_size": 97647329280,
-    "number_of_parts": 54,
-    "parts": [
+    "originalFileSize": 97647329280,
+    "packageDigest": "BA1BBD6FB2290234FF321A76AFCFB822A8999BB75CAE279117D24E81AFB146D5",
+    "numberOfSplitFiles": 54,
+    "pieces": [
         {
-            "name": "DOOM_Eternal_CUSA13338_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "BA1BBD6FB2290234FF321A76AFCFB822A8999BB7"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "69E557D64DFD55BC16799E0EAE2351EDA53BD944"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7862B4C62C852C319701A5671A8B945845897151"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "53EBABF37805C3873141DDC5CC261B1FC8C138D5"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5595092670BB6FE41AFD764DD003C1D3FFF8270A"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2FD8E1B22B5A8161E41DD341DBADFF7D4A6D278E"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "ACC930F51A598F179C3A1C33E67010BCF5BFF96E"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1E2643338BFFDAACEEF92B2DB9FF2855CAAFE6F4"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "52B49F6C4102911580B8C07A0259CC6971582C30"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "863961DB6D228775CE20E8CC52B911722289294A"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E6DB55ABC35B27081B5CD8D29254C59BEDDA9604"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BDB20381890A45F5E61973A6EF9B916C0732AE63"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "60DEDBE2C825FB3E338A817E91840FEDB4589CA3"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "8B8E4C4EB22CFBF7100C316821D4151DB9932619"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "DFC2D7E7102946AA50A7991A7C924453B7189D53"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "648EB3757647AB9C0820F199C8A4B703369DDCBE"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F3A4EBA4D5D845DB2B3CF5AF5C7F6D79BFB6B900"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "ACD05B74B9292321ADECEDD39D47B0B7807DD4B0"
         },
         {
-            "name": "DOOM_Eternal_CUSA13338_18.pkg",
-            "size": 1940625408,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_CUSA13338_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 1940625408,
+            "hashValue": "FBA3BB85F34366560CEA8696560D53035556F9B3"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_0.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_0.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_0.pkg",
+            "fileOffset": 37940625408,
+            "fileSize": 2000000000,
+            "hashValue": "05C63B91E5120579A4A0D42C61EB4D490BDFFE7B"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_1.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_1.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_1.pkg",
+            "fileOffset": 39940625408,
+            "fileSize": 2000000000,
+            "hashValue": "A8CEF21BCD0443EE60601D74BCFF79E9A17584E3"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_2.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_2.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_2.pkg",
+            "fileOffset": 41940625408,
+            "fileSize": 2000000000,
+            "hashValue": "38A2FB9EAB454D406F700F2FE15CAF7BE6E71F63"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_3.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_3.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_3.pkg",
+            "fileOffset": 43940625408,
+            "fileSize": 2000000000,
+            "hashValue": "BABDE81E817989384CCF3539DF6C0671826CD349"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_4.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_4.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_4.pkg",
+            "fileOffset": 45940625408,
+            "fileSize": 2000000000,
+            "hashValue": "85A5E58CEB88F10B3CFE622FC11987864858F5CA"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_5.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_5.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_5.pkg",
+            "fileOffset": 47940625408,
+            "fileSize": 2000000000,
+            "hashValue": "C2476788B5291B9624D7B6A36B9B8E886725D7CD"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_6.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_6.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_6.pkg",
+            "fileOffset": 49940625408,
+            "fileSize": 2000000000,
+            "hashValue": "77D57CEAFFBC4B13AEAFAD4A62BBBE844586D80D"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_7.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_7.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_7.pkg",
+            "fileOffset": 51940625408,
+            "fileSize": 2000000000,
+            "hashValue": "5EB14A74FB58E32EEF7C072204D7B81B26CDB54C"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_8.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_8.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_8.pkg",
+            "fileOffset": 53940625408,
+            "fileSize": 2000000000,
+            "hashValue": "7CED7C42AC59E19287A2A60FDF8F0EE644A64B5E"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_9.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_9.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_9.pkg",
+            "fileOffset": 55940625408,
+            "fileSize": 2000000000,
+            "hashValue": "E8D92EF8511C9AC362F9BF0D94E8CD9EF1ED2F93"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_10.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_10.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_10.pkg",
+            "fileOffset": 57940625408,
+            "fileSize": 2000000000,
+            "hashValue": "54E8802661EB1371A0813F785B729DF654775711"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_11.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_11.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_11.pkg",
+            "fileOffset": 59940625408,
+            "fileSize": 2000000000,
+            "hashValue": "22B53911CD51CEE080A657FAFE4EFA1AC7E3DEC7"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_12.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_12.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_12.pkg",
+            "fileOffset": 61940625408,
+            "fileSize": 2000000000,
+            "hashValue": "40CFA5EDD231D1D850E48FD6CAFAFA219243471A"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_13.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_13.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_13.pkg",
+            "fileOffset": 63940625408,
+            "fileSize": 2000000000,
+            "hashValue": "73E4B9ED3B55C4C170FB2526555DB3C9AB275916"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_14.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_14.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_14.pkg",
+            "fileOffset": 65940625408,
+            "fileSize": 2000000000,
+            "hashValue": "79B63481CE0D5F0B4DF17B31DB9A832201B79CC6"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_15.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_15.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_15.pkg",
+            "fileOffset": 67940625408,
+            "fileSize": 2000000000,
+            "hashValue": "28113E786322FD995F524A55351E5C7AB8638E90"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_16.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_16.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_16.pkg",
+            "fileOffset": 69940625408,
+            "fileSize": 2000000000,
+            "hashValue": "5836D3463C7F50C29BDC68B78F6B8EF4AC3B1C4E"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_17.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_17.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_17.pkg",
+            "fileOffset": 71940625408,
+            "fileSize": 2000000000,
+            "hashValue": "FE08B63CF6D570D23F0E718BEAD4C93DB490951C"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_18.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_18.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_18.pkg",
+            "fileOffset": 73940625408,
+            "fileSize": 2000000000,
+            "hashValue": "F0BC7E51FCEF192A45F624BC5A8EF653E377BF26"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_19.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_19.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_19.pkg",
+            "fileOffset": 75940625408,
+            "fileSize": 2000000000,
+            "hashValue": "102B202738F786AF55FFF8A7CCC3106A1267F433"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_20.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_20.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_20.pkg",
+            "fileOffset": 77940625408,
+            "fileSize": 2000000000,
+            "hashValue": "DC7B2C19A37B0EC329D8BEDAFDE4D3CAD979F380"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_21.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_21.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_21.pkg",
+            "fileOffset": 79940625408,
+            "fileSize": 2000000000,
+            "hashValue": "D1B2B80239FC2FF910C6AA5C4365D09A4D3F9C51"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_22.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_22.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_22.pkg",
+            "fileOffset": 81940625408,
+            "fileSize": 2000000000,
+            "hashValue": "9105F93F6183D840816D29855818F4003C2B3502"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_23.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_23.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_23.pkg",
+            "fileOffset": 83940625408,
+            "fileSize": 2000000000,
+            "hashValue": "760171C4627EB853A8406DF1B7218281DCDEE8B7"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_24.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_24.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_24.pkg",
+            "fileOffset": 85940625408,
+            "fileSize": 2000000000,
+            "hashValue": "C92F97BCE6FE08EDD7306F4620AC1C0B0F473596"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_25.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_25.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_25.pkg",
+            "fileOffset": 87940625408,
+            "fileSize": 2000000000,
+            "hashValue": "B164EDB729B6B867B72DE4B1BEE75BE3913FA888"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_26.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_26.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_26.pkg",
+            "fileOffset": 89940625408,
+            "fileSize": 2000000000,
+            "hashValue": "831FAD093429A78F233BF1847C949134D29DA173"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_27.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_27.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_27.pkg",
+            "fileOffset": 91940625408,
+            "fileSize": 2000000000,
+            "hashValue": "C453E6D2343321057414129FDFE0DB8118407873"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_28.pkg",
-            "size": 2000000000,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_28.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_28.pkg",
+            "fileOffset": 93940625408,
+            "fileSize": 2000000000,
+            "hashValue": "97E16DE4101FA9CCA8C1C854CC228CE781DE2996"
         },
         {
-            "name": "DOOM_Eternal_UP_v126_CUSA13338_29.pkg",
-            "size": 1697004544,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_29.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/DOOM_Eternal_UP_v126_CUSA13338_29.pkg",
+            "fileOffset": 95940625408,
+            "fileSize": 1697004544,
+            "hashValue": "5BB0881215ED2F3677346AA22B694ADD8220072C"
         },
         {
-            "name": "UP1003_CUSA13338_00_DEANCIENTGODSP01.pkg",
-            "size": 3014656,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/UP1003_CUSA13338_00_DEANCIENTGODSP01.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/UP1003_CUSA13338_00_DEANCIENTGODSP01.pkg",
+            "fileOffset": 97637629952,
+            "fileSize": 3014656,
+            "hashValue": "5BA079BACDC97F29604AADE0CBC2C29389148CB9"
         },
         {
-            "name": "UP1003_CUSA13338_00_DEANCIENTGODSP02.pkg",
-            "size": 3014656,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/UP1003_CUSA13338_00_DEANCIENTGODSP02.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/UP1003_CUSA13338_00_DEANCIENTGODSP02.pkg",
+            "fileOffset": 97640644608,
+            "fileSize": 3014656,
+            "hashValue": "9DE43915AF149E31C1CA0C7FE2A1BE0F7B340E80"
         },
         {
-            "name": "UP1003_CUSA13338_00_DETERNALCAMPAIGN.pkg",
-            "size": 1572864,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/UP1003_CUSA13338_00_DETERNALCAMPAIGN.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/UP1003_CUSA13338_00_DETERNALCAMPAIGN.pkg",
+            "fileOffset": 97643659264,
+            "fileSize": 1572864,
+            "hashValue": "AB7584D08CBF966FFBAA450D2E699782FBC74807"
         },
         {
-            "name": "UP1003_CUSA13338_00_DOOMETERNALDLC01.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/UP1003_CUSA13338_00_DOOMETERNALDLC01.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/UP1003_CUSA13338_00_DOOMETERNALDLC01.pkg",
+            "fileOffset": 97645232128,
+            "fileSize": 1048576,
+            "hashValue": "21BF5256C714438EA0F7E6C5197B1F51AC7C9573"
         },
         {
-            "name": "UP1003_CUSA13338_00_DOOMETERNALDLC02.pkg",
-            "size": 1048576,
-            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/UP1003_CUSA13338_00_DOOMETERNALDLC02.pkg"
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13338/UP1003_CUSA13338_00_DOOMETERNALDLC02.pkg",
+            "fileOffset": 97646280704,
+            "fileSize": 1048576,
+            "hashValue": "19A3CF42DE56B7F9F41DFA8BD482D7D9DEFF854C"
         }
     ]
 }
