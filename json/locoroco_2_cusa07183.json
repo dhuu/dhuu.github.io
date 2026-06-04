@@ -1,0 +1,23 @@
+{
+    "name": "LocoRoco 2 CUSA07183",
+    "tag": "CUSA07183",
+    "total_size": 4404674560,
+    "number_of_parts": 3,
+    "parts": [
+        {
+            "name": "LOCOROCO_2_CUSA07183_103_UPDATE.pkg",
+            "size": 588709888,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA07183/LOCOROCO_2_CUSA07183_103_UPDATE.pkg"
+        },
+        {
+            "name": "LOCOROCO_2_CUSA07183_BASE_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA07183/LOCOROCO_2_CUSA07183_BASE_0.pkg"
+        },
+        {
+            "name": "LOCOROCO_2_CUSA07183_BASE_1.pkg",
+            "size": 1815964672,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA07183/LOCOROCO_2_CUSA07183_BASE_1.pkg"
+        }
+    ]
+}

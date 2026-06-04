@@ -1,0 +1,38 @@
+{
+    "name": "Trine 5 A Clockwork Conspiracy",
+    "tag": "CUSA41223",
+    "total_size": 8301838336,
+    "number_of_parts": 6,
+    "parts": [
+        {
+            "name": "Trine_5_A_Clockwork_Conspiracy_CUSA41223_BASE_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA41223/Trine_5_A_Clockwork_Conspiracy_CUSA41223_BASE_0.pkg"
+        },
+        {
+            "name": "Trine_5_A_Clockwork_Conspiracy_CUSA41223_BASE_1.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA41223/Trine_5_A_Clockwork_Conspiracy_CUSA41223_BASE_1.pkg"
+        },
+        {
+            "name": "Trine_5_A_Clockwork_Conspiracy_CUSA41223_BASE_2.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA41223/Trine_5_A_Clockwork_Conspiracy_CUSA41223_BASE_2.pkg"
+        },
+        {
+            "name": "Trine_5_A_Clockwork_Conspiracy_CUSA41223_BASE_3.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA41223/Trine_5_A_Clockwork_Conspiracy_CUSA41223_BASE_3.pkg"
+        },
+        {
+            "name": "Trine_5_A_Clockwork_Conspiracy_CUSA41223_BASE_4.pkg",
+            "size": 1748992,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA41223/Trine_5_A_Clockwork_Conspiracy_CUSA41223_BASE_4.pkg"
+        },
+        {
+            "name": "Trine_5_A_Clockwork_Conspiracy_UP_v104_CUSA41223.pkg",
+            "size": 300089344,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA41223/Trine_5_A_Clockwork_Conspiracy_UP_v104_CUSA41223.pkg"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Fell Seal Arbiters Mark CUSA13263",
+    "tag": "CUSA13263",
+    "total_size": 3059023872,
+    "number_of_parts": 3,
+    "parts": [
+        {
+            "name": "EP2632_CUSA13263_00_FELLSEALPSIDDLC1.pkg",
+            "size": 75300864,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13263/EP2632_CUSA13263_00_FELLSEALPSIDDLC1.pkg"
+        },
+        {
+            "name": "Fell_Seal_Arbiters_Mark_CUSA13263.pkg",
+            "size": 1313341440,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13263/Fell_Seal_Arbiters_Mark_CUSA13263.pkg"
+        },
+        {
+            "name": "Fell_Seal_Arbiters_Mark_UP_v119_CUSA13263.pkg",
+            "size": 1670381568,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA13263/Fell_Seal_Arbiters_Mark_UP_v119_CUSA13263.pkg"
+        }
+    ]
+}

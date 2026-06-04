@@ -1,0 +1,18 @@
+{
+    "name": "LocoRoco Midnight Carnival CUSA32640",
+    "tag": "CUSA32640",
+    "total_size": 231342080,
+    "number_of_parts": 2,
+    "parts": [
+        {
+            "name": "LOCOROCO_MIDNIGHT_CARNIVAL_CUSA32640.pkg",
+            "size": 219283456,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32640/LOCOROCO_MIDNIGHT_CARNIVAL_CUSA32640.pkg"
+        },
+        {
+            "name": "LOCOROCO_MIDNIGHT_CARNIVAL_CUSA32640_UPDATE_v101.pkg",
+            "size": 12058624,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32640/LOCOROCO_MIDNIGHT_CARNIVAL_CUSA32640_UPDATE_v101.pkg"
+        }
+    ]
+}

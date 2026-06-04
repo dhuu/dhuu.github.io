@@ -1,0 +1,28 @@
+{
+    "name": "Outer Wilds",
+    "tag": "CUSA09929",
+    "total_size": 3991732224,
+    "number_of_parts": 4,
+    "parts": [
+        {
+            "name": "Outer_Wilds_CUSA09929_BASE_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09929/Outer_Wilds_CUSA09929_BASE_0.pkg"
+        },
+        {
+            "name": "Outer_Wilds_CUSA09929_BASE_1.pkg",
+            "size": 1984588800,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09929/Outer_Wilds_CUSA09929_BASE_1.pkg"
+        },
+        {
+            "name": "Outer_Wilds_UP_v115_CUSA09929.pkg",
+            "size": 6094848,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09929/Outer_Wilds_UP_v115_CUSA09929.pkg"
+        },
+        {
+            "name": "UP2470-CUSA09929_00-OWEOTESIEE000000.pkg",
+            "size": 1048576,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09929/UP2470-CUSA09929_00-OWEOTESIEE000000.pkg"
+        }
+    ]
+}

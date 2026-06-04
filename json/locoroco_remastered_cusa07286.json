@@ -1,0 +1,23 @@
+{
+    "name": "LocoRoco Remastered CUSA07286",
+    "tag": "CUSA07286",
+    "total_size": 2600271872,
+    "number_of_parts": 3,
+    "parts": [
+        {
+            "name": "LocoRoco_Remastered_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA07286/LocoRoco_Remastered_0.pkg"
+        },
+        {
+            "name": "LocoRoco_Remastered_1.pkg",
+            "size": 180055040,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA07286/LocoRoco_Remastered_1.pkg"
+        },
+        {
+            "name": "LocoRoco_Remastered_Update_v102.pkg",
+            "size": 420216832,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA07286/LocoRoco_Remastered_Update_v102.pkg"
+        }
+    ]
+}

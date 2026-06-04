@@ -1,0 +1,23 @@
+{
+    "name": "MADiSON CUSA33277",
+    "tag": "CUSA33277",
+    "total_size": 1362821120,
+    "number_of_parts": 3,
+    "parts": [
+        {
+            "name": "MADiSON_CUSA33277.pkg",
+            "size": 873201664,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33277/MADiSON_CUSA33277.pkg"
+        },
+        {
+            "name": "MADiSON_UP_v125_CUSA33277.pkg",
+            "size": 488570880,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33277/MADiSON_UP_v125_CUSA33277.pkg"
+        },
+        {
+            "name": "UP3589_CUSA33277_00_MADI100000000000.pkg",
+            "size": 1048576,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA33277/UP3589_CUSA33277_00_MADI100000000000.pkg"
+        }
+    ]
+}

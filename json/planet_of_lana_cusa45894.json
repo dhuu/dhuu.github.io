@@ -1,0 +1,23 @@
+{
+    "name": "Planet of Lana CUSA45894",
+    "tag": "CUSA45894",
+    "total_size": 3651731456,
+    "number_of_parts": 3,
+    "parts": [
+        {
+            "name": "Planet_of_Lana_CUSA45894_v100_BASE_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA45894/Planet_of_Lana_CUSA45894_v100_BASE_0.pkg"
+        },
+        {
+            "name": "Planet_of_Lana_CUSA45894_v100_BASE_1.pkg",
+            "size": 1536584704,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA45894/Planet_of_Lana_CUSA45894_v100_BASE_1.pkg"
+        },
+        {
+            "name": "Planet_of_Lana_CUSA45894_v100_UPDATE.pkg",
+            "size": 115146752,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA45894/Planet_of_Lana_CUSA45894_v100_UPDATE.pkg"
+        }
+    ]
+}

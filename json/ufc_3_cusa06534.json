@@ -1,0 +1,73 @@
+{
+    "name": "UFC 3 CUSA06534",
+    "tag": "CUSA06534",
+    "total_size": 23345692672,
+    "number_of_parts": 13,
+    "parts": [
+        {
+            "name": "UFC_3_CUSA06534_BASE_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_BASE_0.pkg"
+        },
+        {
+            "name": "UFC_3_CUSA06534_BASE_1.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_BASE_1.pkg"
+        },
+        {
+            "name": "UFC_3_CUSA06534_BASE_2.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_BASE_2.pkg"
+        },
+        {
+            "name": "UFC_3_CUSA06534_BASE_3.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_BASE_3.pkg"
+        },
+        {
+            "name": "UFC_3_CUSA06534_BASE_4.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_BASE_4.pkg"
+        },
+        {
+            "name": "UFC_3_CUSA06534_BASE_5.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_BASE_5.pkg"
+        },
+        {
+            "name": "UFC_3_CUSA06534_BASE_6.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_BASE_6.pkg"
+        },
+        {
+            "name": "UFC_3_CUSA06534_BASE_7.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_BASE_7.pkg"
+        },
+        {
+            "name": "UFC_3_CUSA06534_BASE_8.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_BASE_8.pkg"
+        },
+        {
+            "name": "UFC_3_CUSA06534_BASE_9.pkg",
+            "size": 901172224,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_BASE_9.pkg"
+        },
+        {
+            "name": "UFC_3_CUSA06534_v114_CUSA06534_UPDATE_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_v114_CUSA06534_UPDATE_0.pkg"
+        },
+        {
+            "name": "UFC_3_CUSA06534_v114_CUSA06534_UPDATE_1.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_v114_CUSA06534_UPDATE_1.pkg"
+        },
+        {
+            "name": "UFC_3_CUSA06534_v114_CUSA06534_UPDATE_2.pkg",
+            "size": 444520448,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA06534/UFC_3_CUSA06534_v114_CUSA06534_UPDATE_2.pkg"
+        }
+    ]
+}

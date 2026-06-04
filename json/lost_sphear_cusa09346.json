@@ -1,0 +1,18 @@
+{
+    "name": "Lost Sphear CUSA09346",
+    "tag": "CUSA09346",
+    "total_size": 3783786496,
+    "number_of_parts": 2,
+    "parts": [
+        {
+            "name": "Lost_Sphear_BASE_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09346/Lost_Sphear_BASE_0.pkg"
+        },
+        {
+            "name": "Lost_Sphear_BASE_1.pkg",
+            "size": 1783786496,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA09346/Lost_Sphear_BASE_1.pkg"
+        }
+    ]
+}

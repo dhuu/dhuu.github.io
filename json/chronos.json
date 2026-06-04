@@ -1,0 +1,48 @@
+{
+    "name": "Chronos",
+    "tag": "CUSA15161",
+    "total_size": 13745455104,
+    "number_of_parts": 8,
+    "parts": [
+        {
+            "name": "Chronos_CUSA15161_BASE_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15161/Chronos_CUSA15161_BASE_0.pkg"
+        },
+        {
+            "name": "Chronos_CUSA15161_BASE_1.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15161/Chronos_CUSA15161_BASE_1.pkg"
+        },
+        {
+            "name": "Chronos_CUSA15161_BASE_2.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15161/Chronos_CUSA15161_BASE_2.pkg"
+        },
+        {
+            "name": "Chronos_CUSA15161_BASE_3.pkg",
+            "size": 935543808,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15161/Chronos_CUSA15161_BASE_3.pkg"
+        },
+        {
+            "name": "Chronos_CUSA15161_v101_CUSA15161_UPDATE_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15161/Chronos_CUSA15161_v101_CUSA15161_UPDATE_0.pkg"
+        },
+        {
+            "name": "Chronos_CUSA15161_v101_CUSA15161_UPDATE_1.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15161/Chronos_CUSA15161_v101_CUSA15161_UPDATE_1.pkg"
+        },
+        {
+            "name": "Chronos_CUSA15161_v101_CUSA15161_UPDATE_2.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15161/Chronos_CUSA15161_v101_CUSA15161_UPDATE_2.pkg"
+        },
+        {
+            "name": "Chronos_CUSA15161_v101_CUSA15161_UPDATE_3.pkg",
+            "size": 809911296,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA15161/Chronos_CUSA15161_v101_CUSA15161_UPDATE_3.pkg"
+        }
+    ]
+}

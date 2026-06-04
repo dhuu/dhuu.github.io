@@ -1,0 +1,33 @@
+{
+    "name": "Rad Rodgers CUSA08955",
+    "tag": "CUSA08955",
+    "total_size": 7825326080,
+    "number_of_parts": 5,
+    "parts": [
+        {
+            "name": "Rad_Rodgers_CUSA08955_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08955/Rad_Rodgers_CUSA08955_0.pkg"
+        },
+        {
+            "name": "Rad_Rodgers_CUSA08955_1.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08955/Rad_Rodgers_CUSA08955_1.pkg"
+        },
+        {
+            "name": "Rad_Rodgers_CUSA08955_2.pkg",
+            "size": 428791808,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08955/Rad_Rodgers_CUSA08955_2.pkg"
+        },
+        {
+            "name": "Rad_Rodgers_UP_v106_CUSA08955_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08955/Rad_Rodgers_UP_v106_CUSA08955_0.pkg"
+        },
+        {
+            "name": "Rad_Rodgers_UP_v106_CUSA08955_1.pkg",
+            "size": 1396534272,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA08955/Rad_Rodgers_UP_v106_CUSA08955_1.pkg"
+        }
+    ]
+}

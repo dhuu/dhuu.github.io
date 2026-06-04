@@ -1,0 +1,18 @@
+{
+    "name": "Stranded Deep",
+    "tag": "CUSA18152",
+    "total_size": 2302738432,
+    "number_of_parts": 2,
+    "parts": [
+        {
+            "name": "Stranded_Deep_CUSA18152_BASE.pkg",
+            "size": 1233977344,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA18152/Stranded_Deep_CUSA18152_BASE.pkg"
+        },
+        {
+            "name": "Stranded_Deep_UP_v101_CUSA18152.pkg",
+            "size": 1068761088,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA18152/Stranded_Deep_UP_v101_CUSA18152.pkg"
+        }
+    ]
+}

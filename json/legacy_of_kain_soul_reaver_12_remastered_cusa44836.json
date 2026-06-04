@@ -1,0 +1,33 @@
+{
+    "name": "Legacy of Kain™ Soul Reaver 1&2 Remastered CUSA44836",
+    "tag": "CUSA44836",
+    "total_size": 9025290240,
+    "number_of_parts": 5,
+    "parts": [
+        {
+            "name": "Legacy_of_Kain_Soul_Reaver_1_e_2_Remastered_CUSA44836_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA44836/Legacy_of_Kain_Soul_Reaver_1_e_2_Remastered_CUSA44836_0.pkg"
+        },
+        {
+            "name": "Legacy_of_Kain_Soul_Reaver_1_e_2_Remastered_CUSA44836_1.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA44836/Legacy_of_Kain_Soul_Reaver_1_e_2_Remastered_CUSA44836_1.pkg"
+        },
+        {
+            "name": "Legacy_of_Kain_Soul_Reaver_1_e_2_Remastered_CUSA44836_2.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA44836/Legacy_of_Kain_Soul_Reaver_1_e_2_Remastered_CUSA44836_2.pkg"
+        },
+        {
+            "name": "Legacy_of_Kain_Soul_Reaver_1_e_2_Remastered_CUSA44836_3.pkg",
+            "size": 1214137344,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA44836/Legacy_of_Kain_Soul_Reaver_1_e_2_Remastered_CUSA44836_3.pkg"
+        },
+        {
+            "name": "Legacy_of_Kain_Soul_Reaver_1_e_2_Remastered_UP_v103_CUSA44836.pkg",
+            "size": 1811152896,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA44836/Legacy_of_Kain_Soul_Reaver_1_e_2_Remastered_UP_v103_CUSA44836.pkg"
+        }
+    ]
+}

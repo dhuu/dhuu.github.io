@@ -1,0 +1,38 @@
+{
+    "name": "Firefighting Simulator The Squad",
+    "tag": "CUSA32089",
+    "total_size": 10303832064,
+    "number_of_parts": 6,
+    "parts": [
+        {
+            "name": "Firefighting_Simulator_The_Squad_CUSA32089_BASE_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32089/Firefighting_Simulator_The_Squad_CUSA32089_BASE_0.pkg"
+        },
+        {
+            "name": "Firefighting_Simulator_The_Squad_CUSA32089_BASE_1.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32089/Firefighting_Simulator_The_Squad_CUSA32089_BASE_1.pkg"
+        },
+        {
+            "name": "Firefighting_Simulator_The_Squad_CUSA32089_BASE_2.pkg",
+            "size": 1222891520,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32089/Firefighting_Simulator_The_Squad_CUSA32089_BASE_2.pkg"
+        },
+        {
+            "name": "Firefighting_Simulator_The_Squad_UP_v110_CUSA32089_0.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32089/Firefighting_Simulator_The_Squad_UP_v110_CUSA32089_0.pkg"
+        },
+        {
+            "name": "Firefighting_Simulator_The_Squad_UP_v110_CUSA32089_1.pkg",
+            "size": 2000000000,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32089/Firefighting_Simulator_The_Squad_UP_v110_CUSA32089_1.pkg"
+        },
+        {
+            "name": "Firefighting_Simulator_The_Squad_UP_v110_CUSA32089_2.pkg",
+            "size": 1080940544,
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32089/Firefighting_Simulator_The_Squad_UP_v110_CUSA32089_2.pkg"
+        }
+    ]
+}
