@@ -1,0 +1,37 @@
+{
+    "originalFileSize": 8041594880,
+    "packageDigest": "5B46E6AA773FA5B0DC4D2E5D4C00722C6EEA870821168F092AF24DA774CEF8DD",
+    "numberOfSplitFiles": 5,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.Dead.Kings.DLC.PS4-PRELUDE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "5C47E04F50EEB7E897C41A5BB879E2F2FEC290A37E328838F791C12C8E3A16CA"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.Dead.Kings.DLC.PS4-PRELUDE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C6EE7DC7497C94DDD927E9797ED21A0BDCCED14086E9149D9183AC8956E97817"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.Dead.Kings.DLC.PS4-PRELUDE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5591D1062438F383D773BC970F5863BA8410B84460BC3E37E4946FF24E26D919"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.Dead.Kings.DLC.PS4-PRELUDE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "25D0FC344D869CACD8F442B55E7F28D25CB6C83836EE4C97DB23DF56905E8AF6"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.Dead.Kings.DLC.PS4-PRELUDE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 41594880,
+            "hashValue": "BB8F93A4F8B7F6F85C29F8A811EBC7FDBD94FAAB086D9BE19CE077DC9F1883D1"
+        }
+    ]
+}

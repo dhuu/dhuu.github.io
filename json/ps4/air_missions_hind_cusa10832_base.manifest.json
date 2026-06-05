@@ -1,0 +1,13 @@
+{
+    "originalFileSize": 1327759360,
+    "packageDigest": "C101CA3155AF9597F8D7733B413B23F1C1D004A7068305C68B78218ECC44A3F2",
+    "numberOfSplitFiles": 1,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA10832/Air_Missions_HIND_CUSA10832_BASE.pkg",
+            "fileOffset": 0,
+            "fileSize": 1327759360,
+            "hashValue": "F6BE59EE105F559B74466633CAF2BA72E0911892C8FB6863B35EE1DAA7CFAA24"
+        }
+    ]
+}

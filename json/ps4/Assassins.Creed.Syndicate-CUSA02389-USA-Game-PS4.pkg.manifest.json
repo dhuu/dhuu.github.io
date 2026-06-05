@@ -1,0 +1,127 @@
+{
+    "originalFileSize": 40298741760,
+    "packageDigest": "6EA90E3B3CB8E65F6DC46ECF72B974298766C9407AF1F87B63B58F604B0BD98D",
+    "numberOfSplitFiles": 20,
+    "pieces": [
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part0",
+            "fileOffset": 0,
+            "fileSize": 2040109465,
+            "hashValue": "E5E98FB405F8CE63B5F23C669CDEC2E2C7ED654A"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part1",
+            "fileOffset": 2040109465,
+            "fileSize": 2040109465,
+            "hashValue": "F6E9E2792A5F486C11703EEB495D91C824F8171F"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part2",
+            "fileOffset": 4080218930,
+            "fileSize": 2040109465,
+            "hashValue": "8BF873E6BCC2E6CFD7F360FE7A4B4C181E1968EE"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part3",
+            "fileOffset": 6120328395,
+            "fileSize": 2040109465,
+            "hashValue": "C69C32263E4C1A3669537B20C5D68BA3C76D0200"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part4",
+            "fileOffset": 8160437860,
+            "fileSize": 2040109465,
+            "hashValue": "0ADD405F4F7862D74E4FBEBD22DF6D1880296947"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part5",
+            "fileOffset": 10200547325,
+            "fileSize": 2040109465,
+            "hashValue": "628DC9FD6DFCFBDE46FACF7B9D52A0CBFE0F101F"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part6",
+            "fileOffset": 12240656790,
+            "fileSize": 2040109465,
+            "hashValue": "4D5523A95B4E9C8F1F8609B742EFD639CAA38DCF"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part7",
+            "fileOffset": 14280766255,
+            "fileSize": 2040109465,
+            "hashValue": "0CDC4D907388C564A76147B9F390A8A103C36151"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part8",
+            "fileOffset": 16320875720,
+            "fileSize": 2040109465,
+            "hashValue": "AD4DFE82D88D6E53FED27299592AB0CCC243195D"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part9",
+            "fileOffset": 18360985185,
+            "fileSize": 2040109465,
+            "hashValue": "46DDBEBDCD7B0BFF4F8E38E926DA513FF0D6C7ED"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part10",
+            "fileOffset": 20401094650,
+            "fileSize": 2040109465,
+            "hashValue": "E0868E0533965CA0E0990A8114FD4BD2BAF15CFD"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part11",
+            "fileOffset": 22441204115,
+            "fileSize": 2040109465,
+            "hashValue": "AA42DC6B5CE5CB26DEE0E436E6E10F27C20AB918"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part12",
+            "fileOffset": 24481313580,
+            "fileSize": 2040109465,
+            "hashValue": "1A1B1C95EB8813FEB47C3DB2CA272CC94BBD1820"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part13",
+            "fileOffset": 26521423045,
+            "fileSize": 2040109465,
+            "hashValue": "AF18DBE1359CB2F203C1195218A5DFEBDEDA04A0"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part14",
+            "fileOffset": 28561532510,
+            "fileSize": 2040109465,
+            "hashValue": "854A81E7AA4758E2C899F77ACCD13BFCF23249D5"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part15",
+            "fileOffset": 30601641975,
+            "fileSize": 2040109465,
+            "hashValue": "CCB0FF388263FB7FE51259B709B1507768F9B39E"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part16",
+            "fileOffset": 32641751440,
+            "fileSize": 2040109465,
+            "hashValue": "32A0212ACB84923CF57D9ACCCCBE74ADECF9C4DD"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part17",
+            "fileOffset": 34681860905,
+            "fileSize": 2040109465,
+            "hashValue": "9C48B28B8C8AE87821A0A9940A1AB35A20AA2189"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part18",
+            "fileOffset": 36721970370,
+            "fileSize": 2040109465,
+            "hashValue": "C9AAE0971752E868C218F26BB27168C635B38781"
+        },
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Game-PS4.pkg.part19",
+            "fileOffset": 38762079835,
+            "fileSize": 1536661925,
+            "hashValue": "51D5187E5289F79331C47175BE6AD981C2674BDA"
+        }
+    ]
+}

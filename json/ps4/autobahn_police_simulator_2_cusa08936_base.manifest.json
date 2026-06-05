@@ -1,0 +1,19 @@
+{
+    "originalFileSize": 3093495808,
+    "packageDigest": "9EC6CBC1A67DCBC1F4321CEC70DE59527ACD6C0F67D57C130A6553C159C010D7",
+    "numberOfSplitFiles": 2,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA08936/Autobahn_Police_Simulator_2_CUSA08936_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "1926E7C25E6A8B64185D32BAD23164867FB8DBB27D04E3FAFA38B195C35FAB5F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA08936/Autobahn_Police_Simulator_2_CUSA08936_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 1093495808,
+            "hashValue": "9BF8B339BB6C6FE1072670B9C330522B85CC70D662085DB1F8597532400F3163"
+        }
+    ]
+}

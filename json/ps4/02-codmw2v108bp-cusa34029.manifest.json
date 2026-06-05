@@ -1,0 +1,169 @@
+{
+    "originalFileSize": 52996472832,
+    "packageDigest": "E47A2C3049719A2A54D7BF43A0F77FD033BD6959130063503B123D4117FE07A4",
+    "numberOfSplitFiles": 27,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "2DAA9B833D5C12EE938FDF2076D545DB4BB0B748B00FFE9EB2CA90462FA49305"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "14514A9446A868E5A42B7799793621BC7EA43977FF076089F4E57AC9378CC7F7"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "AC7B5D4140F2B22A486CC481C8ABEAE22716200647D0F7FD79902ABF680C6E7D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "52EBE1D925937E0BE2B523F83E4A15AD328301D685BEEDCC14DA4692B40CEC43"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B6E1F70FE55E0493880FA2957EF78AF25E33A350C0D7A2CA5DD028D66AD43330"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A25F4F9E0A5D75B9CDDA981704BBD18B612D87950AB8322D94B2C1911E1FBF97"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F76BEC3DD858DA516D7ADB531AF4DBDCA2A0F1505B84B672F361C849B197B4D0"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "92D1EE5A4F2411E07CB5A51CF5D63657360E34D1E611BE3DFAD69654FF9DB83D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "500B2EA0812EF74FD48B46B7E82A3A2C936AEA2BBE9264205584FF915E0597B1"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "157FC4A56E3F240499DC6DCA75DC7044D79BC33A423C10CEA10B0F82285DECBF"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "97E49679A09608E1657F968C5A4354AD79830BEBF57D230F95DC10B55862E479"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2444A783252BDF9B74F8640BEBFAFE15C1DB342C10D3CDCD20762A0CB6BB5F2A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "74DA70643C9C89653DA008836F3FFCA7158DC19099D469DAB0D766F4A15D1CE9"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D1A7673E7CC943147277606106EE44D79F575927CD52092129285AB3124A9072"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3F32591896D8973A4DEAF921C7D000492A60F0A410B3C40031BD7EF082D328EB"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7D73BD6B27442B50C03DD55B8B8969A6483A01A89432C2C0B08A7A188F7D00C9"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3B44B6E69397FA349F3449E78BDCBCA74A825D78528ADF0D43280EECB391CF55"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "279CFD87F8B9BF24A361B109F0DDB85B8BF16160454F9A353827E38A056246BE"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D9C4B3751582590BAFA320195814033943947E903A3229BAFBBB5AEFED1478BC"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_19.pkg",
+            "fileOffset": 38000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2980B10972985F4E699865DC53D6577612927A1CF70C137778B375C50C59E180"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_20.pkg",
+            "fileOffset": 40000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2FC24761954848CD244D44FBF538B7E1088E4A31910847CCC9D4C320BDF36183"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_21.pkg",
+            "fileOffset": 42000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A12E9F0CD0AA4ADDB50087620A42C19DE4CE66812CD3EBF8629D8A7F1B057A8D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_22.pkg",
+            "fileOffset": 44000000000,
+            "fileSize": 2000000000,
+            "hashValue": "85694797961A58B454F2320E5395C647DE7EC7BA749A297A58787036D0D64898"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_23.pkg",
+            "fileOffset": 46000000000,
+            "fileSize": 2000000000,
+            "hashValue": "832E04DE3859EB159AFD290839C26FA258E6A1FA668C98F62CCFEF7E66A9986D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_24.pkg",
+            "fileOffset": 48000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4BB5819F0D523DD13024CC5FB4438E189438B6C21C5806AEC1281C2E1B91D5FD"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_25.pkg",
+            "fileOffset": 50000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B1C2B703C1FD9CFA79A73AB0EB143FD537145C427173B022424BE6147E6D7900"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/02-CoD.MW2.v1.08bp-CUSA34029_26.pkg",
+            "fileOffset": 52000000000,
+            "fileSize": 996472832,
+            "hashValue": "C84209969F0C59A1AA931C0191470D0E8BF78232AC57A0E684889B206CA13448"
+        }
+    ]
+}

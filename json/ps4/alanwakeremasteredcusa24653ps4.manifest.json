@@ -1,0 +1,97 @@
+{
+    "originalFileSize": 29835132928,
+    "packageDigest": "35371E535A781C61859D8EF607436CDE6A6589DF060151C6D7C0DAE013FFFEDB",
+    "numberOfSplitFiles": 15,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "52CFD7DA97C964DF09F0425EB399437B52119EB12178F495CAB4A497574F3DDE"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D8A828A5A3168687631019C7D47D6CD23DC7A69BDCCEA5D3FFB44DE7FA1E19C0"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F6335199F86C30FA9DE55B3D65D670CF7DD86DFF3C61781EC719299EDDE5DAF2"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F6601685D40ECFA6E8E0E9075ACBAE1B4513642075EF1D34F1866662131921DB"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F004C562B771B171A703CB1BF47064AA72109946D4B3488742235F9E372AB8C2"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C03E503C1D9E7D9A80BCDD5F5812C09BF70853DEDDC225C173526F73F05C99D2"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "51B930DA3145A56EA7D8907E97DE6E9724E312128FA5EAD4BF107EC49683A729"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4F91A0B7ECB49E73964FF67B851D52F75742DE1C0F86E9DF95ECD0D794652170"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4F672B9D1EBDA7390BBBFB8132437BC1185EA57199E98DAD5050D8AD72EE6194"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "38B03EF9A47DF585289DAE2B560574B220C77ECE9817E30DF8F1DBF451F36A4C"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4DC4E912F8073F758573D2222AC131345CCD1C275363015D2F6066E38FBE36E2"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "11E607506D17C47ED5AE2E3301D7A2354AA4F6B66B6CD186CD160AFF05444A51"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E51611BBE17E2E986AA4AA517D76F7FDB2BAE374018D9EAE7D51A3EBDB403E19"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E2E87F51A7349B55163C598CD3494C74FD46CCD5697409EC3CF58EE02A2FFE09"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA24653/Alan.Wake.Remastered.CUSA24653.PS4_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 1835132928,
+            "hashValue": "164AFAE11F739B00519914F40765434074FD844CE701387837373191BE3A2703"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "originalFileSize": 40917467136,
+    "packageDigest": "34778C43DB2074863BDB7DF4F8DB5D490164ECFFD2220C3D6E75B1883C228996",
+    "numberOfSplitFiles": 21,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "3CE692C43BE08C1ACC985A0FE0B7C3C5B58AB0450827E8A5AB6ED976A278F248"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BCE2DCAE6D0F6978BEBADC42A2D5852A1062B56100CD18807694564FDF154CEA"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B0C705963D652B6751A0EF6EBFB8FA81A40799B3D77AAF7D9B52230C96A909B4"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C4158769816FE7146835D7763AFD13E19D0949B7F4AFEFF7A579D9DCAF95848F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "30A96595E1D14E0C46DEB2C0F233E7924A8EBC8174C0F2C7D2A46CFE52398C87"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1C40517EBFC33D0E677896DADD3D266A45E892F30B999B9AC1F87D59D809C6F6"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "374C4BD445CF2E12E1F653AE68DCD053570A66E7B8DED67B15F6182F95F091D2"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A0E7AB2AF8D94DFF1DBCE1C6383FA17E87CAEFAD6E4520F470D07AE298E39B41"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "DC5E311139C4E1EB59269CAC766D8D048EA2BB42877A2ECC41B6E0F7C3DE348B"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4E4C8B876536E27C51C81002D44D9C344D05AD0B2F30EE0F1EDB8181311B460C"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "72B9995CB71BC8B87EFE322829C8C33EC5A6CD2BE04EF580CE576A6A2B47BD8A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "EFB559EAC1CAB19CEE9B9CEEE15A482A8AAD98AE1B77538DD3468231268BF0EF"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D3C4E399B13E4808DB98341DBA00CFF657F5E9999E3BF738E67CC69A6C32784B"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3E4A20915A9D78E4FB48515FAA3AA94CB3D990D85596CE56C2DF76AF5B4720BC"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "EB2E255091451CD3E54418315A4D3F8472A5C79E352FC5124C9A883492231B30"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "494248B3A87DCA81224C4082F4BCBF8C7CFC4F37373ACB15298A540C261EBD35"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1EAFF1CBFB75AAE19AEB4043EB89FF94E567909AFB50151AB7BBEDD188F2B9F7"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0B00FEF70FB4E62DA38B816E13DEF666FE68A8D073B660DA4FD08A6FFF79E4D5"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E49A8682982516BE3BF947FD988998552F294008241038C604F41B9001B2F6B7"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_19.pkg",
+            "fileOffset": 38000000000,
+            "fileSize": 2000000000,
+            "hashValue": "CD790DD4E6AA5F6BD4D44FFF744CE2B936EF8C9CF67EC74E29DADE9C92CD66C7"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00605/Assassins.Creed.Unity.PS4-DUPLEX_20.pkg",
+            "fileOffset": 40000000000,
+            "fileSize": 917467136,
+            "hashValue": "8744C13303CA87A02E020759E946A0EB7DCA33E3D5AB7954AB03B3B22F02CB53"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "originalFileSize": 37433638912,
+    "packageDigest": "8B6AD850224DE04AB16713FB5394B675779A633130D097A08E2F2F9C1AE87F2B",
+    "numberOfSplitFiles": 19,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "145860E12C17CFC77A4C5C0C4E9960034FA700C0E9BA57000D625A63E04EEA78"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4715A7535E8106A1FF219BCE1C42CAEE841DB229328A15EB3AC096B5B52BF99B"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "476E27A31495603F90A5544F983140629EAAC7F59669BE0CDE3178E9A1B638FC"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F4E8880E42330F6206E53B2694B7B1318F350E5CBDFB8F8125198090531C91AB"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "93990857A6DF2CD5989729CC00B7B5E22DA5655080A09DE21516CE0FCADF8F65"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0B265154D02FC733D19FE7827BA9803CE32F7963E0BC8EBFFA4DBEA6BBC794BB"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "49FAB1E72EEAF194C92E9451879074C76F85E2238D65ED8A483B371272B76D28"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B0A910453A211FCB33CC271088231A9105E690C20F54B3B2762EC7B4094D3DBB"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "02E7CFC3ABB090A3319FF38DCFDA23917273A5454D8EA65A16FD7B3C37664D89"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2A04FA9A13F6963D7BE6DAC830994E5CE088C116E12744C8AC0EC2719432F4A3"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "891DA079A8A4AC1C3396035D3C913A300A750B87F7B27AB4EED8ED3DB65EC223"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9E4848A9530B7258BE907C7C7CA5FE36E394DCDEB357768EC647C5083130F1D8"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D2D99229DF8DA461C7803C53D3B57EAE3B649BEA40EE5EFF95CE3F89C19405EE"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "388617B0E04437DBAFF36E64A9BD1E8426128BC9649BA04BD48F4F03F5281886"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "94D390566609481E1E3C088792639DA8022EA2731FFCBE0643474224A39FC1FB"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A9F362A9CA1631D3A8CEADDF6C4A0B581D136C897B3D2464795070359AB7B4BA"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0485311CD99BE634394DC4C78A33F524CEE65E2C556B967E3199663768F84975"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "12E8C723D06F4767ACE2539499CCB4389CF9B59EB5F8E3B236DB3B56F3C483FF"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA10812/A.Plague.Tale.Innocence.CUSA10812_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 1433638912,
+            "hashValue": "5B259DD72319B242900E498495F74061ADC8A398B9B34D63357A2573CBCF1E25"
+        }
+    ]
+}

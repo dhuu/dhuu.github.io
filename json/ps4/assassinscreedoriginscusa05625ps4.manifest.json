@@ -1,0 +1,139 @@
+{
+    "originalFileSize": 42522443776,
+    "packageDigest": "2309A673794AD242ABFAF04BAEA9EFE5F3B6EADEA616ADF223EC2D113FB4F69F",
+    "numberOfSplitFiles": 22,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "08EC8465F5DC81F829117083F31F41A783E740E0DAB1BB24CAB28679C3B467EE"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9CB2EE9A49D961F019F29C7CA324C0F509612F6C7FEECF505F25529AD528BD55"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2C0043866F4C938C8BCCA9DEAC11A889CDBD0B4E7BA7D9020D34AA6CB1A00084"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7A02D7464267B4110C0890A870A7824ECD54EF24B9E09874A38953018FADA921"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "8B5A0C47E3BE35FB02F3EC5EE527497A49C5A1AE86861C1498847FC321697E1B"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "AE9924D5034B0942D7361EAB219BB0312C9603E19AFE779800BB72BAA2BD318E"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D279820AA89F989FACEC914B973A4FEAAD15C858B7B2E468F8C490A9FA810A65"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1332DDF547923B44FC65E605B41FA349A7FC334B9C9801781C39A386B3F8E761"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A7771CD0B651CA53DFC209D9D1E8077468A3CBCB3E6FDF10760A493DA72B3837"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B1CAFABA2CEB529F8F04FA5A7950C790F127BF8C9437B089CB012B58710E3D30"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "67C0E893AA61E2DD05C2F9A4058198BDDCF904D96BF462163DCCCB98E59D2320"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E7DFA63F53BAE29A1D3BDDAF26F8279D0733819D5F36EAFAF39DB9FB0B39D823"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7A6ACD1F6BDAB7446F662A6AEFD109BB96EDB2C500EB8D6210C37EBA59D5654A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B1710C72231B8CEF1077FEF516E7263EF1BA279E0CA4423CD0596B4DE9B69664"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BED8AE0B44F14B1608121177DAD556A3D237A17BBB5B0AC18B0F3F1A7E46802E"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5D7934ECD1ECD12B6D9E6B793CD42B4BA1D26830C218B8E2760F319C1837F38D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E958F59C978C251F503CB218FDDD9B98FB9E366EF7888D725C891B3E63EDE278"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "40392F11913C15CDA0E96D8019D5560E301849E9DB560DA3EC5463D10180E161"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 2000000000,
+            "hashValue": "CDF1AA23691FC904877573DC8F32C76FA37A4AAC7D55198514A64EEC34E026B2"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_19.pkg",
+            "fileOffset": 38000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E29989413008CFA47AC9B0E4324CC548131EF76DFA10B61B49D161431C0B05CA"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_20.pkg",
+            "fileOffset": 40000000000,
+            "fileSize": 2000000000,
+            "hashValue": "15AE8FCF04845F7E1310E99E0FC6F453FF2A3442C0A2CBBFDB799C91ECB52CD5"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05625/Assassin.s.Creed.Origins.CUSA05625.PS4_21.pkg",
+            "fileOffset": 42000000000,
+            "fileSize": 522443776,
+            "hashValue": "899D9AA6386DB5EA1EA02A4D55BEE0CFD1ABE0BAD76FF1BE925D2A35CF1608AA"
+        }
+    ]
+}

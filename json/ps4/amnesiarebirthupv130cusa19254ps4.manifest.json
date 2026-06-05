@@ -1,0 +1,19 @@
+{
+    "originalFileSize": 3060924416,
+    "packageDigest": "3341126A6CE250F8B9F4719B7E4D0D3A9DA534E57F87405E7241A867895451A9",
+    "numberOfSplitFiles": 2,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND06/releases/download/CUSA19254/Amnesia.Rebirth.UP.v1.30.CUSA19254.PS4_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "DA3F4EF06D788D1E740045288AA8DABFB42083CD951D451D6D81F3D765200EBD"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND06/releases/download/CUSA19254/Amnesia.Rebirth.UP.v1.30.CUSA19254.PS4_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 1060924416,
+            "hashValue": "31ACAA9BA59CA866D0647E51095E40802381556E61936B095C982FBE9D6F4081"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "originalFileSize": 40123105280,
+    "packageDigest": "24072E868D0889F0585882CEA5E9EAAA30CFD88C0A548ADC24CB3DBC7269B8C8",
+    "numberOfSplitFiles": 21,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "036232CDF417E7BB12A574780E8B13D3585AFAFCB1CEF6AB06ED72F0169FF58C"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5F0E761FEA314B3352271E7AAD7EC89C27B7EC88064F41DB067722A990A1A075"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A085C156BA2616D4F3EC0F710AD0BEED3252D3001E0C607054F26A8713223857"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3E32DF24DCCEC1DC110F6BB98BF34775F618411A68D71DCD5BBDFDB917F396D5"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5AACA6DD2B60EC79CBDCF755892B321266E6637217A60026FC030B072365758E"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "46E3518824FE9A61B1B4250D8D420365ADEBE9ABF42159BB5073C9229B0EC49F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "EA30B2EE89355FB570CF6A6EEB236207EE061B19C77AAC89B2ADB662089EE5AB"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B2D234C56ED3104939E0250883AEB0B9B0224C6C86978364F1EC8AA49D73BBC8"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3FADEE0FECCF349357F93F75C7C3858FD1299969B9072A91641F23355D666FB3"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B779B30E6D58313E0CB0A730FA076E10C5517D5E5C3BD0E5126F1B621AD3191F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D0C6BA514AACE4CEBD325E3A004A708DF2061481CB1BE4280F9AF8544A0EF321"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "57F1B2339EE7C75FAA678E20B072B1554066E3D892FECF295F439034885A4413"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A316B083C11567A7C39C739AAC72FFAE7DFB44F7BB335EB41DA7FAB009DB8E73"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "CCBB27B1D1B09618A6EDAF0AD0DEA99CCE9F004C6556A17282D6E5DC8860C85E"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "204DCA14175C0A416680D7C084CC9C72035FA3D9796E2046411930312FBBC388"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "ECC8FDF0C50129BEF5022E705005E5E8317D805C81D0212CC887CBFE339B126A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "DF591C4411BC70904F9B9039FD2B17FC976DB2F8DD40FBD77F80F93A9BA7E1AB"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5EC6980C4A257FC1DB7AE4E2457B5900394F5C104B5E2B3607C4B62023E23C6B"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 2000000000,
+            "hashValue": "ADC0EB38548C2487FE808A045980125C8401D51107CD35A2C246DC1B027DDE3D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_19.pkg",
+            "fileOffset": 38000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F0E009B1802A5D193EC1608D5F054F43595BE022B4B4087D8B22418A01F91DDF"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA04893/Assassin.s.Creed.The.Ezio.Collection.v1.02.CUSA04893.PS4_20.pkg",
+            "fileOffset": 40000000000,
+            "fileSize": 123105280,
+            "hashValue": "B8FD32195545278F79922CBB863AB4E1B6D465ED594925FB98D9403CF8AA9AE5"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "originalFileSize": 735510528,
+    "packageDigest": "D1E660A37355FC6546C48E4FE1557E876749E6B93398990288122FAB982D4942",
+    "numberOfSplitFiles": 1,
+    "pieces": [
+        {
+            "url": "https://github.com/infinitykkjstore/ASSETBOX/releases/download/acsyndicate/Assassins.Creed.Syndicate-CUSA02389-USA-Update-v1.54.pkg.part0",
+            "fileOffset": 0,
+            "fileSize": 735510528,
+            "hashValue": "38A762EC2DC4DF05B9EBC43E9764B7AB9CB88A26"
+        }
+    ]
+}

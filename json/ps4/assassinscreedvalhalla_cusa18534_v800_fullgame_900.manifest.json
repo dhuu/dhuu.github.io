@@ -1,0 +1,313 @@
+{
+    "originalFileSize": 100432871424,
+    "packageDigest": "D2B92C9760894A13E67B05BC7C78FEB5550C0578C1081B8405E7067A54D67209",
+    "numberOfSplitFiles": 51,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "1C502A7C74CB52B857DF0449A8EA32F0C1A46498CBB589763F24CFDB130A9458"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3D21674ACF3BB89EADEE3409D2F09FA0731CB1DCA93E17B6F1E089EB51A4B721"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "65ADF58AA496C0764C5210A069204C73AB6CDE20BD90E6BC08CA88528040BB73"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "03C108632413FC5993D32CCB126F54516E8E45295877D2E561DE2AED9062C777"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "74BEE4BA6AC20DAE9DB0813C0999579BEB2CD9B6ABEDD6B80F37A9AD604CB60A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "603A2B8881F09B77FEEAD8DFD41ACEF94A7127A02E404CE2DB7BB69C24909460"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D72289669FF7B1AA1F894AAA81AB56399B04CB8E766A5E1326B496D1A48F3BB0"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "19007D1560728034548384ADA855D073F57954EC8BA41CE95188FC6B23455070"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C3AEBC2A627B79B12D06EB83823C3C305A39A9279626883D60F0C8B8A01ED007"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7C998E5C62E5D89C01862150CC9EC154AB03B68436D7FD16E1A179E94C3F756D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "680F54492B865D917AD235BE7059AA4B9D98DFD017F2AE43CD8A4407A04F2625"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4D3133A313C0353FCC2A42EBDC3A1B0FBC10FFCD96FAC6A34984345853054EEC"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "26F7A63F1CF35235B5E5F177C551FAE1D839BAA6D49A9D919435B26D8A2A166C"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "68DB3DCE63148CF52621B80D20E0481E1FC13B578FA85F115CA37E527A0927B0"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9D53CD18634E82F99D9C6723EBDC8F59F117EBA16BA665D525EACDD456CD44C8"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "97AC2DB36E246D3EAF2BCB78A059DFE2B73691A8EFD7B94369E57EA62DB42442"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "DE2203F7B443439CD9FC694086E6332511BE2CDCB1015A05BE274809EA35F0E7"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5BA20BBF0850A1DB05CC8F53D33EF96BC40D4280177569F305558BF882892549"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 2000000000,
+            "hashValue": "6F5AD221902D3423B77FCC387C7884FE0ECD08FB344260DEEEA722C84FCA9C19"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_19.pkg",
+            "fileOffset": 38000000000,
+            "fileSize": 2000000000,
+            "hashValue": "003D559DC1C0FCD57A6B081E845A288230941FA337AC368FB3FCE433E4E2445A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_20.pkg",
+            "fileOffset": 40000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C3F4F4C998B12194EAFF4E4268019365A5528E381A3DFEA2990E323EF9886272"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_21.pkg",
+            "fileOffset": 42000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5274AA61927FA64AA5398F128EDEB96883E964B2CADC0A7F085B477F3D246C8C"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_22.pkg",
+            "fileOffset": 44000000000,
+            "fileSize": 2000000000,
+            "hashValue": "8B6BFB5F1BC4A9539938B8254A24EEE2B1E5121D82F84BE5CCA5E237F58703DC"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_23.pkg",
+            "fileOffset": 46000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C1FF9C9D7AE31E239A902088F9F2CA46CA3D340B9786EED84C9A6C8C99728175"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_24.pkg",
+            "fileOffset": 48000000000,
+            "fileSize": 2000000000,
+            "hashValue": "714B646B1CE04022B458C51A9E25BD2D512F42A809CE43C50C2588C1653BC467"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_25.pkg",
+            "fileOffset": 50000000000,
+            "fileSize": 2000000000,
+            "hashValue": "82B75C35B1D9D17C71E6BE08C3C99A94410EE9189C58192E83C513EF22FF32CE"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_26.pkg",
+            "fileOffset": 52000000000,
+            "fileSize": 2000000000,
+            "hashValue": "217DA9D1FF39A2FF09ED119516A20F9D940B611D753312936A17503A580A051C"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_27.pkg",
+            "fileOffset": 54000000000,
+            "fileSize": 2000000000,
+            "hashValue": "6460E07E6EF96399452EC012DA9D9B84B60C2A9AA78DA5D52B8092D0D034818D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_28.pkg",
+            "fileOffset": 56000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A7663FB74D78FDB535748B604B803B2CB2A1501DEDBC19D94962234372796C2C"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_29.pkg",
+            "fileOffset": 58000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B4F64C229AA0A04B15EC7A5ED7A5D59592AA956FB6914041A3418B17F7530B8F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_30.pkg",
+            "fileOffset": 60000000000,
+            "fileSize": 2000000000,
+            "hashValue": "733A7A6BE27F5255B6C0F41BD57B606E7B292B48D9916757F2DCD9FB16DDD304"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_31.pkg",
+            "fileOffset": 62000000000,
+            "fileSize": 2000000000,
+            "hashValue": "369E9118A63BD351B96B5B2FF818E40750B97A6CA9DC63C5D24B0D94B753CF6C"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_32.pkg",
+            "fileOffset": 64000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BE06E61B505AF8A050F249BA45153E6B4BEEDC4BD89212BB4F7101298E115C86"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_33.pkg",
+            "fileOffset": 66000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2F641AE8FCA1829411D4638CAAD6A243BD48106C615F1F8F52DFC56D7236D3B0"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_34.pkg",
+            "fileOffset": 68000000000,
+            "fileSize": 2000000000,
+            "hashValue": "3D6155DFDCCE3E320F67EF7BBA101BD40244736515134F5DB37B0B08B211F2E6"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_35.pkg",
+            "fileOffset": 70000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C8EDCCFC0BFD09DA35005472304615D35C980E7CAF12DC91C56BA4C3EC824F6B"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_36.pkg",
+            "fileOffset": 72000000000,
+            "fileSize": 2000000000,
+            "hashValue": "857945C3CB1C7B2966E101493176FD8E6C6253256A5F305F127976D98783A701"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_37.pkg",
+            "fileOffset": 74000000000,
+            "fileSize": 2000000000,
+            "hashValue": "17807FB563570A8C85F72AAD5CBB8F9B9A0327CFBD29771139FFE25C27C7F763"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_38.pkg",
+            "fileOffset": 76000000000,
+            "fileSize": 2000000000,
+            "hashValue": "6634B0ECC76B9CCBC1F3D33209062B0CC27D6B0EEE1EFD23551253D8224F3A3F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_39.pkg",
+            "fileOffset": 78000000000,
+            "fileSize": 2000000000,
+            "hashValue": "287771EC317ABF971693455D69F427373C4AA483D19DD8D6E8734A8EC175355B"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_40.pkg",
+            "fileOffset": 80000000000,
+            "fileSize": 2000000000,
+            "hashValue": "56CA78CE87EE68969A612BCAF64BD8D1EE6112F98BAA1980461479F0C0354A6F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_41.pkg",
+            "fileOffset": 82000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4FED0C9C4EA5949AD2521A58043B3D32E11F191D05798F1B400BBAF4A93E327A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_42.pkg",
+            "fileOffset": 84000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C546411AAE51D4209C41D59896DC83C912A63266DA2ABFD5B8AC90266AC80700"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_43.pkg",
+            "fileOffset": 86000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D6B4DA02741D8CC741A680091230E3ADA60224C9C199C2145C65ED5466FE5D1F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_44.pkg",
+            "fileOffset": 88000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D75386CB844DABDAD201F3E906ABE69F333091448AA9279FB9861E0B03F42514"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_45.pkg",
+            "fileOffset": 90000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5924427A5690B622E7615011388CD8E1B2D2C4F27FF84267F0808088BAE37D12"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_46.pkg",
+            "fileOffset": 92000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C815B75100041D8E5C6E4D3AD2B5227CA61EEBBE611D6DDE9306ABDD81D1565F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_47.pkg",
+            "fileOffset": 94000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E4FED27D43A86C60BCAED89C8CA897EB37C69F3F0A6BD138C885D2C37A65B68A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_48.pkg",
+            "fileOffset": 96000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E72F83AB663FFCA810F5DFF8761F13FF79CDA6C6173937A84AC84B5378E6A70E"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_49.pkg",
+            "fileOffset": 98000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C6790BE29C76DBA07BB21F0E535F79635CB94DCE1667A86B9234A56997DFA32C"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_FullGame_9.00_50.pkg",
+            "fileOffset": 100000000000,
+            "fileSize": 432871424,
+            "hashValue": "7F164E0DA09F9F594F8DE32E84AE763FDD2DD24C1E887BC0BA74A5CAB843B94C"
+        }
+    ]
+}

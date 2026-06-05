@@ -1,0 +1,49 @@
+{
+    "originalFileSize": 13461159936,
+    "packageDigest": "F745DFF8C8FB174EB4880EF195DB031D12C14470CC03276B4920DC609CA56654",
+    "numberOfSplitFiles": 7,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA31380/AI_THE_SOMNIUM_FILES_nirvanA_Initiative_CUSA31380_BASE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "F6AEEF7DC249A9F51C91CC9CCA20578DD67D0F32609265B9B18DE4FF3075B41F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA31380/AI_THE_SOMNIUM_FILES_nirvanA_Initiative_CUSA31380_BASE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "86DEDFDB76DD8D57784BABB778DCCD3F2248F46B4BD3FDBDBCC123793A3BCF86"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA31380/AI_THE_SOMNIUM_FILES_nirvanA_Initiative_CUSA31380_BASE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "697A82A3ABBA8FBF79A02AC8315E13A0954D260C6B926DB60EF3CB3C2C6E09F3"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA31380/AI_THE_SOMNIUM_FILES_nirvanA_Initiative_CUSA31380_BASE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A7790D341F7D6F1264302AEA62AE3DC1CD429138C676C8AA96ABDD8E487A4A8D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA31380/AI_THE_SOMNIUM_FILES_nirvanA_Initiative_CUSA31380_BASE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "213C720C70BFED8B0D292A26066259460E87F276991DA65363C6BC7C5FDC96AC"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA31380/AI_THE_SOMNIUM_FILES_nirvanA_Initiative_CUSA31380_BASE_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A768B21C10D05019B32F3DA1C6F8E7829F093A1DF1E973ACAC3A467B37F476E4"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA31380/AI_THE_SOMNIUM_FILES_nirvanA_Initiative_CUSA31380_BASE_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 1461159936,
+            "hashValue": "CF55CFCF3CAC39EFDE9E38A8C712CD57E6688AC954C3E127D3A95CB67082F618"
+        }
+    ]
+}

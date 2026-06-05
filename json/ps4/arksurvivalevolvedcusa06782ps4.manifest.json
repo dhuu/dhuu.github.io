@@ -1,0 +1,55 @@
+{
+    "originalFileSize": 15811149824,
+    "packageDigest": "24ECCA990EB96E911E572F48061015440AA2C66C2BF305BF1893FCAA4E36C113",
+    "numberOfSplitFiles": 8,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA06782/ARK.Survival.Evolved.CUSA06782.PS4_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "41655A83CD253EC10C5D41DF993DE7CB48AAE023022391A22E17264FF748140A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA06782/ARK.Survival.Evolved.CUSA06782.PS4_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E9F6CD9EC77CA8BB97594AC88A7AB8724AA8EB77173D286655104E9D1F746660"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA06782/ARK.Survival.Evolved.CUSA06782.PS4_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "836BD2EF24EFC32F92143415E32087FCDAA54A27D329603715C9C9CBE1A9B9AD"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA06782/ARK.Survival.Evolved.CUSA06782.PS4_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B59BDD7BF2FF141CF3D565005FF20E86A2B716D0D94FD6416809B4ADE544B7C7"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA06782/ARK.Survival.Evolved.CUSA06782.PS4_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E5ABCA72C7E756D11AE38BE1A4C812638EFC2396A5E45956DFB7A65B8A9785E9"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA06782/ARK.Survival.Evolved.CUSA06782.PS4_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7C186157B0D41F64C38B07C35879771263DDA5CAFF922EF5322B811366FEF273"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA06782/ARK.Survival.Evolved.CUSA06782.PS4_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "CFF678C7B8D59645435FCE48BDEC44BD91AC7FE0E2F274D5ED059A264CC71291"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA06782/ARK.Survival.Evolved.CUSA06782.PS4_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 1811149824,
+            "hashValue": "3FC2744F35BEF8F5874A37E10C6F7120C74199F3A071CE5C1616EC724FC1A698"
+        }
+    ]
+}

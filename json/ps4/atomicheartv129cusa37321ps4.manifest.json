@@ -1,0 +1,121 @@
+{
+    "originalFileSize": 37549244416,
+    "packageDigest": "E4FFF259A9D22F54C8C38EE6A6BDF9949D9E4327D0FAD87BF10046E7070D4E1B",
+    "numberOfSplitFiles": 19,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "3764204E33B7180DE68CD2C05A3418600869545D334B5A551BBD0E2D0183BD4F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C1CB2FF7D9950D3E46DEB5DC1EC193C10AD5616C2602F2FBFAADD86AB916DEF2"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BBEC4BF691445508EFE8F7F5647A9B099A0D83B18BC4F5BFC1DD875C4C236F1C"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B558F1AE45D38EEA5A01725E95A76BE4CBCC13B32713B0F7899F7A370C0593E7"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "40863C7CE73D3A44FB2B1FC6DEEF7FC6288752446E4999A8D34DE0244C4ABC17"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "239BF2AA84EE11CE02CED4E7C667D4204BD86E504F00BC3BF597A2E3551D9267"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "FEF8E2374C34FF5D8A14F12F530D56C054395E9EFE90083E4E43B80B2D92DE76"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7608F069170E8897A34D74A310E762BEC4526791E2F99DACF91A3FD181547ED0"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "665EDF0916EE28F809DD1D5B0AF3113C094699A24C61C3E420416BC8708D8493"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9A9E40EC29B324D4951620D89606795987731A07EAE2ECED9D31E924A7627AE6"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B72E495C9939F658EA8093723BA6DF34B961A60723A3AA0CC4175019930536C3"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "BEBC36D6BDDE206669A3596D64AAB66C70918B943D492DAD5AD32443B79DECF1"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "9DC5C13EDFB8374894DD1449E854D0C341C90C6FEF967EABBBDD5F56EDFC4C0D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "CDB087CCC38AD927E9C0FBE4B32C0E90745F03EF4FB09EECB47C03EBF45E6D6F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7E20E833F804BCCF52C0D70C545143E1B7A28CA295EECE15E8029144A17150A7"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B9C7B6DB5D34F9635BBD07AF67F41568EDFA8FF1F51703117735CF19E10E2C74"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C0766DD0C4CFD0BB09E6566464B5D530B4157D0C45AE1CE37544D7C01F018966"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0A62D34368A043C7A9981A2AA1414EF3DCC2AF75486BFA443361BD401DF6E2C6"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA37321/Atomic.Heart.v1.29.CUSA37321.PS4_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 1549244416,
+            "hashValue": "A5CE1F135D2EDF00419D50B847FB011570AE12564769E80197B23BA8C193CE97"
+        }
+    ]
+}

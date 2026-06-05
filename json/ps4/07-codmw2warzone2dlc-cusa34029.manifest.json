@@ -1,0 +1,19 @@
+{
+    "originalFileSize": 2975203328,
+    "packageDigest": "8EC1D334E68F88BE8EEA9E8C83B9EA57B5DDA5AC368D17BAFBA42A7418187A6B",
+    "numberOfSplitFiles": 2,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/07-CoD.MW2.Warzone.2.DLC-CUSA34029_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "3E627C759D38DE324DBDA4BCBD5CD51614D9460FA3830085E644BCB63F15D761"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/07-CoD.MW2.Warzone.2.DLC-CUSA34029_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 975203328,
+            "hashValue": "310F7AB4526AD06FD002CFE43500F707788373780ED66026C842298850E6CC8F"
+        }
+    ]
+}

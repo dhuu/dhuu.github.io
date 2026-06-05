@@ -1,0 +1,13 @@
+{
+    "originalFileSize": 1367736320,
+    "packageDigest": "B0D7A7CF940C066C671EF133B1865C03D6F9001E7FFE71AF0D85EB147163AB42",
+    "numberOfSplitFiles": 1,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND06/releases/download/ROMS90003/2.RetroArch.CORES.pkg",
+            "fileOffset": 0,
+            "fileSize": 1367736320,
+            "hashValue": "492C841693C23880A496AB97A3B00D9C95336B310D1429FAEFFF81CBCA4DDA50"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "originalFileSize": 4527554560,
+    "packageDigest": "BFD2B9DDDAFB0674576B2FFFAA3DC5FFF64926D4F6D6BC3FC2C4D2CCFAB132CE",
+    "numberOfSplitFiles": 3,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA02144/Aqua_Moto_Racing_Utopia_UP_v110_CUSA02144_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "22014B8DE591D6CC2B29B454B263259ACA1BF42719912BCF5E1CAE7C4602C82D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA02144/Aqua_Moto_Racing_Utopia_UP_v110_CUSA02144_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5D7284F370757988B2EB45FF7F0B577DEF6E98AE55EFE41BAE3AF57DBE07EB64"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA02144/Aqua_Moto_Racing_Utopia_UP_v110_CUSA02144_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 527554560,
+            "hashValue": "7BE01FD586C05F783141B20B5B068B03E11070950A686EDE2AD73AE3DFECFED4"
+        }
+    ]
+}

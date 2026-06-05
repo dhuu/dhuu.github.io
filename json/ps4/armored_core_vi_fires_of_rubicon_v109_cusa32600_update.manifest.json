@@ -1,0 +1,55 @@
+{
+    "originalFileSize": 14044626944,
+    "packageDigest": "CB3A9A3294034793BAF5B973F84F0284D4FA63E1766D111F56D266B3A468D6A9",
+    "numberOfSplitFiles": 8,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32600/Armored_Core_VI_Fires_of_Rubicon_v109_CUSA32600_UPDATE_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "B2DF543076000004E1D5C76014DE72B1324FCA5219D15DA0FEBAB8747EB76D54"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32600/Armored_Core_VI_Fires_of_Rubicon_v109_CUSA32600_UPDATE_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4BCD275B26E0FD78D72FA55CB37679357FD412E64C490E42EF2A19A1694DF7B4"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32600/Armored_Core_VI_Fires_of_Rubicon_v109_CUSA32600_UPDATE_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B4B7E6B908AA1E52C90B71EFBC929A9542479F075173AD809E4F4B0C2589EF1A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32600/Armored_Core_VI_Fires_of_Rubicon_v109_CUSA32600_UPDATE_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "A69DEAB66091FF58EDB6B46FC4F9A0561DF40B4E580D517ABCDF469D662EFDCB"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32600/Armored_Core_VI_Fires_of_Rubicon_v109_CUSA32600_UPDATE_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5378A5EB3FD126247F8B3074860191FD4285FDA7730CF355AC32D32F233EB338"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32600/Armored_Core_VI_Fires_of_Rubicon_v109_CUSA32600_UPDATE_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1CC6D28C26B51FEE74FD6346285460B5FF55F91CA157E9AB8241FFA3B94E7CCC"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32600/Armored_Core_VI_Fires_of_Rubicon_v109_CUSA32600_UPDATE_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D9384F630DDFD5A1D186D8B028C0EA1FCE426255FD992BDE1BCAF4AF15C65431"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA32600/Armored_Core_VI_Fires_of_Rubicon_v109_CUSA32600_UPDATE_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 44626944,
+            "hashValue": "3E90063088C3CF23810CC522122FC7C22DC4A9517053571E8D95AD853D7DCD34"
+        }
+    ]
+}

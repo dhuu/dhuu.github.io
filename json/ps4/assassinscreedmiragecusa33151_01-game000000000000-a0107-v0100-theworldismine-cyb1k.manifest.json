@@ -1,0 +1,31 @@
+{
+    "originalFileSize": 6302400512,
+    "packageDigest": "069BE2279A89EFE1BB9E8A0F418FBEA33250C3CC3E146E140414244F61949FAD",
+    "numberOfSplitFiles": 4,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA33151/Assassins.Creed.Mirage.CUSA33151_01-GAME000000000000-A0107-V0100-TheWorldismine-CyB1K_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "346A7A473A2157991AC9C78CF1D6AABEF9F1C9ED7331FA7B49DA1FF948A5846F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA33151/Assassins.Creed.Mirage.CUSA33151_01-GAME000000000000-A0107-V0100-TheWorldismine-CyB1K_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C291B4F9F1AC7DA84587FD67B1788917F1A6D960357F569742623591DD1BC08D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA33151/Assassins.Creed.Mirage.CUSA33151_01-GAME000000000000-A0107-V0100-TheWorldismine-CyB1K_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4DE58CBC21D3925215155E9AA4A72EF937E69B24AEF51F15945960BF2FA76A4E"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA33151/Assassins.Creed.Mirage.CUSA33151_01-GAME000000000000-A0107-V0100-TheWorldismine-CyB1K_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 302400512,
+            "hashValue": "2F7AA4BA781D85B8C96EB11F41E5635A597AEBFA13BCF3D8065243E29C8DA843"
+        }
+    ]
+}

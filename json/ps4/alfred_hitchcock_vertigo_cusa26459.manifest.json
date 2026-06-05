@@ -1,0 +1,43 @@
+{
+    "originalFileSize": 10726670336,
+    "packageDigest": "58A29CE42D804EFC02B51FD576CC00C3B511770F22FB8CFC84217114A48E19A4",
+    "numberOfSplitFiles": 6,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26459/Alfred_Hitchcock_Vertigo_CUSA26459_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "6C269C7384A92E5ADC0BEA4A6A4C7DC4BE12AC12B1081FE7456D5E18E12DB6CA"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26459/Alfred_Hitchcock_Vertigo_CUSA26459_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "2D4E258F2C58682CA5DB88671261916D6A2ADC4A3188B17F06DF32FA0348D6BC"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26459/Alfred_Hitchcock_Vertigo_CUSA26459_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "808F07D3DB44FD23D0C7318B865B41A2BA09CDEBD1FACB287284DB287CEBF0B1"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26459/Alfred_Hitchcock_Vertigo_CUSA26459_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "94751B009E52E1CAAB8E7C5D670205FE620D7B708C2B9DD3450E56E731493356"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26459/Alfred_Hitchcock_Vertigo_CUSA26459_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "89B5131960B3B9ADF2AECD0F0270D679AB57898F98EAA3428577036767144E73"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA26459/Alfred_Hitchcock_Vertigo_CUSA26459_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 726670336,
+            "hashValue": "2EDD9070F66AE328ACB43623DBA99C8FA666A0951530C9195200B78997426E0F"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "originalFileSize": 5338562560,
+    "packageDigest": "9565AFF45F47EFB33785A29806A4A51BB05CD68DB8CC714D5A6C5324FA442404",
+    "numberOfSplitFiles": 3,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA27876/AWAY_The_Survival_Series_CUSA27876_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "48A205E132F5F920560EB172143CE40AE2A32546F62B6C2AFD231C95B6AE768F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA27876/AWAY_The_Survival_Series_CUSA27876_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "7EB9225D12D22D45C6FA225FECC0EAB38ADC89C5216341267EF2E930DB6B9573"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PK4IST4LL/releases/download/CUSA27876/AWAY_The_Survival_Series_CUSA27876_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 1338562560,
+            "hashValue": "1C79FE282CE545BB696C74A7BD44FAE9BE558B33B5C938242BEE866B4F40FF64"
+        }
+    ]
+}

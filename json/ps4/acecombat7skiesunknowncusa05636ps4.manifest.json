@@ -1,0 +1,121 @@
+{
+    "originalFileSize": 36038705152,
+    "packageDigest": "B363350A049C090A295EAC736E7FD5C088D7EA9361F7C25C91CF5FE1A71894AA",
+    "numberOfSplitFiles": 19,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "A6FC1C9BD24C16B4907D978ED2071D30CA2A2F8D126524F8D936F39C7AD9E754"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C4C7AA2FA3E4059C41EEBFA406505F72EED8D8B4EF45EDA509A124462A032B91"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "04F6F4792EC7A261C7A1BC915A2CF858BEDECDD937C64C69C471263795203B3F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "191C3AC30740FCD34413A6D5AA70AA377FE7E45FFF91CD5172E7D3151FBDD8E8"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B8F1A9FAF015077C0ABB585692E74B7DC04E4AEEADB62CB69C4351379EA2F07A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F5305CAE020C2F59382FEDF582E047B3D92C979C63028A19723E38FF2DEC475F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4FECF7043B2F90244B20B18044CC357C7D993C15CEF34EA00AF2BEC025548EA6"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "B60ED4DEA29826AD1F1C05F7DF5BB137A0F55ADC3151B8FD45939C3FCEEA373A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1690E4EA11053638A14AE4B90F6FEC2F3CE52C4931D7C83FD225273245027D21"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 2000000000,
+            "hashValue": "5B5B8561F6764DF1567C97D6DFDDF604AEE68333628F19CEF172FE6A57C28C68"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_10.pkg",
+            "fileOffset": 20000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F69A9F317E9CFD741C568B4D146D58F930DC7D4DFA6A81A220A85043F4DCC54C"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_11.pkg",
+            "fileOffset": 22000000000,
+            "fileSize": 2000000000,
+            "hashValue": "07584BE33087A2117067D50F6E429148A70CEA53ED04E78F4334979827BE3E93"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_12.pkg",
+            "fileOffset": 24000000000,
+            "fileSize": 2000000000,
+            "hashValue": "AA96AA7ED107FF5FD6DC6A6ABF0400F69321E2A16094587DC39F7762AF022C89"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_13.pkg",
+            "fileOffset": 26000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F8A6BBC4A32BDCB3ABE844CB778395D7D69451F3535B434E338FBFD54AE03D9D"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_14.pkg",
+            "fileOffset": 28000000000,
+            "fileSize": 2000000000,
+            "hashValue": "D19522A3AFA89CC22A169F1A81C7D60E74FBEDE0CD5C24E0B719D30B9C5F8906"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_15.pkg",
+            "fileOffset": 30000000000,
+            "fileSize": 2000000000,
+            "hashValue": "437E7E9004CBB731E86051B843F2C73964CCA25DF5AA5451485A185B46F47EBE"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_16.pkg",
+            "fileOffset": 32000000000,
+            "fileSize": 2000000000,
+            "hashValue": "95E2B26E388AF80EA953DCF6863767F944529D77495AD45B7EFABBC642A8CA1C"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_17.pkg",
+            "fileOffset": 34000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C42FE85E32A62EFE19700B98D221567CE1AF15FD3CB9B86E15EA32BA93AD80B0"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA05636/ACE.COMBAT.7.SKIES.UNKNOWN.CUSA05636.PS4_18.pkg",
+            "fileOffset": 36000000000,
+            "fileSize": 38705152,
+            "hashValue": "BE2F712FB6E5E818E41D825894C6F03CCD6D05D76165258627831E8CAAD04ECE"
+        }
+    ]
+}

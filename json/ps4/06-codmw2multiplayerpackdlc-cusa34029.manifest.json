@@ -1,0 +1,25 @@
+{
+    "originalFileSize": 5518065664,
+    "packageDigest": "D45E2DCC53663F45AD8EAF1200705798CEC5F46B506A6311139B3B827A02E808",
+    "numberOfSplitFiles": 3,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/06-CoD.MW2.Multiplayer.Pack.DLC-CUSA34029_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "8A76C1B5581021EBEE634D4338FA3875C7011ED10A6A932AA546F452ECF81216"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/06-CoD.MW2.Multiplayer.Pack.DLC-CUSA34029_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F1F735C929AB1AD6B757AE6D5E8356D9589A2D77A5DA9A13624AAD01BB17B000"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/06-CoD.MW2.Multiplayer.Pack.DLC-CUSA34029_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 1518065664,
+            "hashValue": "E699F89F6A1B32FFA897154A17794B52920C5537C92EAFB38694C31229138DDD"
+        }
+    ]
+}

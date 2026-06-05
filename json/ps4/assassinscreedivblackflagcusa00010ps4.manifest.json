@@ -1,0 +1,49 @@
+{
+    "originalFileSize": 12769820672,
+    "packageDigest": "8EB006EB071B7BDB69F8A3604B9158985BF0B259C48E1565B4258403163FC57A",
+    "numberOfSplitFiles": 7,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00010/Assassin.s.Creed.IV.Black.Flag.CUSA00010.PS4_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "BA72D28CED4871E36EF3502878BAD41B8E000040A10393E6C0E8897973FA6C63"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00010/Assassin.s.Creed.IV.Black.Flag.CUSA00010.PS4_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "F010F575227B51504B20C5C5D5FBCC730F12F0732887DA0A3281346B247391F4"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00010/Assassin.s.Creed.IV.Black.Flag.CUSA00010.PS4_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "4FA34386B92D9555709B935D874B462D98DBE2B50B88200B700EC8EE413483A7"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00010/Assassin.s.Creed.IV.Black.Flag.CUSA00010.PS4_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "AF4EB1355B3DCB0A748B334A49A1379889F5914560FB092B748ED1DE5DAFE349"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00010/Assassin.s.Creed.IV.Black.Flag.CUSA00010.PS4_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "47055C3AC5DE6DDAD6543E0DF713D3A8B3E14373320FC2DB2169C012F85D5094"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00010/Assassin.s.Creed.IV.Black.Flag.CUSA00010.PS4_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "6C3D10F6850BAC8F9DB58100229D82CC6AF98D0FD313E32C0337BC555EFC7C62"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND04/releases/download/CUSA00010/Assassin.s.Creed.IV.Black.Flag.CUSA00010.PS4_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 769820672,
+            "hashValue": "0BFB75273C3C44A4AA109E0CB854EBCB3DD9113B56F33E2715CAEE8C51E28CDD"
+        }
+    ]
+}

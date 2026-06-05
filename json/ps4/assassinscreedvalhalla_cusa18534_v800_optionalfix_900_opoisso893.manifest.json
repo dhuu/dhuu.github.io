@@ -1,0 +1,13 @@
+{
+    "originalFileSize": 18153472,
+    "packageDigest": "E876F8C98A43895122EB12FFA344FCFF1C1EEBD689668AA6DF8D609BC1589446",
+    "numberOfSplitFiles": 1,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND03/releases/download/CUSA18534/Assassins.Creed.Valhalla_CUSA18534_v8.00_OptionalFix_9.00_OPOISSO893.pkg",
+            "fileOffset": 0,
+            "fileSize": 18153472,
+            "hashValue": "AFE9D0CD6E83A86ED3546C2BE87DF8047AD861445DA48DF305D1BB7015B2ABD7"
+        }
+    ]
+}

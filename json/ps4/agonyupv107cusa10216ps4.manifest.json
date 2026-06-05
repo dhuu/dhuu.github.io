@@ -1,0 +1,37 @@
+{
+    "originalFileSize": 9793175552,
+    "packageDigest": "AFF8C3CDC1437D1985A06EC57C81A54CB1F6491EDD7D4BF2A1D2971FBD4FC945",
+    "numberOfSplitFiles": 5,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA10216/Agony.UP.v1.07.CUSA10216.PS4_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "B0E614D0A38B0B129CD65F0407747976C2B1673956AEC287CC3F72F80D242709"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA10216/Agony.UP.v1.07.CUSA10216.PS4_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "AF2137F810F5F9C1B535C77CCD5175297B44834F49846436FCE221C270155F12"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA10216/Agony.UP.v1.07.CUSA10216.PS4_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E7F2FEF3DB36AF9AAA3E58053F221155E3445A69F62540D10D05F63D94CE02C7"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA10216/Agony.UP.v1.07.CUSA10216.PS4_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "239B31C5F46C5B44389444B1162A3ACD9ABC70D05CEE56C184E24141AFFF5BA9"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA10216/Agony.UP.v1.07.CUSA10216.PS4_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 1793175552,
+            "hashValue": "7F4A5E07E3DEF5E6EC97A3F68A86676163464FE85E094FBD4062F55F19FFE22A"
+        }
+    ]
+}

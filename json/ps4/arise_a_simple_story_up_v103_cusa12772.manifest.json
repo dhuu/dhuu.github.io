@@ -1,0 +1,25 @@
+{
+    "originalFileSize": 5061083136,
+    "packageDigest": "23A0AC69593D3E9E2B81695540993F0C0101F0DA52A77BC102C61B1F3A6562C7",
+    "numberOfSplitFiles": 3,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA12772/Arise_A_simple_story_UP_v103_CUSA12772_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "554AF2320723986EC814EE27C08F4BF4CFAFF6F4123756AC7ADD463477AA47FC"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA12772/Arise_A_simple_story_UP_v103_CUSA12772_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "0870EA0248D64CEB8743DBCE78FFD941D61CDA10BFF9FB9ABE1C0A14914C3965"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND01/releases/download/CUSA12772/Arise_A_simple_story_UP_v103_CUSA12772_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 1061083136,
+            "hashValue": "87204BBF5F6661CA9577CE8D5A69666D352F7F9C559CF66577BC1F62E2E4799A"
+        }
+    ]
+}

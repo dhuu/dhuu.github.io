@@ -1,0 +1,67 @@
+{
+    "originalFileSize": 19981467648,
+    "packageDigest": "BDE9CA5425434FAC20D91E50F6A38E195679A8AF733FF27E988E65F550ED14FD",
+    "numberOfSplitFiles": 10,
+    "pieces": [
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/03-CoD.MW2.Campaign.Pack1.DLC-CUSA34029_0.pkg",
+            "fileOffset": 0,
+            "fileSize": 2000000000,
+            "hashValue": "8D2DA62221580653A8530D1C58545B0D449D5AFDA55303B9CFA9103DE9C5B970"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/03-CoD.MW2.Campaign.Pack1.DLC-CUSA34029_1.pkg",
+            "fileOffset": 2000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E2B57E1E8C02CAD082F805E4EE7A6EED92E976D2B93AD12C12DF85E839AFAF5A"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/03-CoD.MW2.Campaign.Pack1.DLC-CUSA34029_2.pkg",
+            "fileOffset": 4000000000,
+            "fileSize": 2000000000,
+            "hashValue": "989C250A628AB4CD3FAC61FD06A25017F876E75CD6E0564C47702529C77D7679"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/03-CoD.MW2.Campaign.Pack1.DLC-CUSA34029_3.pkg",
+            "fileOffset": 6000000000,
+            "fileSize": 2000000000,
+            "hashValue": "E423BB7B7EEB19FF070EED6602B96FDE8B0DF95B06658BFFA3EE3E089B893CBC"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/03-CoD.MW2.Campaign.Pack1.DLC-CUSA34029_4.pkg",
+            "fileOffset": 8000000000,
+            "fileSize": 2000000000,
+            "hashValue": "409C4E443541B1B51F4583F5C86D404430B805033B062A3BDA88DED00C7D7DCB"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/03-CoD.MW2.Campaign.Pack1.DLC-CUSA34029_5.pkg",
+            "fileOffset": 10000000000,
+            "fileSize": 2000000000,
+            "hashValue": "1460795DB3168CA722601D5EDE29C0FB82240AE778B022B9EA0F9F3A468FA3A4"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/03-CoD.MW2.Campaign.Pack1.DLC-CUSA34029_6.pkg",
+            "fileOffset": 12000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C06B1214C960C7CBF59E69DBB355B95BBCEDCF60FF0D43492CA7587E2D848E9F"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/03-CoD.MW2.Campaign.Pack1.DLC-CUSA34029_7.pkg",
+            "fileOffset": 14000000000,
+            "fileSize": 2000000000,
+            "hashValue": "C47EAC92CB00C7E6359001B5EA0AA20F882567465D8FB1C9C8D5529713B7D19E"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/03-CoD.MW2.Campaign.Pack1.DLC-CUSA34029_8.pkg",
+            "fileOffset": 16000000000,
+            "fileSize": 2000000000,
+            "hashValue": "007A7C3D5B0C788382458FFCED78EED91389834CE3B8BE35DE2A4C45735F1F81"
+        },
+        {
+            "url": "https://github.com/sandrostoreps4/PS4CLOUND05/releases/download/CUSA34029/03-CoD.MW2.Campaign.Pack1.DLC-CUSA34029_9.pkg",
+            "fileOffset": 18000000000,
+            "fileSize": 1981467648,
+            "hashValue": "3E7F10FB31C49B5BFC98A99C8AC98FC1EE799E77BB30D99D7437ED41355D24D3"
+        }
+    ]
+}
